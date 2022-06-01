@@ -5,6 +5,7 @@
       "blocks": {
         "vendor": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ product.vendor }}",
             "text_style": "uppercase"
@@ -69,6 +70,7 @@
         },
         "collapsible-row-2": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
