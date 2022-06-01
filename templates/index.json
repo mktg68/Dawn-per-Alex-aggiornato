@@ -208,6 +208,40 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1654085877bb4baed2": {
+      "type": "quiz",
+      "blocks": {
+        "77dc5de3-51ec-441e-a354-277c0f2c634c": {
+          "type": "Question_1",
+          "settings": {
+            "question_title": "Quale è il tuo gusto principale",
+            "subtitle": "",
+            "background": ""
+          }
+        },
+        "81df72f9-7039-4674-85bd-e9de4a760229": {
+          "type": "Answer",
+          "settings": {
+            "title": "Answer for question 1",
+            "answer": "ok hai rispo",
+            "type_filter": "",
+            "tags_filter": "",
+            "vendor_filter": "",
+            "price_filter_operator": ">",
+            "price_filter": "",
+            "option_filter": "bianco,",
+            "option_filter_values": ""
+          }
+        }
+      },
+      "block_order": [
+        "77dc5de3-51ec-441e-a354-277c0f2c634c",
+        "81df72f9-7039-4674-85bd-e9de4a760229"
+      ],
+      "settings": {
+        "filter_collection": ""
+      }
     }
   },
   "order": [
@@ -216,6 +250,7 @@
     "featured_collection",
     "collage",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "1654085877bb4baed2"
   ]
 }
