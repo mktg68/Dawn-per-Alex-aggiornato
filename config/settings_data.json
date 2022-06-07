@@ -120,8 +120,8 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/90FD8430-428E-402E-865D-4EFF6B544405.jpg",
-          "logo_width": 190,
+          "logo": "shopify:\/\/shop_images\/logo_alchimie_circe.png",
+          "logo_width": 250,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "menu_type_desktop": "dropdown",
