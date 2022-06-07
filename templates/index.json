@@ -2,6 +2,7 @@
   "sections": {
     "1654588232c80d0d73": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "16545882313a19e2a2-0": {
           "type": "slide",
@@ -103,6 +104,7 @@
     },
     "rich_text": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
