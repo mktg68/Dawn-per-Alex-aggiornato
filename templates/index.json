@@ -346,6 +346,33 @@
         "filter_collection": "cioccolato-in-barrette-natural-chocolate"
       }
     },
+    "165458846339a33a6e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "cioccolato bianco",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "sortilegi-della-maga-white-magic",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "165458833108947724": {
       "type": "collapsible-content",
       "disabled": true,
@@ -464,29 +491,74 @@
         "a_color": ""
       }
     },
-    "165458846339a33a6e": {
-      "type": "featured-collection",
+    "16545886362360f39d": {
+      "type": "featured-product",
+      "blocks": {
+        "1654588636c35f2944-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "1654588636c35f2944-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "1654588636c35f2944-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1654588636c35f2944-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1654588636c35f2944-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1654588636c35f2944-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1654588636c35f2944-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1654588636c35f2944-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1654588636c35f2944-0",
+        "1654588636c35f2944-1",
+        "1654588636c35f2944-2",
+        "1654588636c35f2944-3",
+        "1654588636c35f2944-4",
+        "1654588636c35f2944-5",
+        "1654588636c35f2944-6",
+        "1654588636c35f2944-7"
+      ],
       "settings": {
-        "title": "cioccolato bianco",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "sortilegi-della-maga-white-magic",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
+        "product": "petali-di-zafferano-del-circeo-10g",
         "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -502,8 +574,9 @@
     "165458823624187e23",
     "video",
     "1654085877bb4baed2",
+    "165458846339a33a6e",
     "165458833108947724",
     "16545883497f8cf782",
-    "165458846339a33a6e"
+    "16545886362360f39d"
   ]
 }
