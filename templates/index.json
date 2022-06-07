@@ -238,8 +238,8 @@
           "type": "Answer",
           "settings": {
             "title": "Answer for question 1",
-            "answer": "ok hai rispo",
-            "type_filter": "",
+            "answer": "Amarco,",
+            "type_filter": "amaro, bianco",
             "tags_filter": "",
             "vendor_filter": "",
             "price_filter_operator": ">",
