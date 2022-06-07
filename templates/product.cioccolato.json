@@ -59,13 +59,22 @@
             "page": ""
           }
         },
+        "collapsible-row-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Abbinamenti",
+            "icon": "heart",
+            "content": "<p>{{ product.metafields.my_fields.abbinamenti | metafield_tag }}<\/p>",
+            "page": ""
+          }
+        },
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shipping & Returns",
+            "heading": "Spedizioni e Rimborsi",
             "icon": "truck",
             "content": "",
-            "page": ""
+            "page": "spedizione-e-rimborsi"
           }
         },
         "collapsible-row-2": {
@@ -75,15 +84,6 @@
             "heading": "Dimensions",
             "icon": "ruler",
             "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-3": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Abbinamenti",
-            "icon": "heart",
-            "content": "<p>{{ product.metafields.my_fields.abbinamenti | metafield_tag }}<\/p>",
             "page": ""
           }
         },
@@ -104,9 +104,9 @@
         "buy_buttons",
         "description",
         "collapsible-row-0",
+        "collapsible-row-3",
         "collapsible-row-1",
         "collapsible-row-2",
-        "collapsible-row-3",
         "share"
       ],
       "settings": {
