@@ -2,23 +2,22 @@
   "sections": {
     "1654588232c80d0d73": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "16545882313a19e2a2-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CAB8DCC9-C402-4582-B02A-86E92A6C71EC.jpg",
-            "heading": "Image slide",
-            "heading_size": "h2",
+            "image": "shopify:\/\/shop_images\/PANORAMICA_SINGOLO_6_zoom.jpg",
+            "heading": "Coltiviamo e trasformiamo",
+            "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "image_overlay_opacity": 10,
+            "color_scheme": "accent-1",
             "text_alignment_mobile": "center"
           }
         },
