@@ -263,6 +263,40 @@
         "padding_bottom": 36
       }
     },
+    "165458823624187e23": {
+      "type": "newsletter",
+      "blocks": {
+        "16545882361fd74d66-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "16545882361fd74d66-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "16545882361fd74d66-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16545882361fd74d66-0",
+        "16545882361fd74d66-1",
+        "16545882361fd74d66-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "video": {
       "type": "video",
       "disabled": true,
@@ -311,6 +345,124 @@
       "settings": {
         "filter_collection": "cioccolato-in-barrette-natural-chocolate"
       }
+    },
+    "165458833108947724": {
+      "type": "collapsible-content",
+      "disabled": true,
+      "blocks": {
+        "1654588331c12a9cbf-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "1654588331c12a9cbf-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "1654588331c12a9cbf-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "1654588331c12a9cbf-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "1654588331c12a9cbf-0",
+        "1654588331c12a9cbf-1",
+        "1654588331c12a9cbf-2",
+        "1654588331c12a9cbf-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16545883497f8cf782": {
+      "type": "faq",
+      "blocks": {
+        "0e7b7b80-48aa-4b22-9176-0ad3b4a83706": {
+          "type": "faq",
+          "settings": {
+            "checkbox_expanded": false,
+            "title": "FAQ title",
+            "content": "<p>FAQ content<\/p>"
+          }
+        },
+        "7f529f6f-4fd5-4f47-9f07-495ff89dc31f": {
+          "type": "faq",
+          "settings": {
+            "checkbox_expanded": false,
+            "title": "FAQ title",
+            "content": "<p>FAQ content<\/p>"
+          }
+        },
+        "216d8621-5b88-48a5-8a1d-23562e459aa8": {
+          "type": "faq",
+          "settings": {
+            "checkbox_expanded": false,
+            "title": "FAQ title",
+            "content": "<p>FAQ content<\/p>"
+          }
+        },
+        "85eace9f-d931-4d36-a16d-94b3ad28a8e0": {
+          "type": "faq",
+          "settings": {
+            "checkbox_expanded": false,
+            "title": "FAQ title",
+            "content": "<p>FAQ content<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "0e7b7b80-48aa-4b22-9176-0ad3b4a83706",
+        "7f529f6f-4fd5-4f47-9f07-495ff89dc31f",
+        "216d8621-5b88-48a5-8a1d-23562e459aa8",
+        "85eace9f-d931-4d36-a16d-94b3ad28a8e0"
+      ],
+      "settings": {
+        "enable_rich_schema": true,
+        "max_width": "124rem",
+        "margin_top": 1,
+        "margin_bottom": 1,
+        "background_color": "#ffffff",
+        "border_color": "#eeeeee",
+        "panel_color": "#fdfdfd",
+        "q_size_small": 1,
+        "q_size_large": 1.4,
+        "q_color": "",
+        "a_color": ""
+      }
     }
   },
   "order": [
@@ -320,7 +472,10 @@
     "multicolumn",
     "featured_collection",
     "collage",
+    "165458823624187e23",
     "video",
-    "1654085877bb4baed2"
+    "1654085877bb4baed2",
+    "165458833108947724",
+    "16545883497f8cf782"
   ]
 }
