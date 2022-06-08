@@ -75,11 +75,39 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "1654692893144821a4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "tutti",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 16
+      }
     }
   },
   "order": [
     "165469204992f278dd",
     "main",
-    "165469213584581937"
+    "165469213584581937",
+    "1654692893144821a4"
   ]
 }
