@@ -66,10 +66,10 @@
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shipping & Returns",
+            "heading": "Spedizioni e rimborsi",
             "icon": "truck",
             "content": "",
-            "page": ""
+            "page": "spedizione-e-rimborsi"
           }
         },
         "collapsible-row-2": {
