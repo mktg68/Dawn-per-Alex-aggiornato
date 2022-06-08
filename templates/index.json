@@ -543,6 +543,48 @@
         "q_color": "",
         "a_color": ""
       }
+    },
+    "1654707496b217ff7c": {
+      "type": "rich-text",
+      "blocks": {
+        "16547074960cc0e3b9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Entra anche tu nel club del cioccolato.<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "16547074960cc0e3b9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Scopri le ultime novità e guiuadagna punti facendo rencesnioni o <\/p>"
+          }
+        },
+        "16547074960cc0e3b9-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16547074960cc0e3b9-0",
+        "16547074960cc0e3b9-1",
+        "16547074960cc0e3b9-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -557,6 +599,7 @@
     "16547072421a698d53",
     "1654697334b3514743",
     "16545886362360f39d",
-    "16545883497f8cf782"
+    "16545883497f8cf782",
+    "1654707496b217ff7c"
   ]
 }
