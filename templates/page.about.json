@@ -148,6 +148,50 @@
         "padding_bottom": 36
       }
     },
+    "16546852864c3adb0b": {
+      "type": "image-with-text",
+      "blocks": {
+        "1654685286b792d27b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "fantasia",
+            "heading_size": "h1"
+          }
+        },
+        "1654685286b792d27b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1654685286b792d27b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1654685286b792d27b-0",
+        "1654685286b792d27b-1",
+        "1654685286b792d27b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SINGOLO_3.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1654679966605c1006": {
       "type": "multicolumn",
       "disabled": true,
@@ -218,6 +262,7 @@
     "16546799368568d250",
     "main",
     "1654679847688dc4d2",
+    "16546852864c3adb0b",
     "1654679966605c1006",
     "16546851252a9f74fa"
   ]
