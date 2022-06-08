@@ -300,6 +300,7 @@
     },
     "165458846339a33a6e": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "cioccolato bianco",
         "heading_size": "h1",
