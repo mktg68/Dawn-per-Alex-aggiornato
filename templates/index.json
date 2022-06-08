@@ -234,7 +234,7 @@
         "16545882361fd74d66-0": {
           "type": "heading",
           "settings": {
-            "heading": "Subscribe to our emails",
+            "heading": "",
             "heading_size": "h1"
           }
         },
@@ -500,6 +500,48 @@
         "q_color": "",
         "a_color": ""
       }
+    },
+    "16547072421a698d53": {
+      "type": "rich-text",
+      "blocks": {
+        "1654707242c8a529c7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Equilibrio tra artigianalitá ed eccellenza<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1654707242c8a529c7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1654707242c8a529c7-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1654707242c8a529c7-0",
+        "1654707242c8a529c7-1",
+        "1654707242c8a529c7-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -513,6 +555,7 @@
     "165458846339a33a6e",
     "1654697334b3514743",
     "16545886362360f39d",
-    "16545883497f8cf782"
+    "16545883497f8cf782",
+    "16547072421a698d53"
   ]
 }
