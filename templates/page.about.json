@@ -255,6 +255,91 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1654685290eb07d008": {
+      "type": "faq",
+      "blocks": {
+        "149f7f0e-4e30-4b76-83e7-606d58506263": {
+          "type": "faq",
+          "settings": {
+            "checkbox_expanded": false,
+            "title": "FAQ title",
+            "content": "<p>FAQ content<\/p>"
+          }
+        },
+        "370268a2-14da-4962-8d2e-f3dff1567b31": {
+          "type": "faq",
+          "settings": {
+            "checkbox_expanded": false,
+            "title": "FAQ title",
+            "content": "<p>FAQ content<\/p>"
+          }
+        },
+        "26803564-b2fd-479f-a586-bd815b11d010": {
+          "type": "faq",
+          "settings": {
+            "checkbox_expanded": false,
+            "title": "FAQ title",
+            "content": "<p>FAQ content<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "149f7f0e-4e30-4b76-83e7-606d58506263",
+        "370268a2-14da-4962-8d2e-f3dff1567b31",
+        "26803564-b2fd-479f-a586-bd815b11d010"
+      ],
+      "settings": {
+        "enable_rich_schema": true,
+        "max_width": "64rem",
+        "margin_top": 1,
+        "margin_bottom": 1,
+        "background_color": "#ffffff",
+        "border_color": "#eeeeee",
+        "panel_color": "#fdfdfd",
+        "q_size_small": 1,
+        "q_size_large": 1.4,
+        "q_color": "",
+        "a_color": ""
+      }
+    },
+    "1654685398db8c8055": {
+      "type": "story-look",
+      "blocks": {
+        "63a81ea2-6281-4cc5-a120-403983eab2d8": {
+          "type": "storyLook",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Progetto_senza_titolo_36.png",
+            "title": "Il territorio: il Parco Naturale del Circeo",
+            "enable_info_card": true,
+            "richtext": "<p>The Pfaff Family have been manufacturing and retailing garments since 1908.<\/p>",
+            "btn_url": "",
+            "btn_label": "read more"
+          }
+        },
+        "0bb2a284-df13-476e-a7f0-cfcf58593039": {
+          "type": "storyLook",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.png",
+            "title": "Lo Zafferano",
+            "enable_info_card": true,
+            "richtext": "<p>The Pfaff Family have been manufacturing and retailing garments since 1908.<\/p>",
+            "btn_url": "",
+            "btn_label": "read more"
+          }
+        }
+      },
+      "block_order": [
+        "63a81ea2-6281-4cc5-a120-403983eab2d8",
+        "0bb2a284-df13-476e-a7f0-cfcf58593039"
+      ],
+      "settings": {
+        "bg_shape": "",
+        "bg_color": "",
+        "section_title": "",
+        "section_info": "",
+        "enable_overlay": true
+      }
     }
   },
   "order": [
@@ -264,6 +349,8 @@
     "1654679847688dc4d2",
     "16546852864c3adb0b",
     "1654679966605c1006",
-    "16546851252a9f74fa"
+    "16546851252a9f74fa",
+    "1654685290eb07d008",
+    "1654685398db8c8055"
   ]
 }
