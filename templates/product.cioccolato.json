@@ -326,6 +326,7 @@
     },
     "16545925931563bb4e": {
       "type": "tooltips",
+      "disabled": true,
       "blocks": {
         "1654592593e91451cf-0": {
           "type": "Tooltip",
