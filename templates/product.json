@@ -3,6 +3,11 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "ffd9dddc-2a5f-4d8b-8e63-85610e0f8510": {
+          "type": "shopify:\/\/apps\/ux-bundle\/blocks\/product-rating\/db56920d-adc9-4d8c-9ea5-72e338782247",
+          "settings": {
+          }
+        },
         "vendor": {
           "type": "text",
           "settings": {
@@ -93,6 +98,7 @@
         }
       },
       "block_order": [
+        "ffd9dddc-2a5f-4d8b-8e63-85610e0f8510",
         "vendor",
         "title",
         "caption",
