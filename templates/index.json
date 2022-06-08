@@ -530,6 +530,29 @@
         "padding_bottom": 8
       }
     },
+    "1654707965c64c9801": {
+      "type": "rich-text",
+      "blocks": {
+        "16547079657d43efd7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Faq<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16547079657d43efd7-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 8
+      }
+    },
     "16545883497f8cf782": {
       "type": "faq",
       "blocks": {
@@ -585,48 +608,6 @@
         "q_color": "",
         "a_color": ""
       }
-    },
-    "1654707965c64c9801": {
-      "type": "rich-text",
-      "blocks": {
-        "16547079657d43efd7-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Faq<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "16547079657d43efd7-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "16547079657d43efd7-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16547079657d43efd7-0",
-        "16547079657d43efd7-1",
-        "16547079657d43efd7-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -642,7 +623,7 @@
     "1654697334b3514743",
     "1654707496b217ff7c",
     "16545886362360f39d",
-    "16545883497f8cf782",
-    "1654707965c64c9801"
+    "1654707965c64c9801",
+    "16545883497f8cf782"
   ]
 }
