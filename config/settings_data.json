@@ -231,10 +231,52 @@
               "interaction_selectors_2": "",
               "interaction_event_2": "click"
             }
+          },
+          "af9ad561-7180-403b-862a-147d09572afa": {
+            "type": "app",
+            "settings": {
+              "title": "Geolocation",
+              "url": "geolocation-recommendations.shopifyapps.com\/selectors\/script.js",
+              "block_index": false,
+              "block_product": false,
+              "block_collection": false,
+              "block_page": false,
+              "block_blog": false,
+              "block_article": false,
+              "block_cart": false,
+              "block_search": false,
+              "block_customers": false,
+              "block_gift_card": false,
+              "scroll_index": false,
+              "scroll_product": false,
+              "scroll_collection": false,
+              "scroll_page": false,
+              "scroll_blog": false,
+              "scroll_article": false,
+              "scroll_cart": true,
+              "scroll_search": false,
+              "scroll_customers": true,
+              "scroll_gift_card": true,
+              "interaction_index": false,
+              "interaction_product": false,
+              "interaction_collection": false,
+              "interaction_page": false,
+              "interaction_blog": false,
+              "interaction_article": false,
+              "interaction_cart": false,
+              "interaction_search": false,
+              "interaction_customers": false,
+              "interaction_gift_card": false,
+              "interaction_selectors_1": "",
+              "interaction_event_1": "click",
+              "interaction_selectors_2": "",
+              "interaction_event_2": "click"
+            }
           }
         },
         "block_order": [
-          "a225d522-4e5b-43c4-9465-2dca0bc6b889"
+          "a225d522-4e5b-43c4-9465-2dca0bc6b889",
+          "af9ad561-7180-403b-862a-147d09572afa"
         ],
         "settings": {
           "enable": true,
