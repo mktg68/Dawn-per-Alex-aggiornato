@@ -170,7 +170,8 @@
         "f5167c79-7eb9-4fb4-a645-73257ca5388b": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "image": "shopify:\/\/shop_images\/9.png",
+            "title": "fantasia",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
