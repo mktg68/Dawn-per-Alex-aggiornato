@@ -63,10 +63,54 @@
         "padding_top": 8,
         "padding_bottom": 8
       }
+    },
+    "16547101303f40f158": {
+      "type": "product-kit",
+      "blocks": {
+        "3b9c09b3-0e97-4734-aace-a4a585dfbd7b": {
+          "type": "productKit",
+          "settings": {
+            "kit_color": "",
+            "kit_title": "Economy Nappy Kit",
+            "kit_label": "Fast Drying",
+            "kit_text_info": "",
+            "kit_contain_title": "Our Economy Kits contain:",
+            "kit_contain_info": "",
+            "product": "natural-chocolate-fichi-e-noci",
+            "save_percentage": "",
+            "btn_label": "shop now"
+          }
+        },
+        "1ceaa7ba-283f-4b4f-9eaf-b165490f15e6": {
+          "type": "productKit",
+          "settings": {
+            "kit_color": "",
+            "kit_title": "Economy Nappy Kit",
+            "kit_label": "Fast Drying",
+            "kit_text_info": "",
+            "kit_contain_title": "Our Economy Kits contain:",
+            "kit_contain_info": "",
+            "product": "natural-chocolate-mandarino-e-mandorla",
+            "save_percentage": "",
+            "btn_label": "shop now"
+          }
+        }
+      },
+      "block_order": [
+        "3b9c09b3-0e97-4734-aace-a4a585dfbd7b",
+        "1ceaa7ba-283f-4b4f-9eaf-b165490f15e6"
+      ],
+      "settings": {
+        "bg_shape": "",
+        "bg_color": "",
+        "section_title": "",
+        "section_info": ""
+      }
     }
   },
   "order": [
     "main",
-    "16547094464d1aced6"
+    "16547094464d1aced6",
+    "16547101303f40f158"
   ]
 }
