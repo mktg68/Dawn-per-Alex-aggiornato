@@ -1,0 +1,143 @@
+<div class="video-section-container">
+  <div class="row--container">
+      <div class="heading-row">
+        <h2>{{ section.settings.heading }}</h2>
+      </div>
+    {% for block in section.blocks %}
+    <div class="section-container-video">
+        <div class="video-content-part">
+          <div class="testimonial__frame">
+             <h5><a href="#" class="testimonial__trigger" data-title="XOCO" data-video="2qgwjseefj">{{ block.settings.video_title }}</a></h5>
+             <div class="testimonial__content__tag common-tag"><span>{{ block.settings.sub_text }}</span></div>
+             <h3 class="quote-v">{% if block.settings.content  %}“{{ block.settings.content }}”{% endif %}</h3>
+             <h4 class="author_name">{{ block.settings.author }}</h4>
+           </div>
+        </div>
+        <div class="video-part" style="">
+          <img class="video-img" src="{{ block.settings.image | img_url :"master" }}"/> 
+          <span onclick="loadiframe('{{ block.settings.iframe_url }}', '{{ block.settings.request_demo_url }}')"><svg width="10" height="14" viewBox="0 0 10 14" xmlns="http://www.w3.org/2000/svg"><path d="M1.522.088C1.394.015 1.23 0 1.092 0 .888 0 .7.053.53.158.236.35.03.665.013 1.015c-.017.105-.017 11.866 0 11.988.017.35.223.665.515.84.17.105.376.157.565.157.155 0 .3-.015.43-.087C6.528 10.95 9.45 7.98 9.623 7.84c.24-.21.376-.525.376-.84 0-.314-.138-.63-.378-.822-.172-.157-2.927-2.948-8.1-6.09z" fill="#FFF" fill-rule="evenodd"></path></svg></span>
+          <div class="logo-bottom">
+            <img class="" src="{{ block.settings.video_logo | img_url :"master" }}" alt="" {% comment %}width="70" height="20"{% endcomment %}>	
+          </div>
+        </div>
+    </div>
+  </div>  
+  {% endfor %}
+  
+</div>
+  
+
+
+<div class="modal model-content testimonials {% comment %}modal-open modal-visible{% endcomment %}">
+      <div class="modal__close common-close"><a href="javscript:void(0);"><svg width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg"><path d="M10.667 0L6 4.666 1.334 0 0 1.333 4.667 6 0 10.665 1.333 12 6 7.333 10.668 12 12 10.666 7.333 6 12 1.332 10.667 0z" fill="#36363D" fill-rule="evenodd"></path></svg></a></div>
+      <div class="modal__back"></div>
+      <div class="modal__table">
+        <div class="modal__cell">
+          <div class="modal__content">
+            <div class="container">
+              <div class="modal__content__headline"><h2>XOCO</h2></div>
+              <div class="modal__content__title"><h3>Arthur Mullen, Manager</h3></div>
+              <div class="modal__content__video"><div><iframe src="" title="Wistia video player" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" oallowfullscreen="" msallowfullscreen="" width="938" height="528" allow="fullscreen" style="width: 938px; height: 528px;"></iframe></div></div>
+              <div class="modal__content__note">
+                <p><span>Sound Tasty?</span> <a href="" class="common-button pill red">Request a Demo</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+</div>
+<script>
+  const common_close = document.querySelector(".common-close");
+  const model_content = document.querySelector(".model-content");
+  common_close.onclick = function() {closeFunction()};
+  const video_part = document.querySelector(".modal__content__video iframe");
+  const request_url = document.querySelector(".common-button");
+
+  
+  function loadiframe(url,requestUrl){
+    model_content.classList.add("modal-open");
+    model_content.classList.add("modal-visible");
+    video_part.src=url;  
+    request_url.href=requestUrl;
+  }
+  function closeFunction(){
+    model_content.classList.remove("modal-visible");
+    video_part.src="";  
+    return false;
+  }
+</script>
+{% schema %}
+  {
+    "name": "Video section",
+	"tag": "section",
+  	"class": "section",
+    "settings": [
+		{
+          "type": "header",
+          "content": "Heading"
+        },
+        {
+          "type": "text",
+          "id": "heading",
+          "label": "Title"
+        }
+	],
+	"blocks": [
+     {
+       "name": "Video Block",
+       "type": "video",
+       "settings": [
+         {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Background Image"
+         },
+		 {
+            "type": "text",
+            "id": "iframe_url",
+            "label": "Iframe Url"
+         },
+		 {
+           "type": "text",
+           "id": "video_title",
+           "label": "Title"
+         },
+		 {
+           "type": "text",
+           "id": "sub_text",
+           "label": "Sub Text"
+         },		 
+		 {
+            "type": "textarea",
+            "id": "content",
+            "label": "Content",
+            "default": "Sample content"
+          },
+          {
+             "type": "image_picker",
+             "id": "video_logo",
+             "label": "Logo"
+          },
+		  {
+           "type": "text",
+           "id": "author",
+           "label": "Author"
+          },
+		   {
+           "type": "text",
+           "id": "request_demo_url",
+           "label": "Request demo url"
+          }	
+       ]
+     }
+   ] ,
+  "presets": [
+    {
+      "name": "Video section"
+    }
+  ]
+}
+  {% endschema %}
+ 
+
+  
