@@ -1,0 +1,221 @@
+{
+  "sections": {
+    "165467982057b58b5b": {
+      "type": "slideshow",
+      "blocks": {
+        "1654679820084e7ea9-0": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "1654679820084e7ea9-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1654679820084e7ea9-0",
+        "1654679820084e7ea9-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1654679847688dc4d2": {
+      "type": "image-with-text",
+      "blocks": {
+        "1654679846d21c61bf-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Il laboratorio artigianale",
+            "heading_size": "h1"
+          }
+        },
+        "1654679846d21c61bf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Il laboratorio è il luogo dove vengono create le <strong>Alchimie di Circe.<\/strong> All''interno del nostro ampio terreno abbiamo costruito il luogo della nostra fantasia: in cui creaio<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1654679846d21c61bf-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1654679846d21c61bf-0",
+        "1654679846d21c61bf-1",
+        "1654679846d21c61bf-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/LOGO_ROTONDO_2022_TRASP.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16546799368568d250": {
+      "type": "rich-text",
+      "blocks": {
+        "1654679936421c6411-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Cosa facciamo nel laboratorio?<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1654679936421c6411-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1654679936421c6411-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1654679936421c6411-0",
+        "1654679936421c6411-1",
+        "1654679936421c6411-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1654679966605c1006": {
+      "type": "multicolumn",
+      "blocks": {
+        "1654679966ee7c16e3-0": {
+          "type": "column",
+          "settings": {
+            "title": "Alex",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1654679966ee7c16e3-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1654679966ee7c16e3-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1654679966ee7c16e3-0",
+        "1654679966ee7c16e3-1",
+        "1654679966ee7c16e3-2"
+      ],
+      "settings": {
+        "title": "il team",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16546851252a9f74fa": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "165467982057b58b5b",
+    "main",
+    "1654679847688dc4d2",
+    "16546799368568d250",
+    "1654679966605c1006",
+    "16546851252a9f74fa"
+  ]
+}
