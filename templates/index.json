@@ -230,6 +230,7 @@
     },
     "165458823624187e23": {
       "type": "newsletter",
+      "disabled": true,
       "blocks": {
         "16545882361fd74d66-0": {
           "type": "heading",
@@ -324,6 +325,48 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "16547072421a698d53": {
+      "type": "rich-text",
+      "blocks": {
+        "1654707242c8a529c7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Equilibrio tra artigianalitá ed eccellenza<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1654707242c8a529c7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Per ogni ingrediente che la nostra terra ha da offrire elaboriamo un alchimia..ricette della tradizione rivisitate o nuove sperimentazioni.<\/p><p>Alchimie di gusto, dolci o salate, con zafferano o senza, in armonia con le giuste combinazioni alimentari per una maggiore consapevolezza, di se e del territorio.<\/p>"
+          }
+        },
+        "1654707242c8a529c7-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "chi siamo",
+            "button_link": "shopify:\/\/pages\/chi-siamo",
+            "button_style_secondary": false,
+            "button_label_2": "il laboratorio",
+            "button_link_2": "shopify:\/\/pages\/il-laboratorio-artigianale",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1654707242c8a529c7-0",
+        "1654707242c8a529c7-1",
+        "1654707242c8a529c7-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1654697334b3514743": {
@@ -500,48 +543,6 @@
         "q_color": "",
         "a_color": ""
       }
-    },
-    "16547072421a698d53": {
-      "type": "rich-text",
-      "blocks": {
-        "1654707242c8a529c7-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Equilibrio tra artigianalitá ed eccellenza<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "1654707242c8a529c7-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Per ogni ingrediente che la nostra terra ha da offrire elaboriamo un alchimia..ricette della tradizione rivisitate o nuove sperimentazioni.<\/p><p>Alchimie di gusto, dolci o salate, con zafferano o senza, in armonia con le giuste combinazioni alimentari per una maggiore consapevolezza, di se e del territorio.<\/p>"
-          }
-        },
-        "1654707242c8a529c7-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "chi siamo",
-            "button_link": "shopify:\/\/pages\/chi-siamo",
-            "button_style_secondary": false,
-            "button_label_2": "il laboratorio",
-            "button_link_2": "shopify:\/\/pages\/il-laboratorio-artigianale",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1654707242c8a529c7-0",
-        "1654707242c8a529c7-1",
-        "1654707242c8a529c7-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -553,9 +554,9 @@
     "165458823624187e23",
     "1654085877bb4baed2",
     "165458846339a33a6e",
+    "16547072421a698d53",
     "1654697334b3514743",
     "16545886362360f39d",
-    "16545883497f8cf782",
-    "16547072421a698d53"
+    "16545883497f8cf782"
   ]
 }
