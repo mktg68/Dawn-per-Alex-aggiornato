@@ -50,6 +50,11 @@
             "show_dynamic_checkout": true
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "20992fe6-fb7c-4a73-96b1-818febb6e273": {
           "type": "custom_liquid",
           "settings": {
@@ -63,11 +68,6 @@
             "icon": "dairy",
             "content": "<p>{{ product.metafields.my_fields.ingradienti | metafield_text }}<\/p>",
             "page": ""
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
           }
         },
         "collapsible-row-1": {
@@ -116,9 +116,9 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "description",
         "20992fe6-fb7c-4a73-96b1-818febb6e273",
         "collapsible-row-0",
-        "description",
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
@@ -129,9 +129,9 @@
         "gallery_layout": "thumbnail_slider",
         "media_size": "medium",
         "mobile_thumbnails": "hide",
-        "hide_variants": true,
+        "hide_variants": false,
         "enable_video_looping": false,
-        "padding_top": 36,
+        "padding_top": 16,
         "padding_bottom": 12
       }
     },
@@ -173,6 +173,7 @@
     },
     "multicolumn": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column-0": {
           "type": "column",
