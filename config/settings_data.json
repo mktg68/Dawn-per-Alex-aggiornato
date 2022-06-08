@@ -187,6 +187,59 @@
         "settings": {
           "color_scheme": "background-1"
         }
+      },
+      "app-optimization": {
+        "type": "app-optimization",
+        "blocks": {
+          "a225d522-4e5b-43c4-9465-2dca0bc6b889": {
+            "type": "app",
+            "settings": {
+              "title": "Banner",
+              "url": "cdn.shopify.com\/shopifycloud\/privacy-banner\/storefront-banner.js",
+              "block_index": false,
+              "block_product": false,
+              "block_collection": false,
+              "block_page": false,
+              "block_blog": false,
+              "block_article": false,
+              "block_cart": true,
+              "block_search": true,
+              "block_customers": false,
+              "block_gift_card": false,
+              "scroll_index": false,
+              "scroll_product": true,
+              "scroll_collection": true,
+              "scroll_page": true,
+              "scroll_blog": true,
+              "scroll_article": true,
+              "scroll_cart": false,
+              "scroll_search": false,
+              "scroll_customers": true,
+              "scroll_gift_card": true,
+              "interaction_index": false,
+              "interaction_product": false,
+              "interaction_collection": false,
+              "interaction_page": false,
+              "interaction_blog": false,
+              "interaction_article": false,
+              "interaction_cart": false,
+              "interaction_search": false,
+              "interaction_customers": false,
+              "interaction_gift_card": false,
+              "interaction_selectors_1": "",
+              "interaction_event_1": "click",
+              "interaction_selectors_2": "",
+              "interaction_event_2": "click"
+            }
+          }
+        },
+        "block_order": [
+          "a225d522-4e5b-43c4-9465-2dca0bc6b889"
+        ],
+        "settings": {
+          "enable": true,
+          "debug_enable": false
+        }
       }
     },
     "content_for_index": [
