@@ -263,6 +263,7 @@
     },
     "1654085877bb4baed2": {
       "type": "quiz",
+      "disabled": true,
       "blocks": {
         "77dc5de3-51ec-441e-a354-277c0f2c634c": {
           "type": "Question_1",
