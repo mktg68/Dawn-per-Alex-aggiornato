@@ -94,15 +94,30 @@
             "save_percentage": "",
             "btn_label": "shop now"
           }
+        },
+        "dc262cdb-8c9e-4a85-8b0b-cdb79f3d6d45": {
+          "type": "productKit",
+          "settings": {
+            "kit_color": "",
+            "kit_title": "Economy Nappy Kit",
+            "kit_label": "Fast Drying",
+            "kit_text_info": "",
+            "kit_contain_title": "Our Economy Kits contain:",
+            "kit_contain_info": "",
+            "product": "",
+            "save_percentage": "",
+            "btn_label": "shop now"
+          }
         }
       },
       "block_order": [
         "3b9c09b3-0e97-4734-aace-a4a585dfbd7b",
-        "1ceaa7ba-283f-4b4f-9eaf-b165490f15e6"
+        "1ceaa7ba-283f-4b4f-9eaf-b165490f15e6",
+        "dc262cdb-8c9e-4a85-8b0b-cdb79f3d6d45"
       ],
       "settings": {
         "bg_shape": "",
-        "bg_color": "",
+        "bg_color": "#ffdb00",
         "section_title": "",
         "section_info": ""
       }
