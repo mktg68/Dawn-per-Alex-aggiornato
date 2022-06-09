@@ -102,11 +102,10 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Welcome to our store",
-              "color_scheme": "background-1",
-              "link": ""
+              "text": "Spedizione gratuita per ordini superiori ai 60€",
+              "color_scheme": "inverse",
+              "link": "shopify:\/\/policies\/shipping-policy"
             }
           }
         },
