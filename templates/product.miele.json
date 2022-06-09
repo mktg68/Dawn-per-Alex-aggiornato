@@ -105,6 +105,13 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "0d018bd2-505a-4af0-8890-27ead1a9a8ea": {
+          "type": "popup",
+          "settings": {
+            "text": "^_~",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -122,7 +129,8 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share"
+        "share",
+        "0d018bd2-505a-4af0-8890-27ead1a9a8ea"
       ],
       "settings": {
         "enable_sticky_info": true,
