@@ -112,6 +112,13 @@
             "text": "🛡️garanzia",
             "page": "spedizione-e-rimborsi"
           }
+        },
+        "48d6a1b2-cecc-4f42-9a04-91ab0acb00f3": {
+          "type": "popup",
+          "settings": {
+            "text": "💳PAGAMENTI",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -130,7 +137,8 @@
         "collapsible-row-2",
         "collapsible-row-3",
         "share",
-        "0d018bd2-505a-4af0-8890-27ead1a9a8ea"
+        "0d018bd2-505a-4af0-8890-27ead1a9a8ea",
+        "48d6a1b2-cecc-4f42-9a04-91ab0acb00f3"
       ],
       "settings": {
         "enable_sticky_info": true,
