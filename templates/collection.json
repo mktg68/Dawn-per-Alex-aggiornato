@@ -32,7 +32,7 @@
         "1655216264ddc18e6f-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "Ingredienti naturali",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -41,7 +41,7 @@
         "1655216264ddc18e6f-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "Poche calorie",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -50,7 +50,7 @@
         "1655216264ddc18e6f-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "Rispetto per l'ambiente",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -63,7 +63,7 @@
         "1655216264ddc18e6f-2"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "i nostri prodotti",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
