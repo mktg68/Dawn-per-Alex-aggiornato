@@ -57,7 +57,7 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Ingradienti",
+            "heading": "Ingredienti",
             "icon": "dairy",
             "content": "<p>{{ product.metafields.my_fields.ingradienti | metafield_text }}<\/p>",
             "page": ""
