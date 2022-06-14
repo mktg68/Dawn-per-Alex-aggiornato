@@ -86,14 +86,15 @@
         "51c4e4af-24bf-496a-98f3-83df65318eb5": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/1.jpg",
             "image_padding": false
           }
         },
         "16552164745d18be7b-1": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false
+            "product": "sortilegi-della-maga-white-magic-mandarino-e-mandorla",
+            "second_image": true
           }
         },
         "b6fff0c9-1140-435c-9f74-0114e573c113": {
