@@ -138,14 +138,29 @@
         "padding_bottom": 12
       }
     },
+    "165528612792a5ca63": {
+      "type": "apps",
+      "blocks": {
+        "c3948f63-fdfd-48a8-b11c-728b81e88832": {
+          "type": "shopify:\/\/apps\/ux-bundle\/blocks\/customer-reviews\/db56920d-adc9-4d8c-9ea5-72e338782247",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "c3948f63-fdfd-48a8-b11c-728b81e88832"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Il nostro miele",
             "heading_size": "h1"
           }
         },
@@ -162,6 +177,7 @@
         "image-with-text-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/MIELE_Ambra_di_Circe.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -172,22 +188,6 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "165528612792a5ca63": {
-      "type": "apps",
-      "blocks": {
-        "c3948f63-fdfd-48a8-b11c-728b81e88832": {
-          "type": "shopify:\/\/apps\/ux-bundle\/blocks\/customer-reviews\/db56920d-adc9-4d8c-9ea5-72e338782247",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "c3948f63-fdfd-48a8-b11c-728b81e88832"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "multicolumn": {
@@ -271,8 +271,8 @@
   },
   "order": [
     "main",
-    "image-with-text",
     "165528612792a5ca63",
+    "image-with-text",
     "multicolumn",
     "product-recommendations",
     "1654766361fc2d668b"
