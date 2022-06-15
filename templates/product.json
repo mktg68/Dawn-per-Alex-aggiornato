@@ -74,11 +74,10 @@
         },
         "collapsible-row-2": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "heading": "Dimensions",
-            "icon": "ruler",
-            "content": "",
+            "heading": "Valori nutrizionali",
+            "icon": "heart",
+            "content": "<p>{{ product.metafields.my_fields.valori_nutrizionali | metafield_tag }}<\/p>",
             "page": ""
           }
         },
