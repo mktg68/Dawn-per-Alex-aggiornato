@@ -63,15 +63,6 @@
             "page": ""
           }
         },
-        "collapsible-row-1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Spedizioni e rimborsi",
-            "icon": "truck",
-            "content": "",
-            "page": "spedizione-e-rimborsi"
-          }
-        },
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
@@ -83,12 +74,20 @@
         },
         "collapsible-row-3": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "heading": "Care Instructions",
-            "icon": "heart",
+            "heading": "Consigli per la conservazione",
+            "icon": "box",
             "content": "",
             "page": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Spedizioni e rimborsi",
+            "icon": "truck",
+            "content": "",
+            "page": "spedizione-e-rimborsi"
           }
         },
         "share": {
@@ -115,9 +114,9 @@
         "buy_buttons",
         "description",
         "collapsible-row-0",
-        "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
+        "collapsible-row-1",
         "share",
         "2bd5c237-93ef-4abe-897e-2e30d90eb574"
       ],
