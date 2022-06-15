@@ -107,10 +107,19 @@
               "color_scheme": "inverse",
               "link": "shopify:\/\/policies\/shipping-policy"
             }
+          },
+          "6af71c5a-1261-4cd7-aee8-d22292394591": {
+            "type": "announcement",
+            "settings": {
+              "text": "Welcome to our store",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
           }
         },
         "block_order": [
-          "announcement-bar-0"
+          "announcement-bar-0",
+          "6af71c5a-1261-4cd7-aee8-d22292394591"
         ],
         "settings": {
         }
