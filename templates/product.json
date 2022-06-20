@@ -78,6 +78,15 @@
             "page": ""
           }
         },
+        "02d1e0a0-b2c8-4502-895e-eba24daa7c8f": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Abbinamenti",
+            "icon": "check_mark",
+            "content": "",
+            "page": ""
+          }
+        },
         "collapsible-row-3": {
           "type": "collapsible_tab",
           "settings": {
@@ -122,6 +131,7 @@
         "description",
         "collapsible-row-0",
         "collapsible-row-2",
+        "02d1e0a0-b2c8-4502-895e-eba24daa7c8f",
         "collapsible-row-3",
         "collapsible-row-1",
         "share",
