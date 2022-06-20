@@ -244,6 +244,46 @@
         "padding_bottom": 36
       }
     },
+    "16557461536bd74b28": {
+      "type": "collage",
+      "blocks": {
+        "68a720d4-ce73-4570-b4c8-2028c3fa4355": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_9d4e7afb-b786-4b9b-a068-3ae2e15a02c7.jpg",
+            "image_padding": false
+          }
+        },
+        "165574615363fd6adc-1": {
+          "type": "product",
+          "settings": {
+            "product": "sortilegi-dell-maga-mandarino-e-mandorla-box-da-5",
+            "second_image": false
+          }
+        },
+        "79ca00cb-378e-47ba-baa9-cab22882337d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.jpg",
+            "image_padding": true
+          }
+        }
+      },
+      "block_order": [
+        "68a720d4-ce73-4570-b4c8-2028c3fa4355",
+        "165574615363fd6adc-1",
+        "79ca00cb-378e-47ba-baa9-cab22882337d"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1655743488338a647d": {
       "type": "image-with-text",
       "blocks": {
@@ -320,46 +360,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "16557461536bd74b28": {
-      "type": "collage",
-      "blocks": {
-        "68a720d4-ce73-4570-b4c8-2028c3fa4355": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_9d4e7afb-b786-4b9b-a068-3ae2e15a02c7.jpg",
-            "image_padding": false
-          }
-        },
-        "165574615363fd6adc-1": {
-          "type": "product",
-          "settings": {
-            "product": "sortilegi-dell-maga-mandarino-e-mandorla-box-da-5",
-            "second_image": false
-          }
-        },
-        "79ca00cb-378e-47ba-baa9-cab22882337d": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1.jpg",
-            "image_padding": true
-          }
-        }
-      },
-      "block_order": [
-        "68a720d4-ce73-4570-b4c8-2028c3fa4355",
-        "165574615363fd6adc-1",
-        "79ca00cb-378e-47ba-baa9-cab22882337d"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -367,9 +367,9 @@
     "165528594679f57dfa",
     "image-with-text",
     "multicolumn",
+    "16557461536bd74b28",
     "1655743488338a647d",
     "product-recommendations",
-    "1654766361fc2d668b",
-    "16557461536bd74b28"
+    "1654766361fc2d668b"
   ]
 }
