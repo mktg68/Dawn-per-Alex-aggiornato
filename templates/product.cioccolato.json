@@ -97,6 +97,15 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "2c725bad-960b-4cdd-a050-4e33c3915df4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Valori nutrizionali",
+            "icon": "heart",
+            "content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -113,7 +122,8 @@
         "collapsible-row-3",
         "ca0abcfe-207d-4e65-b17b-d874af983d37",
         "collapsible-row-1",
-        "share"
+        "share",
+        "2c725bad-960b-4cdd-a050-4e33c3915df4"
       ],
       "settings": {
         "enable_sticky_info": true,
