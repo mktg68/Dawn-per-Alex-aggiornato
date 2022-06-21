@@ -195,6 +195,43 @@
         "padding_bottom": 36
       }
     },
+    "1655801071ea1992d2": {
+      "type": "collage",
+      "blocks": {
+        "e83f9fe8-53f6-4f51-ad68-475ca1265d64": {
+          "type": "image",
+          "settings": {
+            "image_padding": false
+          }
+        },
+        "f99061aa-a3a7-4e5c-9e6b-946d51907f03": {
+          "type": "image",
+          "settings": {
+            "image_padding": false
+          }
+        },
+        "5cb5af69-97ba-46b2-a3a0-352b07c9d509": {
+          "type": "image",
+          "settings": {
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "e83f9fe8-53f6-4f51-ad68-475ca1265d64",
+        "f99061aa-a3a7-4e5c-9e6b-946d51907f03",
+        "5cb5af69-97ba-46b2-a3a0-352b07c9d509"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1654591691953b242f": {
       "type": "image-with-text",
       "blocks": {
@@ -300,41 +337,6 @@
         "padding_bottom": 28
       }
     },
-    "16545925931563bb4e": {
-      "type": "tooltips",
-      "disabled": true,
-      "blocks": {
-        "1654592593e91451cf-0": {
-          "type": "Tooltip",
-          "settings": {
-            "title": "Tooltip title",
-            "content": "I am a tooltip, I provide additional explanatory content and showcase product features.",
-            "top": 50,
-            "left": 50
-          }
-        },
-        "7fdd3625-c6dc-4b29-9748-981a373591be": {
-          "type": "Tooltip",
-          "settings": {
-            "title": "Tooltip title",
-            "content": "I am a tooltip, I provide additional explanatory content and showcase product features.",
-            "top": 34,
-            "left": 50
-          }
-        }
-      },
-      "block_order": [
-        "1654592593e91451cf-0",
-        "7fdd3625-c6dc-4b29-9748-981a373591be"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/SINGOLO_3.jpg",
-        "tooltip_color": "#ffffff",
-        "tooltip_background_color": "#64cbdf",
-        "tooltip_focus_color": "#ff0000",
-        "breakpoint": "768"
-      }
-    },
     "16547111971055b3f4": {
       "type": "featured-blog",
       "settings": {
@@ -357,10 +359,10 @@
     "main",
     "1654686536910665d1",
     "image-with-text",
+    "1655801071ea1992d2",
     "1654591691953b242f",
     "multicolumn",
     "product-recommendations",
-    "16545925931563bb4e",
     "16547111971055b3f4"
   ]
 }
