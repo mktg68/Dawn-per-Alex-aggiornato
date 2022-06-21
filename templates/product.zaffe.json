@@ -171,7 +171,7 @@
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "Il nostro miele",
+            "heading": "Il nostro zafferano",
             "heading_size": "h1"
           }
         },
@@ -188,7 +188,7 @@
         "image-with-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MIELE_Ambra_di_Circe.jpg",
+        "image": "shopify:\/\/shop_images\/1.png",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -258,8 +258,8 @@
         "165574615363fd6adc-1": {
           "type": "product",
           "settings": {
-            "product": "sortilegi-dell-maga-mandarino-e-mandorla-box-da-5",
-            "second_image": false
+            "product": "miele-allo-zafferano-ambra-di-circe",
+            "second_image": true
           }
         },
         "79ca00cb-378e-47ba-baa9-cab22882337d": {
