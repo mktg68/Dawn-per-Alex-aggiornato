@@ -76,8 +76,8 @@
         "ca0abcfe-207d-4e65-b17b-d874af983d37": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
+            "heading": "Consigli per la conservazione",
+            "icon": "box",
             "content": "",
             "page": ""
           }
