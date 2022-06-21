@@ -201,18 +201,21 @@
         "e83f9fe8-53f6-4f51-ad68-475ca1265d64": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/red-foiled-chocolate-hearts-in-shape-of-a-heart.jpg",
             "image_padding": false
           }
         },
         "f99061aa-a3a7-4e5c-9e6b-946d51907f03": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/chocolate-brownie-in-tray.jpg",
             "image_padding": false
           }
         },
         "5cb5af69-97ba-46b2-a3a0-352b07c9d509": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/three-ice-cream-bars-hang-from-clothespins-upside-down.jpg",
             "image_padding": false
           }
         }
