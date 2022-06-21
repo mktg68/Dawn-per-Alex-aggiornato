@@ -68,7 +68,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Abbinamenti",
-            "icon": "heart",
+            "icon": "eye",
             "content": "<p>{{ product.metafields.my_fields.abbinamenti | metafield_tag }}<\/p>",
             "page": ""
           }
