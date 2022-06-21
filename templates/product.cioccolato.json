@@ -58,7 +58,7 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Ingradienti",
+            "heading": "Ingredienti",
             "icon": "eye",
             "content": "<p>{{ product.metafields.my_fields.ingradienti | metafield_text }}<\/p>",
             "page": ""
@@ -73,6 +73,15 @@
             "page": ""
           }
         },
+        "ca0abcfe-207d-4e65-b17b-d874af983d37": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "content": "",
+            "page": ""
+          }
+        },
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "disabled": true,
@@ -81,15 +90,6 @@
             "icon": "truck",
             "content": "",
             "page": "spedizione-e-rimborsi"
-          }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Dimensions",
-            "icon": "ruler",
-            "content": "",
-            "page": ""
           }
         },
         "share": {
@@ -111,8 +111,8 @@
         "description",
         "collapsible-row-0",
         "collapsible-row-3",
+        "ca0abcfe-207d-4e65-b17b-d874af983d37",
         "collapsible-row-1",
-        "collapsible-row-2",
         "share"
       ],
       "settings": {
