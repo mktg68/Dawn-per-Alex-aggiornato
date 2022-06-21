@@ -78,7 +78,7 @@
           "settings": {
             "heading": "Valori nutrizionali",
             "icon": "heart",
-            "content": "",
+            "content": "<p>{{ product.metafields.my_fields.valori_nutrizionali | metafield_tag }}<\/p>",
             "page": ""
           }
         },
@@ -87,7 +87,7 @@
           "settings": {
             "heading": "Consigli per la conservazione",
             "icon": "box",
-            "content": "",
+            "content": "<p>{{ product.metafields.custom.consigli_per_la_conservazione | metafield_tag }}<\/p>",
             "page": ""
           }
         },
