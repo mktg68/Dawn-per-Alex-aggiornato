@@ -59,7 +59,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Ingredienti",
-            "icon": "eye",
+            "icon": "dairy",
             "content": "<p>{{ product.metafields.my_fields.ingradienti | metafield_text }}<\/p>",
             "page": ""
           }
