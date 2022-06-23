@@ -25,6 +25,11 @@
 <noscript>{{ 'component-menu-drawer.css' | asset_url | stylesheet_tag }}</noscript>
 <noscript>{{ 'component-cart-notification.css' | asset_url | stylesheet_tag }}</noscript>
 <noscript>{{ 'component-cart-items.css' | asset_url | stylesheet_tag }}</noscript>
+{%- if settings.wave_unable == "true" -%}
+              {% render 'wave' %}
+{%- endif -%}
+
+
 
 <style>
   header-drawer {
