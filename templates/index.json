@@ -612,7 +612,7 @@
     "16559804749d2fd002": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "{%- if settings.include_waves == \"true\" -%}\n              {% render 'waves' %}\n{%- endif -%}",
+        "custom_liquid": "{% render 'waves' %}",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
