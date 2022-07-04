@@ -7,18 +7,18 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/1.jpg",
-            "heading": "Coltiviamo e trasformiamo",
+            "heading": "laboratorio artigianale e azienda agricola",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
+            "subheading": "coltiviamo gli ingredienti che trasformiamo",
+            "button_label": "su di noi",
+            "link": "shopify:\/\/pages\/chi-siamo",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": false,
+            "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 10,
-            "color_scheme": "accent-1",
-            "text_alignment_mobile": "center"
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "left"
           }
         },
         "16545882313a19e2a2-1": {
