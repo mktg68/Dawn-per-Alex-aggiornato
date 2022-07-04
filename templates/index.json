@@ -471,7 +471,7 @@
     "16569526227d0a1812": {
       "type": "text-with-background",
       "settings": {
-        "bg_color": "#fff",
+        "bg_color": "#ff6008",
         "title": "Nuova Alchimia!",
         "info": "<p>scopri il nostro ultimo prodotto in uscita questo mese..<\/p>",
         "btn_url": "\/",
@@ -686,7 +686,7 @@
         "16545882361fd74d66-2"
       ],
       "settings": {
-        "color_scheme": "accent-1",
+        "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
