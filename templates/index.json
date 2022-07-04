@@ -352,7 +352,6 @@
     },
     "1654085877bb4baed2": {
       "type": "quiz",
-      "disabled": true,
       "blocks": {
         "77dc5de3-51ec-441e-a354-277c0f2c634c": {
           "type": "Question_1",
@@ -509,14 +508,14 @@
         "16547074960cc0e3b9-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Entra anche tu nel club del cioccolato.<\/p>",
+            "heading": "<p>Entra nel Club delle Alchimie..<\/p>",
             "heading_size": "h1"
           }
         },
         "16547074960cc0e3b9-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Scopri le ultime novità e guiuadagna punti facendo rencesnioni o invitando amici.<\/p>"
+            "text": "<p>Il nostro programma fedeltà per vincere sconti, premi e sorprese..scopri come..<\/p>"
           }
         },
         "16547074960cc0e3b9-2": {
