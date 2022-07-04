@@ -1,15 +1,15 @@
 {
   "current": {
-    "colors_solid_button_labels": "#ffdb00",
-    "colors_accent_1": "#121212",
+    "colors_solid_button_labels": "#050000",
+    "colors_accent_1": "#fad806",
     "gradient_accent_1": "",
-    "colors_accent_2": "#334fb4",
+    "colors_accent_2": "#fad806",
     "gradient_accent_2": "",
     "colors_text": "#121212",
-    "colors_outline_button_labels": "#121212",
+    "colors_outline_button_labels": "#ff6008",
     "colors_background_1": "#ffffff",
     "gradient_background_1": "",
-    "colors_background_2": "#f3f3f3",
+    "colors_background_2": "#ff8208",
     "gradient_background_2": "",
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
@@ -137,7 +137,7 @@
           "61ca4868-4167-4d1f-9973-678b13bc1c89": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/logo_alchimie_circe.png",
+              "image": "shopify:\/\/shop_images\/LOGO_rettangolo_2022.jpg",
               "image_width": 200,
               "alignment": ""
             }
@@ -172,7 +172,7 @@
           "footer-1"
         ],
         "settings": {
-          "color_scheme": "accent-1",
+          "color_scheme": "accent-2",
           "newsletter_enable": true,
           "newsletter_heading": "Iscriviti alla nostra newsletter",
           "show_social": true,
