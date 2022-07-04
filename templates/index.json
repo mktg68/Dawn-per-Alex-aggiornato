@@ -443,6 +443,7 @@
     },
     "1656952268d870b704": {
       "type": "highlight-banner",
+      "disabled": true,
       "blocks": {
         "16569522674265b72f-3": {
           "type": "image",
@@ -477,6 +478,16 @@
         "btn_label": "più info",
         "padding_top": 12,
         "padding_bottom": 20
+      }
+    },
+    "165695293894235f4e": {
+      "type": "story-look",
+      "settings": {
+        "bg_shape": "",
+        "bg_color": "#fff",
+        "section_title": "Nuova Alchimia!",
+        "section_info": "<p>scopri il nostro ultimo prodotto in uscita questo mese..<\/p>",
+        "enable_overlay": true
       }
     },
     "16545886362360f39d": {
@@ -747,6 +758,7 @@
     "16547072421a698d53",
     "1656952268d870b704",
     "16569526227d0a1812",
+    "165695293894235f4e",
     "16545886362360f39d",
     "featured_collection",
     "1654707496b217ff7c",
