@@ -93,8 +93,8 @@
         "content_alignment": "center",
         "color_scheme": "accent-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 20,
+        "padding_bottom": 0
       }
     },
     "image_banner": {
@@ -284,8 +284,8 @@
         "content_alignment": "center",
         "color_scheme": "accent-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 8,
+        "padding_bottom": 12
       }
     },
     "1654697334b3514743": {
@@ -328,11 +328,11 @@
         "image_ratio": "square",
         "columns_desktop": 4,
         "color_scheme": "background-1",
-        "show_view_all": false,
-        "columns_mobile": "1",
+        "show_view_all": true,
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 20,
+        "padding_bottom": 4
       }
     },
     "1654085877bb4baed2": {
@@ -664,7 +664,7 @@
         "16545882361fd74d66-0": {
           "type": "heading",
           "settings": {
-            "heading": "Iscriviti alla nostra Newsletter",
+            "heading": "Iscriviti alla Newsletter e ottieni il 15% di sconto",
             "heading_size": "h1"
           }
         },
@@ -686,7 +686,7 @@
         "16545882361fd74d66-2"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
