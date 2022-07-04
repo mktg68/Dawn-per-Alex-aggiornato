@@ -54,6 +54,49 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "16569501690775bac4": {
+      "type": "rich-text",
+      "blocks": {
+        "165695016975e86f0d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Naturale<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "165695016975e86f0d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "165695016975e86f0d-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "165695016975e86f0d-0",
+        "165695016975e86f0d-1",
+        "165695016975e86f0d-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "disabled": true,
@@ -136,6 +179,7 @@
     },
     "multicolumn": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
@@ -199,6 +243,49 @@
         "swipe_on_mobile": true,
         "padding_top": 8,
         "padding_bottom": 8
+      }
+    },
+    "1656950237cedfd9b6": {
+      "type": "rich-text",
+      "blocks": {
+        "16569502376cd2991a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Fantasia<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "16569502376cd2991a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "16569502376cd2991a-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16569502376cd2991a-0",
+        "16569502376cd2991a-1",
+        "16569502376cd2991a-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "featured_collection": {
@@ -612,9 +699,11 @@
   },
   "order": [
     "1654588232c80d0d73",
+    "16569501690775bac4",
     "image_banner",
     "rich_text",
     "multicolumn",
+    "1656950237cedfd9b6",
     "featured_collection",
     "165458823624187e23",
     "1654085877bb4baed2",
