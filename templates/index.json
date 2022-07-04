@@ -288,30 +288,50 @@
         "padding_bottom": 52
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
+    "1654697334b3514743": {
+      "type": "collection-list",
+      "blocks": {
+        "165469733402a550c6-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cioccolato-in-barrette-natural-chocolate"
+          }
+        },
+        "165469733402a550c6-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "frontpage"
+          }
+        },
+        "165469733402a550c6-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sortilegi-della-maga-white-magic"
+          }
+        },
+        "3d0a40d6-06a5-4774-915c-547f32a07dd7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "zafferano-del-circeo"
+          }
+        }
+      },
+      "block_order": [
+        "165469733402a550c6-0",
+        "165469733402a550c6-1",
+        "165469733402a550c6-2",
+        "3d0a40d6-06a5-4774-915c-547f32a07dd7"
+      ],
       "settings": {
-        "title": "Cioccolatini dark",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "frontpage",
-        "products_to_show": 12,
-        "columns_desktop": 5,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
+        "title": "Collections",
+        "heading_size": "h1",
         "image_ratio": "square",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -421,50 +441,128 @@
         "padding_bottom": 52
       }
     },
-    "1654697334b3514743": {
-      "type": "collection-list",
+    "1656952268d870b704": {
+      "type": "highlight-banner",
       "blocks": {
-        "165469733402a550c6-0": {
-          "type": "featured_collection",
+        "16569522674265b72f-3": {
+          "type": "image",
           "settings": {
-            "collection": "cioccolato-in-barrette-natural-chocolate"
-          }
-        },
-        "165469733402a550c6-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "frontpage"
-          }
-        },
-        "165469733402a550c6-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "sortilegi-della-maga-white-magic"
-          }
-        },
-        "3d0a40d6-06a5-4774-915c-547f32a07dd7": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "zafferano-del-circeo"
+            "svg_select": "no_icon",
+            "svg_icon_color": "#3a3a3a",
+            "text_one": "Nuovo prodotto",
+            "header_font_size": 21,
+            "font_style": "normal",
+            "text_two": "la nuova Alchimia di questo mese:",
+            "secondary_font_size": 13
           }
         }
       },
       "block_order": [
-        "165469733402a550c6-0",
-        "165469733402a550c6-1",
-        "165469733402a550c6-2",
-        "3d0a40d6-06a5-4774-915c-547f32a07dd7"
+        "16569522674265b72f-3"
       ],
       "settings": {
-        "title": "Collections",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 4,
+        "padding_height": 0,
+        "font_color": "#ffdb00",
+        "background_color": "#050000",
+        "display_flow": "horizontal"
+      }
+    },
+    "16545886362360f39d": {
+      "type": "featured-product",
+      "blocks": {
+        "1654588636c35f2944-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "1654588636c35f2944-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "1654588636c35f2944-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1654588636c35f2944-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1654588636c35f2944-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1654588636c35f2944-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1654588636c35f2944-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1654588636c35f2944-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1654588636c35f2944-0",
+        "1654588636c35f2944-1",
+        "1654588636c35f2944-2",
+        "1654588636c35f2944-3",
+        "1654588636c35f2944-4",
+        "1654588636c35f2944-5",
+        "1654588636c35f2944-6",
+        "1654588636c35f2944-7"
+      ],
+      "settings": {
+        "product": "miele-allo-zafferano-ambra-di-circe",
         "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Cioccolatini dark",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "frontpage",
+        "products_to_show": 12,
+        "columns_desktop": 5,
+        "full_width": true,
         "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
         "padding_bottom": 36
       }
     },
@@ -542,78 +640,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "16545886362360f39d": {
-      "type": "featured-product",
-      "blocks": {
-        "1654588636c35f2944-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "1654588636c35f2944-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "1654588636c35f2944-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "1654588636c35f2944-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "1654588636c35f2944-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "1654588636c35f2944-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "1654588636c35f2944-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "1654588636c35f2944-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "1654588636c35f2944-0",
-        "1654588636c35f2944-1",
-        "1654588636c35f2944-2",
-        "1654588636c35f2944-3",
-        "1654588636c35f2944-4",
-        "1654588636c35f2944-5",
-        "1654588636c35f2944-6",
-        "1654588636c35f2944-7"
-      ],
-      "settings": {
-        "product": "miele-allo-zafferano-ambra-di-circe",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 8,
-        "padding_bottom": 8
       }
     },
     "1654707965c64c9801": {
@@ -703,14 +729,15 @@
     "rich_text",
     "multicolumn",
     "1656950237cedfd9b6",
-    "featured_collection",
+    "1654697334b3514743",
     "1654085877bb4baed2",
     "165458846339a33a6e",
     "16547072421a698d53",
-    "1654697334b3514743",
+    "1656952268d870b704",
+    "16545886362360f39d",
+    "featured_collection",
     "1654707496b217ff7c",
     "165458823624187e23",
-    "16545886362360f39d",
     "1654707965c64c9801",
     "16545883497f8cf782"
   ]
