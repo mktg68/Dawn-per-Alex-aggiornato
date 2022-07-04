@@ -315,43 +315,9 @@
         "padding_bottom": 36
       }
     },
-    "165458823624187e23": {
-      "type": "newsletter",
-      "disabled": true,
-      "blocks": {
-        "16545882361fd74d66-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "16545882361fd74d66-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
-          }
-        },
-        "16545882361fd74d66-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "16545882361fd74d66-0",
-        "16545882361fd74d66-1",
-        "16545882361fd74d66-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "1654085877bb4baed2": {
       "type": "quiz",
+      "disabled": true,
       "blocks": {
         "77dc5de3-51ec-441e-a354-277c0f2c634c": {
           "type": "Question_1",
@@ -544,6 +510,40 @@
         "padding_bottom": 52
       }
     },
+    "165458823624187e23": {
+      "type": "newsletter",
+      "blocks": {
+        "16545882361fd74d66-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Iscriviti alla nostra Newsletter",
+            "heading_size": "h1"
+          }
+        },
+        "16545882361fd74d66-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>vuoi sapere quele sarà il nostro nuovo prodotto in pre-order? o vuoi qualche ricetta coi nostri ingredienti dal blog? o magari venirci a trovare al prossimo evento in azienda..<\/p>"
+          }
+        },
+        "16545882361fd74d66-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16545882361fd74d66-0",
+        "16545882361fd74d66-1",
+        "16545882361fd74d66-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16545886362360f39d": {
       "type": "featured-product",
       "blocks": {
@@ -704,12 +704,12 @@
     "multicolumn",
     "1656950237cedfd9b6",
     "featured_collection",
-    "165458823624187e23",
     "1654085877bb4baed2",
     "165458846339a33a6e",
     "16547072421a698d53",
     "1654697334b3514743",
     "1654707496b217ff7c",
+    "165458823624187e23",
     "16545886362360f39d",
     "1654707965c64c9801",
     "16545883497f8cf782"
