@@ -608,15 +608,6 @@
         "q_color": "",
         "a_color": ""
       }
-    },
-    "16559804749d2fd002": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "{% render 'waves' %}",
-        "color_scheme": "background-1",
-        "padding_top": 16,
-        "padding_bottom": 12
-      }
     }
   },
   "order": [
@@ -633,7 +624,6 @@
     "1654707496b217ff7c",
     "16545886362360f39d",
     "1654707965c64c9801",
-    "16545883497f8cf782",
-    "16559804749d2fd002"
+    "16545883497f8cf782"
   ]
 }
