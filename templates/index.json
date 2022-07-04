@@ -9,7 +9,7 @@
             "image": "shopify:\/\/shop_images\/1.jpg",
             "heading": "laboratorio artigianale e azienda agricola",
             "heading_size": "h1",
-            "subheading": "coltiviamo gli ingredienti che trasformiamo",
+            "subheading": "coltiviamo in modo naturale gli ingredienti che trasformiamo.. primo fra tutti lo Zafferano del Circeo",
             "button_label": "su di noi",
             "link": "shopify:\/\/pages\/chi-siamo",
             "button_style_secondary": false,
@@ -25,17 +25,17 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/2.jpg",
-            "heading": "Image slide",
+            "heading": "dal campo alla cucina",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
+            "subheading": "seguiamo i nostri prodotti in ogni fase, dalla coltivazione naturale alla trasformazione in laboratorio, fino al confezionamento",
             "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": false,
+            "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "inverse",
             "text_alignment_mobile": "center"
           }
         }
