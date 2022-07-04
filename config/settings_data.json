@@ -104,7 +104,7 @@
             "type": "announcement",
             "settings": {
               "text": "Spedizione gratuita per ordini superiori ai 49€",
-              "color_scheme": "background-1",
+              "color_scheme": "accent-2",
               "link": "shopify:\/\/policies\/shipping-policy"
             }
           }
