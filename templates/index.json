@@ -28,15 +28,15 @@
             "heading": "dal campo alla cucina",
             "heading_size": "h1",
             "subheading": "seguiamo i nostri prodotti in ogni fase, dalla coltivazione naturale alla trasformazione in laboratorio, fino al confezionamento",
-            "button_label": "Button label",
-            "link": "",
+            "button_label": "le nostre linee",
+            "link": "shopify:\/\/collections",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "inverse",
-            "text_alignment_mobile": "center"
+            "text_alignment_mobile": "left"
           }
         }
       },
