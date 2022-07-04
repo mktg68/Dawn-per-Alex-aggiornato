@@ -461,10 +461,22 @@
         "16569522674265b72f-3"
       ],
       "settings": {
-        "padding_height": 0,
+        "padding_height": 10,
         "font_color": "#ffdb00",
         "background_color": "#050000",
         "display_flow": "horizontal"
+      }
+    },
+    "16569526227d0a1812": {
+      "type": "text-with-background",
+      "settings": {
+        "bg_color": "#fff",
+        "title": "Nuova Alchimia!",
+        "info": "<p>scopri il nostro ultimo prodotto in uscita questo mese..<\/p>",
+        "btn_url": "\/",
+        "btn_label": "più info",
+        "padding_top": 12,
+        "padding_bottom": 20
       }
     },
     "16545886362360f39d": {
@@ -734,6 +746,7 @@
     "165458846339a33a6e",
     "16547072421a698d53",
     "1656952268d870b704",
+    "16569526227d0a1812",
     "16545886362360f39d",
     "featured_collection",
     "1654707496b217ff7c",
