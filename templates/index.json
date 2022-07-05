@@ -14,9 +14,9 @@
             "link": "shopify:\/\/pages\/chi-siamo",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 10,
+            "image_overlay_opacity": 40,
             "color_scheme": "inverse",
             "text_alignment_mobile": "left"
           }
@@ -84,7 +84,7 @@
         "layout": "full_bleed",
         "slide_height": "medium",
         "slider_visual": "counter",
-        "auto_rotate": false,
+        "auto_rotate": true,
         "change_slides_speed": 5,
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
@@ -547,7 +547,7 @@
       ],
       "settings": {
         "bg_shape": "",
-        "bg_color": "#fff",
+        "bg_color": "#ffffff",
         "section_title": "Nuova Alchimia!",
         "section_info": "<p>scopri il nostro ultimo prodotto in uscita questo mese..<\/p>",
         "enable_overlay": true
