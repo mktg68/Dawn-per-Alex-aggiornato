@@ -32,15 +32,16 @@
             "link": "shopify:\/\/collections",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 50,
             "color_scheme": "inverse",
             "text_alignment_mobile": "left"
           }
         },
         "47aa4dd5-6544-471d-92c7-f7b42ec676eb": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "heading": "Image slide",
             "heading_size": "h1",
@@ -58,6 +59,7 @@
         },
         "07ca6b65-ba7c-478f-9352-98406d90527b": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "heading": "Image slide",
             "heading_size": "h1",
