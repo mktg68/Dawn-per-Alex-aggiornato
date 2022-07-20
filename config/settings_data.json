@@ -96,6 +96,9 @@
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
     "currency_code_enabled": true,
+    "cart_type": "drawer",
+    "show_cart_note": true,
+    "cart_drawer_collection": "cioccolato-in-barrette-natural-chocolate",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
