@@ -8,16 +8,16 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Cestino_Alchemico_b3c3605d-b92a-4b2e-bf6c-639bc6210683.jpg",
             "heading": "laboratorio artigianale e azienda agricola",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "coltiviamo in modo naturale gli ingredienti che trasformiamo.. primo fra tutti lo Zafferano del Circeo",
             "button_label": "su di noi",
             "link": "shopify:\/\/pages\/chi-siamo",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 40,
-            "color_scheme": "inverse",
+            "button_style_secondary": true,
+            "box_align": "bottom-right",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
             "text_alignment_mobile": "left"
           }
         },
@@ -26,16 +26,16 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Barattoli_scaffale.jpg",
             "heading": "dal campo alla cucina",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "seguiamo i nostri prodotti in ogni fase, dalla coltivazione naturale alla trasformazione in laboratorio, fino al confezionamento",
             "button_label": "le nostre linee",
             "link": "shopify:\/\/collections",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
+            "button_style_secondary": true,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "left",
             "image_overlay_opacity": 50,
-            "color_scheme": "inverse",
+            "color_scheme": "accent-1",
             "text_alignment_mobile": "left"
           }
         },
@@ -405,7 +405,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "inverse",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -441,7 +441,7 @@
     "16569526227d0a1812": {
       "type": "text-with-background",
       "settings": {
-        "bg_color": "#ff6008",
+        "bg_color": "#ffdb00",
         "title": "Nuova Alchimia!",
         "info": "<p>scopri il nostro ultimo prodotto in uscita questo mese..<\/p>",
         "btn_url": "\/",
@@ -572,7 +572,7 @@
         "16547074960cc0e3b9-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Il nostro programma fedeltà per vincere sconti, premi alchilici e non solo<\/p><p>..scopri come..<\/p>"
+            "text": "<p>Il nostro programma fedeltà per vincere sconti, premi alchemici e non solo<\/p><p>..scopri come..<\/p>"
           }
         },
         "16547074960cc0e3b9-2": {
