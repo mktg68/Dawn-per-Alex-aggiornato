@@ -128,7 +128,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "accent-2",
         "full_width": true,
         "padding_top": 20,
@@ -251,7 +251,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "accent-2",
         "full_width": true,
         "padding_top": 8,
@@ -293,10 +293,10 @@
         "3d0a40d6-06a5-4774-915c-547f32a07dd7"
       ],
       "settings": {
-        "title": "Collections",
-        "heading_size": "h1",
+        "title": "our product lines",
+        "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "color_scheme": "background-1",
         "show_view_all": true,
         "columns_mobile": "2",
@@ -404,7 +404,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 40,
@@ -440,6 +440,7 @@
     },
     "16569526227d0a1812": {
       "type": "text-with-background",
+      "disabled": true,
       "settings": {
         "bg_color": "#ffdb00",
         "title": "Nuova Alchimia!",
