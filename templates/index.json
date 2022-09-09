@@ -132,7 +132,7 @@
         "color_scheme": "accent-2",
         "full_width": true,
         "padding_top": 20,
-        "padding_bottom": 0
+        "padding_bottom": 56
       }
     },
     "image_banner": {
@@ -255,7 +255,7 @@
         "color_scheme": "accent-2",
         "full_width": true,
         "padding_top": 8,
-        "padding_bottom": 12
+        "padding_bottom": 28
       }
     },
     "1654697334b3514743": {
