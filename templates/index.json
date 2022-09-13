@@ -312,13 +312,12 @@
     },
     "1654085877bb4baed2": {
       "type": "quiz",
-      "disabled": true,
       "blocks": {
         "77dc5de3-51ec-441e-a354-277c0f2c634c": {
           "type": "Question_1",
           "settings": {
-            "question_title": "Quale è il tuo gusto principale",
-            "subtitle": "",
+            "question_title": "Qual' è il tuo cioccolato preferito?",
+            "subtitle": "Cerchiamo di capire quale tra i nostri cioccolatini e barrette è quello giusto per te..",
             "background": "",
             "image": "shopify:\/\/shop_images\/cover_image_TH_300522_1.png"
           }
@@ -567,7 +566,6 @@
     },
     "1654707496b217ff7c": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "16547074960cc0e3b9-0": {
           "type": "heading",
@@ -610,7 +608,6 @@
     },
     "featured_collection": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "Cioccolatini dark",
         "heading_size": "h2",
