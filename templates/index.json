@@ -381,7 +381,6 @@
     },
     "1656952268d870b704": {
       "type": "highlight-banner",
-      "disabled": true,
       "blocks": {
         "16569522674265b72f-3": {
           "type": "image",
@@ -757,7 +756,7 @@
         "16547074960cc0e3b9-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Crea il tuo profilo sul nostro sito<\/p>",
+            "heading": "<p>Crea il tuo profilo su Alchimie di Circe<\/p>",
             "heading_size": "h1"
           }
         },
@@ -859,7 +858,8 @@
         "166308712793e18593-0": {
           "type": "image",
           "settings": {
-            "svg_select": "no_icon",
+            "image": "shopify:\/\/shop_images\/SEMINA_ZAFF.jpg",
+            "svg_select": "chat",
             "svg_icon_color": "#3a3a3a",
             "text_one": "Main text",
             "header_font_size": 21,
@@ -915,7 +915,7 @@
         "padding_height": 0,
         "font_color": "#3a3a3a",
         "background_color": "#eaeaea",
-        "display_flow": "horizontal"
+        "display_flow": "vertical"
       }
     },
     "16630871580c8fe54e": {
