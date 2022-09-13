@@ -175,7 +175,7 @@
           "footer-1"
         ],
         "settings": {
-          "color_scheme": "accent-2",
+          "color_scheme": "inverse",
           "newsletter_enable": true,
           "newsletter_heading": "Iscriviti alla nostra newsletter",
           "show_social": true,
