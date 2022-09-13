@@ -307,7 +307,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 20,
-        "padding_bottom": 4
+        "padding_bottom": 24
       }
     },
     "1654085877bb4baed2": {
@@ -380,14 +380,14 @@
         "1654707242c8a529c7-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Equilibrio tra artigianalitá ed eccellenza<\/p>",
+            "heading": "<p>equilibrio tra gusto e nutrizione<\/p>",
             "heading_size": "h1"
           }
         },
         "1654707242c8a529c7-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Per ogni ingrediente che la nostra terra ha da offrire elaboriamo un alchimia..ricette della tradizione rivisitate o nuove sperimentazioni.<\/p><p>Alchimie di gusto, dolci o salate, con zafferano o senza, in armonia con le giuste combinazioni alimentari per una maggiore consapevolezza, di se e del territorio.<\/p>"
+            "text": "<p>Per ogni ingrediente che la nostra terra ha da offrire, spezia, frutto o verdura, sperimentiamo per elaborare un alchimia di gusto, la più buona possibile..ricette della tradizione rivisitate o nuove idee e abbinamenti gourmet.<\/p><p>Alchimie per il palato, dolci o salate, con zafferano o senza, in armonia con le giuste combinazioni alimentari, con soli ingredienti naturali non raffinati, per una maggiore consapevolezza, di se e del territorio.<\/p>"
           }
         },
         "1654707242c8a529c7-2": {
