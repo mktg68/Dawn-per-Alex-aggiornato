@@ -326,8 +326,8 @@
           "type": "Answer",
           "settings": {
             "title": "Answer for question 1",
-            "answer": "Amaro,",
-            "type_filter": "amaro, bianco",
+            "answer": "FONDENTE",
+            "type_filter": "fondente, bianco",
             "tags_filter": "",
             "vendor_filter": "",
             "price_filter_operator": ">",
