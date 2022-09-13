@@ -897,73 +897,6 @@
         "filter_collection": "cioccolato-in-barrette-natural-chocolate"
       }
     },
-    "1663087127fe07920a": {
-      "type": "highlight-banner",
-      "disabled": true,
-      "blocks": {
-        "166308712793e18593-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/SEMINA_ZAFF.jpg",
-            "svg_select": "chat",
-            "svg_icon_color": "#3a3a3a",
-            "text_one": "Main text",
-            "header_font_size": 21,
-            "font_style": "bold",
-            "text_two": "Secondary text",
-            "secondary_font_size": 13
-          }
-        },
-        "166308712793e18593-1": {
-          "type": "image",
-          "settings": {
-            "svg_select": "no_icon",
-            "svg_icon_color": "#3a3a3a",
-            "text_one": "Main text",
-            "header_font_size": 21,
-            "font_style": "bold",
-            "text_two": "Secondary text",
-            "secondary_font_size": 13
-          }
-        },
-        "166308712793e18593-2": {
-          "type": "image",
-          "settings": {
-            "svg_select": "no_icon",
-            "svg_icon_color": "#3a3a3a",
-            "text_one": "Main text",
-            "header_font_size": 21,
-            "font_style": "bold",
-            "text_two": "Secondary text",
-            "secondary_font_size": 13
-          }
-        },
-        "166308712793e18593-3": {
-          "type": "image",
-          "settings": {
-            "svg_select": "no_icon",
-            "svg_icon_color": "#3a3a3a",
-            "text_one": "Main text",
-            "header_font_size": 21,
-            "font_style": "bold",
-            "text_two": "Secondary text",
-            "secondary_font_size": 13
-          }
-        }
-      },
-      "block_order": [
-        "166308712793e18593-0",
-        "166308712793e18593-1",
-        "166308712793e18593-2",
-        "166308712793e18593-3"
-      ],
-      "settings": {
-        "padding_height": 0,
-        "font_color": "#3a3a3a",
-        "background_color": "#eaeaea",
-        "display_flow": "vertical"
-      }
-    },
     "16630871580c8fe54e": {
       "type": "double-image-banner",
       "disabled": true,
@@ -1012,6 +945,7 @@
     },
     "1663089550e6edda1f": {
       "type": "product-kit",
+      "disabled": true,
       "blocks": {
         "6b08916c-f7fe-4f4a-9b28-2b8cc538caa7": {
           "type": "productKit",
@@ -1053,6 +987,29 @@
         "wrap_around": "true",
         "mr": 16
       }
+    },
+    "16630929739aa6857c": {
+      "type": "tooltips",
+      "blocks": {
+        "166309297314f73f42-0": {
+          "type": "Tooltip",
+          "settings": {
+            "title": "LE NOSTRE BOX",
+            "content": "I am a tooltip, I provide additional explanatory content and showcase product features.",
+            "top": 50,
+            "left": 50
+          }
+        }
+      },
+      "block_order": [
+        "166309297314f73f42-0"
+      ],
+      "settings": {
+        "tooltip_color": "#ffffff",
+        "tooltip_background_color": "#64cbdf",
+        "tooltip_focus_color": "#ff0000",
+        "breakpoint": "768"
+      }
     }
   },
   "order": [
@@ -1077,9 +1034,9 @@
     "16545883497f8cf782",
     "1654707496b217ff7c",
     "1654085877bb4baed2",
-    "1663087127fe07920a",
     "16630871580c8fe54e",
     "1663089550e6edda1f",
-    "166308969528b0542f"
+    "166308969528b0542f",
+    "16630929739aa6857c"
   ]
 }
