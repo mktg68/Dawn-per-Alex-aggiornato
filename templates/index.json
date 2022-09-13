@@ -8,8 +8,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Cestino_Alchemico_b3c3605d-b92a-4b2e-bf6c-639bc6210683.jpg",
             "heading": "DAL CAMPO AL LAB",
-            "heading_size": "h1",
-            "subheading": "laboratorio artigianale e azienda agricola: coltiviamo in modo naturale gli ingredienti che usiamo.. primo fra tutti lo Zafferano del Circeo",
+            "heading_size": "h2",
+            "subheading": "laboratorio artigianale e azienda agricola: nello stesso luogo, ai piedi del Monte Circeo, coltiviamo in modo naturale gli ingredienti che poi usiamo in cucina.. primo fra tutti lo Zafferano del Circeo",
             "button_label": "su di noi",
             "link": "shopify:\/\/pages\/chi-siamo",
             "button_style_secondary": true,
@@ -59,9 +59,9 @@
         "07ca6b65-ba7c-478f-9352-98406d90527b": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
+            "heading": "RICETTE SOSTENIBILI",
+            "heading_size": "h2",
+            "subheading": "costante ricerca volta alla creazione, riscoperta, rivisitazione di ricette sostenibili, sia ecologicamente che a livello nutritivo, buone per l'uomo ma anche per la terra su cui vive",
             "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
@@ -84,10 +84,10 @@
         "layout": "full_bleed",
         "slide_height": "medium",
         "slider_visual": "counter",
-        "auto_rotate": true,
+        "auto_rotate": false,
         "change_slides_speed": 7,
         "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
+        "accessibility_info": "Alchimie di Circe principi fondanti"
       }
     },
     "16569501690775bac4": {
