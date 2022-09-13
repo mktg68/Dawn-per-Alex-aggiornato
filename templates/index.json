@@ -1037,6 +1037,22 @@
         "section_title": "LA NOSTRA BOX",
         "section_info": ""
       }
+    },
+    "166308969528b0542f": {
+      "type": "Feature-slider",
+      "disabled": true,
+      "settings": {
+        "collection_main": "cioccolato-in-barrette-natural-chocolate",
+        "collection_limit": 2,
+        "bg": "#fff",
+        "title": "BARRETTE CIOCCOLATO FONDENTE",
+        "img_width": 390,
+        "cell_align": "center",
+        "title_mb": 48,
+        "cell_width": "25%",
+        "wrap_around": "true",
+        "mr": 16
+      }
     }
   },
   "order": [
@@ -1063,6 +1079,7 @@
     "1654085877bb4baed2",
     "1663087127fe07920a",
     "16630871580c8fe54e",
-    "1663089550e6edda1f"
+    "1663089550e6edda1f",
+    "166308969528b0542f"
   ]
 }
