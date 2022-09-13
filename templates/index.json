@@ -462,9 +462,9 @@
         "79f575e7-b94b-4764-98c7-1095ade84c48": {
           "type": "storyLook",
           "settings": {
-            "title": "Our Story",
+            "title": "Il Parco Nazionale",
             "enable_info_card": true,
-            "richtext": "<p>Il monte Circeo e la sua flora..<\/p>",
+            "richtext": "<p>Le 5 zone del Parco Nazionale del Circeo..<\/p>",
             "btn_url": "",
             "btn_label": "altro.."
           }
@@ -494,6 +494,7 @@
     },
     "16545886362360f39d": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "1654588636c35f2944-0": {
           "type": "text",
@@ -566,6 +567,7 @@
     },
     "1654707496b217ff7c": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "16547074960cc0e3b9-0": {
           "type": "heading",
@@ -608,6 +610,7 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Cioccolatini dark",
         "heading_size": "h2",
