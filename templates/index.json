@@ -133,55 +133,6 @@
         "padding_bottom": 56
       }
     },
-    "image_banner": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h0"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/cioccolato-in-barrette-natural-chocolate",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/CAB8DCC9-C402-4582-B02A-86E92A6C71EC.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
     "rich_text": {
       "type": "rich-text",
       "disabled": true,
@@ -254,6 +205,54 @@
         "full_width": true,
         "padding_top": 8,
         "padding_bottom": 28
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/cioccolato-in-barrette-natural-chocolate",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CAB8DCC9-C402-4582-B02A-86E92A6C71EC.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "1654697334b3514743": {
@@ -536,7 +535,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/3_5.png",
-            "title": "naturale",
+            "title": "SOSTENIBILITA'",
             "text": "<p>I nostri prodotti rispettano l'ambiente perchè la maggior parte dei prodotti sono coltivati direttamente da noi <\/p>",
             "link_label": "",
             "link": ""
@@ -546,7 +545,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/11_2.png",
-            "title": "sicura e certificata",
+            "title": "SAPORE",
             "text": "<p>Ogni prodotto è sicuro e il nostro laboratorio rispetta tutte le norme igienico sanitarie e alcuni dei nostri prodotti hanno certificazioni<\/p>",
             "link_label": "",
             "link": ""
@@ -556,17 +555,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/7_6.png",
-            "title": "gusti",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "f5167c79-7eb9-4fb4-a645-73257ca5388b": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/9.png",
-            "title": "fantasia",
+            "title": "SALUTE",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -576,15 +565,14 @@
       "block_order": [
         "column1",
         "column2",
-        "column3",
-        "f5167c79-7eb9-4fb4-a645-73257ca5388b"
+        "column3"
       ],
       "settings": {
         "title": "i nostri principi",
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "square",
-        "columns_desktop": 4,
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
@@ -592,7 +580,7 @@
         "color_scheme": "inverse",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 8,
+        "padding_top": 44,
         "padding_bottom": 8
       }
     },
@@ -657,13 +645,40 @@
         "padding_bottom": 52
       }
     },
+    "166308723174e82989": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1654707965c64c9801": {
       "type": "rich-text",
       "blocks": {
         "16547079657d43efd7-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Faq<\/p>",
+            "heading": "<p>Glossario & Faq<\/p>",
             "heading_size": "h1"
           }
         }
@@ -836,14 +851,126 @@
       "settings": {
         "filter_collection": "cioccolato-in-barrette-natural-chocolate"
       }
+    },
+    "1663087127fe07920a": {
+      "type": "highlight-banner",
+      "disabled": true,
+      "blocks": {
+        "166308712793e18593-0": {
+          "type": "image",
+          "settings": {
+            "svg_select": "no_icon",
+            "svg_icon_color": "#3a3a3a",
+            "text_one": "Main text",
+            "header_font_size": 21,
+            "font_style": "bold",
+            "text_two": "Secondary text",
+            "secondary_font_size": 13
+          }
+        },
+        "166308712793e18593-1": {
+          "type": "image",
+          "settings": {
+            "svg_select": "no_icon",
+            "svg_icon_color": "#3a3a3a",
+            "text_one": "Main text",
+            "header_font_size": 21,
+            "font_style": "bold",
+            "text_two": "Secondary text",
+            "secondary_font_size": 13
+          }
+        },
+        "166308712793e18593-2": {
+          "type": "image",
+          "settings": {
+            "svg_select": "no_icon",
+            "svg_icon_color": "#3a3a3a",
+            "text_one": "Main text",
+            "header_font_size": 21,
+            "font_style": "bold",
+            "text_two": "Secondary text",
+            "secondary_font_size": 13
+          }
+        },
+        "166308712793e18593-3": {
+          "type": "image",
+          "settings": {
+            "svg_select": "no_icon",
+            "svg_icon_color": "#3a3a3a",
+            "text_one": "Main text",
+            "header_font_size": 21,
+            "font_style": "bold",
+            "text_two": "Secondary text",
+            "secondary_font_size": 13
+          }
+        }
+      },
+      "block_order": [
+        "166308712793e18593-0",
+        "166308712793e18593-1",
+        "166308712793e18593-2",
+        "166308712793e18593-3"
+      ],
+      "settings": {
+        "padding_height": 0,
+        "font_color": "#3a3a3a",
+        "background_color": "#eaeaea",
+        "display_flow": "horizontal"
+      }
+    },
+    "16630871580c8fe54e": {
+      "type": "double-image-banner",
+      "disabled": true,
+      "blocks": {
+        "16630871580517dd29-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "16630871580517dd29-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "16630871580517dd29-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16630871580517dd29-0",
+        "16630871580517dd29-1",
+        "16630871580517dd29-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AGRUMI_1.jpg",
+        "image_2": "shopify:\/\/shop_images\/PORTULACA_PIANTA_2.jpg",
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "1654588232c80d0d73",
     "16569501690775bac4",
-    "image_banner",
     "rich_text",
     "1656950237cedfd9b6",
+    "image_banner",
     "1654697334b3514743",
     "165458846339a33a6e",
     "16547072421a698d53",
@@ -854,9 +981,12 @@
     "multicolumn",
     "featured_collection",
     "165458823624187e23",
+    "166308723174e82989",
     "1654707965c64c9801",
     "16545883497f8cf782",
     "1654707496b217ff7c",
-    "1654085877bb4baed2"
+    "1654085877bb4baed2",
+    "1663087127fe07920a",
+    "16630871580c8fe54e"
   ]
 }
