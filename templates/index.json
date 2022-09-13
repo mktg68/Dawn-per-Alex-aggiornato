@@ -90,6 +90,18 @@
         "accessibility_info": "Alchimie di Circe principi fondanti"
       }
     },
+    "166309304430b2921b": {
+      "type": "text-with-background",
+      "settings": {
+        "bg_color": "#fd7202",
+        "title": "“..attorno a lei nereidi e ninfe  che non filavano muovendo le dita non traevano fili ma erbe e fiori sparsi alla rinfusa steli di vario colore selezionavano lei conosceva la funzione di ogni foglia esaminava con cura i dosaggi...”",
+        "info": "<p>OVIDIO - LE METAMORFOSI<\/p>",
+        "btn_url": "",
+        "btn_label": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16569501690775bac4": {
       "type": "rich-text",
       "blocks": {
@@ -207,54 +219,6 @@
         "padding_bottom": 28
       }
     },
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h0"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/cioccolato-in-barrette-natural-chocolate",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/CAB8DCC9-C402-4582-B02A-86E92A6C71EC.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
     "1654697334b3514743": {
       "type": "collection-list",
       "blocks": {
@@ -307,6 +271,54 @@
         "swipe_on_mobile": true,
         "padding_top": 20,
         "padding_bottom": 24
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/cioccolato-in-barrette-natural-chocolate",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CAB8DCC9-C402-4582-B02A-86E92A6C71EC.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "165458846339a33a6e": {
@@ -611,7 +623,7 @@
         "column3"
       ],
       "settings": {
-        "title": "i nostri principi",
+        "title": "",
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "square",
@@ -623,8 +635,8 @@
         "color_scheme": "inverse",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 44,
-        "padding_bottom": 8
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "featured_collection": {
@@ -897,52 +909,6 @@
         "filter_collection": "cioccolato-in-barrette-natural-chocolate"
       }
     },
-    "16630871580c8fe54e": {
-      "type": "double-image-banner",
-      "disabled": true,
-      "blocks": {
-        "16630871580517dd29-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "medium"
-          }
-        },
-        "16630871580517dd29-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "16630871580517dd29-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16630871580517dd29-0",
-        "16630871580517dd29-1",
-        "16630871580517dd29-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/AGRUMI_1.jpg",
-        "image_2": "shopify:\/\/shop_images\/PORTULACA_PIANTA_2.jpg",
-        "image_height": "medium",
-        "adapt_height_first_image": true,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
-        "show_text_below": true
-      }
-    },
     "1663089550e6edda1f": {
       "type": "product-kit",
       "disabled": true,
@@ -1014,11 +980,12 @@
   },
   "order": [
     "1654588232c80d0d73",
+    "166309304430b2921b",
     "16569501690775bac4",
     "rich_text",
     "1656950237cedfd9b6",
-    "image_banner",
     "1654697334b3514743",
+    "image_banner",
     "165458846339a33a6e",
     "16547072421a698d53",
     "166308941626df14d9",
@@ -1034,7 +1001,6 @@
     "16545883497f8cf782",
     "1654707496b217ff7c",
     "1654085877bb4baed2",
-    "16630871580c8fe54e",
     "1663089550e6edda1f",
     "166308969528b0542f",
     "16630929739aa6857c"
