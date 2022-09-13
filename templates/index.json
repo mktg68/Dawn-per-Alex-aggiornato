@@ -282,13 +282,20 @@
           "settings": {
             "collection": "zafferano-del-circeo"
           }
+        },
+        "d97483a2-fd72-45e9-8985-d800af919a0e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ciambelle-e-frollini"
+          }
         }
       },
       "block_order": [
         "165469733402a550c6-0",
         "165469733402a550c6-1",
         "165469733402a550c6-2",
-        "3d0a40d6-06a5-4774-915c-547f32a07dd7"
+        "3d0a40d6-06a5-4774-915c-547f32a07dd7",
+        "d97483a2-fd72-45e9-8985-d800af919a0e"
       ],
       "settings": {
         "title": "le nostre linee",
