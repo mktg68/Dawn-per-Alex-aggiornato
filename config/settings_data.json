@@ -149,21 +149,20 @@
             "type": "text",
             "settings": {
               "heading": "ALCHIMIE DI CIRCE",
-              "subtext": "<p>laboratorio artigianale -<\/p><p>azienda agricola naturale<\/p><p>Zafferano del Circeo<\/p><p><\/p>"
+              "subtext": "<p>laboratorio artigianale<\/p><p> e azienda agricola -<\/p><p>Zafferano del Circeo<\/p><p><\/p>"
             }
           },
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
+              "heading": "MAPPA SITO",
+              "menu": "main-menu"
             }
           },
           "footer-1": {
             "type": "link_list",
-            "disabled": true,
             "settings": {
-              "heading": "Info",
+              "heading": "INFORMATIVE",
               "menu": "footer"
             }
           }
