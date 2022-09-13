@@ -109,12 +109,14 @@
         },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
         },
         "5f19ce06-f580-4277-b6d2-80b91f345290": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Collapsible row",
             "icon": "check_mark",
@@ -124,6 +126,7 @@
         },
         "1f33d60e-af0b-45cb-8d36-4a365fef93c9": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "{% for name in product.metafields.custom.recipt.value %}\n   <h3>{{ info.name}}<\/h3>\n   <p><img src=\"{{ info.image }}\" \/><\/p>\n   <p>{{ info.content }}<\/p>\n{% endfor %}{{ product.metafields.customrecipt.name }}\n\n\n{{ product.metafields.custom.recipt.ingredients }}\n\n\nname\n\n{% for name in product.metafields.customrecipt.value -%}\n  {{ name }}\n{%- endfor %}\n\n{% for property in product.metafields.custom.recipt.value -%}\n  {{ property.first | capitalize }}: {{ property.last }}\n{%- endfor %}"
           }
