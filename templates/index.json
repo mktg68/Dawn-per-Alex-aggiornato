@@ -458,16 +458,15 @@
     },
     "165695293894235f4e": {
       "type": "story-look",
-      "disabled": true,
       "blocks": {
         "79f575e7-b94b-4764-98c7-1095ade84c48": {
           "type": "storyLook",
           "settings": {
             "title": "Our Story",
             "enable_info_card": true,
-            "richtext": "<p>The Pfaff Family have been manufacturing and retailing garments since 1908.<\/p>",
+            "richtext": "<p>Il monte Circeo e la sua flora..<\/p>",
             "btn_url": "",
-            "btn_label": "read more"
+            "btn_label": "altro.."
           }
         },
         "23da264b-0ef8-4029-ba85-70c155dad342": {
@@ -488,8 +487,8 @@
       "settings": {
         "bg_shape": "",
         "bg_color": "#ffffff",
-        "section_title": "Nuova Alchimia!",
-        "section_info": "<p>scopri il nostro ultimo prodotto in uscita questo mese..<\/p>",
+        "section_title": "Il Circeo e il territorio del Parco Nazionale",
+        "section_info": "<p>un territorio a picco sul mare, unico e incredibile in ogni stagione, riserva di biodiversità e di archeologia, da riscoprire, da supportare e da difendere..<\/p>",
         "enable_overlay": true
       }
     },
