@@ -93,130 +93,13 @@
     "166309304430b2921b": {
       "type": "text-with-background",
       "settings": {
-        "bg_color": "#fd4502",
+        "bg_color": "#fff",
         "title": "“..attorno a lei nereidi e ninfe  che non filavano muovendo le dita non traevano fili ma erbe e fiori sparsi alla rinfusa steli di vario colore selezionavano lei conosceva la funzione di ogni foglia esaminava con cura i dosaggi...”",
         "info": "<p>OVIDIO - LE METAMORFOSI<\/p>",
         "btn_url": "",
         "btn_label": "",
         "padding_top": 8,
         "padding_bottom": 4
-      }
-    },
-    "16569501690775bac4": {
-      "type": "rich-text",
-      "blocks": {
-        "165695016975e86f0d-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Naturale<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "165695016975e86f0d-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>naturale perchè crediamo che le regole dell’agricoltura vadano riscritte. Il pianeta e noi non possiamo piu sostenere sistemi di monocoltura intensiva e utilizzo di concimi, pesticidi e prodotti chimici nocivi per l'uomo e l'ambiente a scapito della qualità dei prodotti.<\/p><p>Nei nostri terreni applichiamo tecniche di permacoltura e consociazioni per favorire la biodiversita’ e lo sviluppo delle difese naturali delle piante. Aderiamo ai principi della nascente AgroEcologia e cerchiamo di recuperare varietà antiche di frutta e ortaggi con un occhio di riguardo per le erbe selvatiche piu’ nutrienti<\/p>"
-          }
-        },
-        "165695016975e86f0d-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "165695016975e86f0d-0",
-        "165695016975e86f0d-1",
-        "165695016975e86f0d-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "accent-2",
-        "full_width": true,
-        "padding_top": 20,
-        "padding_bottom": 56
-      }
-    },
-    "rich_text": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
-    "1656950237cedfd9b6": {
-      "type": "rich-text",
-      "blocks": {
-        "16569502376cd2991a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Fantasia<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "16569502376cd2991a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>fantasia perchè tutto quello che raccogliamo viene lavorato appena raccolto qui in azienda, dove abbiamo creato un laboratorio di traformazione immerso nel verde, in cui sperimentare con i nostri ingredienti seguendo la stagionalità.<\/p><p><br\/>Ci ispirano le ricette della tradizione contadina e mediterranea ma subiamo il fascino anche di altre cucine (vegan, orientale, ecc)<br\/>Ci piace rivisitare o scoprire nuove ricette seguendo le giuste combinazioni alimentari e l’ utilizzo di ingredienti cosiddetti super nutrienti per una maggiore digeribilità e integrazione, consapevoli che 'più sano' non vuol dire 'meno buono'<\/p>"
-          }
-        },
-        "16569502376cd2991a-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16569502376cd2991a-0",
-        "16569502376cd2991a-1",
-        "16569502376cd2991a-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "accent-2",
-        "full_width": true,
-        "padding_top": 8,
-        "padding_bottom": 28
       }
     },
     "1654697334b3514743": {
@@ -321,6 +204,92 @@
         "show_text_below": false
       }
     },
+    "16569501690775bac4": {
+      "type": "rich-text",
+      "blocks": {
+        "165695016975e86f0d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Naturale<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "165695016975e86f0d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>naturale perchè crediamo che le regole dell’agricoltura vadano riscritte. Il pianeta e noi non possiamo piu sostenere sistemi di monocoltura intensiva e utilizzo di concimi, pesticidi e prodotti chimici nocivi per l'uomo e l'ambiente a scapito della qualità dei prodotti.<\/p><p>Nei nostri terreni applichiamo tecniche di permacoltura e consociazioni per favorire la biodiversita’ e lo sviluppo delle difese naturali delle piante. Aderiamo ai principi della nascente AgroEcologia e cerchiamo di recuperare varietà antiche di frutta e ortaggi con un occhio di riguardo per le erbe selvatiche piu’ nutrienti<\/p>"
+          }
+        },
+        "165695016975e86f0d-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "165695016975e86f0d-0",
+        "165695016975e86f0d-1",
+        "165695016975e86f0d-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "inverse",
+        "full_width": false,
+        "padding_top": 20,
+        "padding_bottom": 56
+      }
+    },
+    "1656950237cedfd9b6": {
+      "type": "rich-text",
+      "blocks": {
+        "16569502376cd2991a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Fantasia<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "16569502376cd2991a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>fantasia perchè tutto quello che raccogliamo viene lavorato appena raccolto qui in azienda, dove abbiamo creato un laboratorio di traformazione immerso nel verde, in cui sperimentare con i nostri ingredienti seguendo la stagionalità.<\/p><p>Ci ispirano le ricette della tradizione contadina e mediterranea ma subiamo il fascino anche di altre cucine (vegan, orientale, ecc)<br\/>Ci piace rivisitare o scoprire nuove ricette seguendo le giuste combinazioni alimentari e l’ utilizzo di ingredienti cosiddetti super nutrienti per una maggiore digeribilità e integrazione, consapevoli che 'più sano' non vuol dire 'meno buono'<\/p>"
+          }
+        },
+        "16569502376cd2991a-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16569502376cd2991a-0",
+        "16569502376cd2991a-1",
+        "16569502376cd2991a-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "inverse",
+        "full_width": false,
+        "padding_top": 8,
+        "padding_bottom": 28
+      }
+    },
     "165458846339a33a6e": {
       "type": "featured-collection",
       "disabled": true,
@@ -347,48 +316,6 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "16547072421a698d53": {
-      "type": "rich-text",
-      "blocks": {
-        "1654707242c8a529c7-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>equilibrio tra gusto e nutrizione<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "1654707242c8a529c7-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Per ogni ingrediente che la nostra terra ha da offrire, spezia, frutto o verdura, sperimentiamo per elaborare un alchimia di gusto, la più buona possibile..ricette della tradizione rivisitate o nuove idee e abbinamenti gourmet.<\/p><p>Alchimie per il palato, dolci o salate, con zafferano o senza, in armonia con le giuste combinazioni alimentari, con soli ingredienti naturali non raffinati, per una maggiore consapevolezza, di se e del territorio.<\/p>"
-          }
-        },
-        "1654707242c8a529c7-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "chi siamo",
-            "button_link": "shopify:\/\/pages\/chi-siamo",
-            "button_style_secondary": false,
-            "button_label_2": "il laboratorio",
-            "button_link_2": "shopify:\/\/pages\/il-laboratorio-artigianale",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1654707242c8a529c7-0",
-        "1654707242c8a529c7-1",
-        "1654707242c8a529c7-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "166308941626df14d9": {
@@ -434,31 +361,46 @@
         "padding_bottom": 36
       }
     },
-    "1656952268d870b704": {
-      "type": "highlight-banner",
-      "disabled": true,
+    "16547072421a698d53": {
+      "type": "rich-text",
       "blocks": {
-        "16569522674265b72f-3": {
-          "type": "image",
+        "1654707242c8a529c7-0": {
+          "type": "heading",
           "settings": {
-            "svg_select": "no_icon",
-            "svg_icon_color": "#3a3a3a",
-            "text_one": "Nuovo prodotto",
-            "header_font_size": 21,
-            "font_style": "normal",
-            "text_two": "la nuova Alchimia di questo mese:",
-            "secondary_font_size": 13
+            "heading": "<p>equilibrio tra gusto e nutrizione<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1654707242c8a529c7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Per ogni ingrediente che la nostra terra ha da offrire, spezia, frutto o verdura, sperimentiamo per elaborare un alchimia di gusto, la più buona possibile..ricette della tradizione rivisitate o nuove idee e abbinamenti gourmet.<\/p><p>Alchimie per il palato, dolci o salate, con zafferano o senza, in armonia con le giuste combinazioni alimentari, con soli ingredienti naturali non raffinati, per una maggiore consapevolezza, di se e del territorio.<\/p>"
+          }
+        },
+        "1654707242c8a529c7-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "chi siamo",
+            "button_link": "shopify:\/\/pages\/chi-siamo",
+            "button_style_secondary": false,
+            "button_label_2": "il laboratorio",
+            "button_link_2": "shopify:\/\/pages\/il-laboratorio-artigianale",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "16569522674265b72f-3"
+        "1654707242c8a529c7-0",
+        "1654707242c8a529c7-1",
+        "1654707242c8a529c7-2"
       ],
       "settings": {
-        "padding_height": 10,
-        "font_color": "#ffdb00",
-        "background_color": "#050000",
-        "display_flow": "horizontal"
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "16569526227d0a1812": {
@@ -981,15 +923,13 @@
   "order": [
     "1654588232c80d0d73",
     "166309304430b2921b",
-    "16569501690775bac4",
-    "rich_text",
-    "1656950237cedfd9b6",
     "1654697334b3514743",
     "image_banner",
+    "16569501690775bac4",
+    "1656950237cedfd9b6",
     "165458846339a33a6e",
-    "16547072421a698d53",
     "166308941626df14d9",
-    "1656952268d870b704",
+    "16547072421a698d53",
     "16569526227d0a1812",
     "165695293894235f4e",
     "16545886362360f39d",
