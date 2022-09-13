@@ -298,7 +298,7 @@
         "d97483a2-fd72-45e9-8985-d800af919a0e"
       ],
       "settings": {
-        "title": "le nostre linee",
+        "title": "Collections",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 5,
@@ -308,65 +308,6 @@
         "swipe_on_mobile": true,
         "padding_top": 20,
         "padding_bottom": 24
-      }
-    },
-    "1654085877bb4baed2": {
-      "type": "quiz",
-      "blocks": {
-        "77dc5de3-51ec-441e-a354-277c0f2c634c": {
-          "type": "Question_1",
-          "settings": {
-            "question_title": "Qual' è il tuo cioccolato preferito?",
-            "subtitle": "Cerchiamo di capire quale tra i nostri cioccolatini e barrette è quello giusto per te..",
-            "background": "",
-            "image": "shopify:\/\/shop_images\/cover_image_TH_300522_1.png"
-          }
-        },
-        "81df72f9-7039-4674-85bd-e9de4a760229": {
-          "type": "Answer",
-          "settings": {
-            "title": "Answer for question 1",
-            "answer": "FONDENTE",
-            "type_filter": "fondente, bianco",
-            "tags_filter": "",
-            "vendor_filter": "",
-            "price_filter_operator": ">",
-            "price_filter": "",
-            "option_filter": "bianco",
-            "option_filter_values": ""
-          }
-        },
-        "a8b5ba60-4f7f-44ff-88d7-eb6ff757d990": {
-          "type": "Answer",
-          "settings": {
-            "title": "Answer for question 1",
-            "answer": "BIANCO",
-            "type_filter": "",
-            "tags_filter": "",
-            "vendor_filter": "",
-            "price_filter_operator": ">",
-            "price_filter": "",
-            "option_filter": "",
-            "option_filter_values": ""
-          }
-        },
-        "e0054f4c-eb8d-41c8-a153-e96a7ad2778f": {
-          "type": "Question_2",
-          "settings": {
-            "question_title": "",
-            "subtitle": "",
-            "background": ""
-          }
-        }
-      },
-      "block_order": [
-        "77dc5de3-51ec-441e-a354-277c0f2c634c",
-        "81df72f9-7039-4674-85bd-e9de4a760229",
-        "a8b5ba60-4f7f-44ff-88d7-eb6ff757d990",
-        "e0054f4c-eb8d-41c8-a153-e96a7ad2778f"
-      ],
-      "settings": {
-        "filter_collection": "cioccolato-in-barrette-natural-chocolate"
       }
     },
     "165458846339a33a6e": {
@@ -588,48 +529,6 @@
         "padding_bottom": 8
       }
     },
-    "1654707496b217ff7c": {
-      "type": "rich-text",
-      "blocks": {
-        "16547074960cc0e3b9-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Crea il tuo profilo alchemico<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "16547074960cc0e3b9-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Il nostro programma fedeltà per vincere sconti, premi alchemici e non solo<\/p><p>..scopri come..<\/p>"
-          }
-        },
-        "16547074960cc0e3b9-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "vai",
-            "button_link": "shopify:\/\/pages\/premi",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16547074960cc0e3b9-0",
-        "16547074960cc0e3b9-1",
-        "16547074960cc0e3b9-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -836,6 +735,107 @@
         "q_color": "",
         "a_color": ""
       }
+    },
+    "1654707496b217ff7c": {
+      "type": "rich-text",
+      "blocks": {
+        "16547074960cc0e3b9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Crea il tuo profilo sul nostro sito<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "16547074960cc0e3b9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Il nostro programma fedeltà per vincere sconti, premi alchemici e non solo<\/p><p>..scopri come..<\/p>"
+          }
+        },
+        "16547074960cc0e3b9-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "vai",
+            "button_link": "shopify:\/\/pages\/premi",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16547074960cc0e3b9-0",
+        "16547074960cc0e3b9-1",
+        "16547074960cc0e3b9-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1654085877bb4baed2": {
+      "type": "quiz",
+      "blocks": {
+        "77dc5de3-51ec-441e-a354-277c0f2c634c": {
+          "type": "Question_1",
+          "settings": {
+            "question_title": "Qual' è il tuo cioccolato preferito?",
+            "subtitle": "Cerchiamo di capire quale tra i nostri cioccolatini e barrette è quello giusto per te..",
+            "background": "",
+            "image": "shopify:\/\/shop_images\/cover_image_TH_300522_1.png"
+          }
+        },
+        "81df72f9-7039-4674-85bd-e9de4a760229": {
+          "type": "Answer",
+          "settings": {
+            "title": "Answer for question 1",
+            "answer": "FONDENTE",
+            "type_filter": "fondente, bianco",
+            "tags_filter": "",
+            "vendor_filter": "",
+            "price_filter_operator": ">",
+            "price_filter": "",
+            "option_filter": "bianco",
+            "option_filter_values": ""
+          }
+        },
+        "a8b5ba60-4f7f-44ff-88d7-eb6ff757d990": {
+          "type": "Answer",
+          "settings": {
+            "title": "Answer for question 1",
+            "answer": "BIANCO",
+            "type_filter": "",
+            "tags_filter": "",
+            "vendor_filter": "",
+            "price_filter_operator": ">",
+            "price_filter": "",
+            "option_filter": "",
+            "option_filter_values": ""
+          }
+        },
+        "e0054f4c-eb8d-41c8-a153-e96a7ad2778f": {
+          "type": "Question_2",
+          "settings": {
+            "question_title": "",
+            "subtitle": "",
+            "background": ""
+          }
+        }
+      },
+      "block_order": [
+        "77dc5de3-51ec-441e-a354-277c0f2c634c",
+        "81df72f9-7039-4674-85bd-e9de4a760229",
+        "a8b5ba60-4f7f-44ff-88d7-eb6ff757d990",
+        "e0054f4c-eb8d-41c8-a153-e96a7ad2778f"
+      ],
+      "settings": {
+        "filter_collection": "cioccolato-in-barrette-natural-chocolate"
+      }
     }
   },
   "order": [
@@ -845,18 +845,18 @@
     "rich_text",
     "1656950237cedfd9b6",
     "1654697334b3514743",
-    "1654085877bb4baed2",
     "165458846339a33a6e",
     "16547072421a698d53",
     "1656952268d870b704",
     "16569526227d0a1812",
     "165695293894235f4e",
     "16545886362360f39d",
-    "1654707496b217ff7c",
     "featured_collection",
     "165458823624187e23",
     "multicolumn",
     "1654707965c64c9801",
-    "16545883497f8cf782"
+    "16545883497f8cf782",
+    "1654707496b217ff7c",
+    "1654085877bb4baed2"
   ]
 }
