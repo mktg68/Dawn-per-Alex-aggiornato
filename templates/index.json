@@ -472,11 +472,11 @@
         "23da264b-0ef8-4029-ba85-70c155dad342": {
           "type": "storyLook",
           "settings": {
-            "title": "Our Story",
+            "title": "Piante officinale e piccoli frutti del Parco",
             "enable_info_card": true,
-            "richtext": "<p>The Pfaff Family have been manufacturing and retailing garments since 1908.<\/p>",
+            "richtext": "<p>Piante officinali e piccoli frutti el Parco..<\/p>",
             "btn_url": "",
-            "btn_label": "read more"
+            "btn_label": "altro.."
           }
         }
       },
