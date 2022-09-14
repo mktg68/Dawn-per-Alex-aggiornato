@@ -6,69 +6,9 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
-    },
-    "166299426934004f20": {
-      "type": "rectangular-content",
-      "blocks": {
-        "1662994269849e44e2-0": {
-          "type": "heading",
-          "settings": {
-            "elementName": "Sodium",
-            "heading_size": "h1",
-            "elementFunction": "Absorption of nutrients",
-            "image": "shopify:\/\/shop_images\/zafferano-visualization-prepositions-2022-08-03-10-34-59.png",
-            "elementAtomicNumber": "11",
-            "elementInitials": "Na",
-            "elementMolarMass": "22.990",
-            "customCssClass": ""
-          }
-        },
-        "1662994269849e44e2-1": {
-          "type": "heading",
-          "settings": {
-            "elementName": "Sodium",
-            "heading_size": "h1",
-            "elementFunction": "Absorption of nutrients",
-            "elementAtomicNumber": "11",
-            "elementInitials": "Na",
-            "elementMolarMass": "22.990",
-            "customCssClass": ""
-          }
-        },
-        "1662994269849e44e2-2": {
-          "type": "heading",
-          "settings": {
-            "elementName": "Sodium",
-            "heading_size": "h1",
-            "elementFunction": "Absorption of nutrients",
-            "elementAtomicNumber": "11",
-            "elementInitials": "Na",
-            "elementMolarMass": "22.990",
-            "customCssClass": ""
-          }
-        }
-      },
-      "block_order": [
-        "1662994269849e44e2-0",
-        "1662994269849e44e2-1",
-        "1662994269849e44e2-2"
-      ],
-      "settings": {
-        "heading": "Lorem Ipsum",
-        "subheading": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "heading_size": "h1",
-        "color_scheme": "background-1",
-        "textColor": "#142b6f",
-        "colorGradient-1": "#e22120",
-        "colorGradient-1-opacity": 18,
-        "colorGradient-2": "#aed8e8",
-        "colorGradient-2-opacity": 39,
-        "gradientAngle": 165
-      }
     }
   },
   "order": [
-    "main",
-    "166299426934004f20"
+    "main"
   ]
 }
