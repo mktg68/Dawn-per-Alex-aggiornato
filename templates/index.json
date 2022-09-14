@@ -144,7 +144,7 @@
         "d97483a2-fd72-45e9-8985-d800af919a0e"
       ],
       "settings": {
-        "title": "le nostre linee",
+        "title": "Collections",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 5,
@@ -853,7 +853,6 @@
     },
     "1663089550e6edda1f": {
       "type": "product-kit",
-      "disabled": true,
       "blocks": {
         "6b08916c-f7fe-4f4a-9b28-2b8cc538caa7": {
           "type": "productKit",
