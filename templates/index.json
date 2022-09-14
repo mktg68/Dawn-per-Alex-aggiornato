@@ -93,7 +93,7 @@
     "166309304430b2921b": {
       "type": "text-with-background",
       "settings": {
-        "bg_color": "#fff",
+        "bg_color": "#ffffff",
         "title": "“..attorno a lei nereidi e ninfe  che non filavano muovendo le dita non traevano fili ma erbe e fiori sparsi alla rinfusa steli di vario colore selezionavano lei conosceva la funzione di ogni foglia esaminava con cura i dosaggi...”",
         "info": "<p>OVIDIO - LE METAMORFOSI<\/p>",
         "btn_url": "",
@@ -701,7 +701,7 @@
           "type": "faq",
           "settings": {
             "checkbox_expanded": false,
-            "title": "Come fate il vostro cioccolato?",
+            "title": "Cos è l' AgroEcologia?",
             "content": "<p>FAQ content<\/p>"
           }
         },
@@ -709,7 +709,7 @@
           "type": "faq",
           "settings": {
             "checkbox_expanded": false,
-            "title": "Da dove vengono i vostri ingradienti",
+            "title": "Da dove vengono i vostri ingredienti?",
             "content": "<p>FAQ content<\/p>"
           }
         },
@@ -886,7 +886,7 @@
       "settings": {
         "collection_main": "cioccolato-in-barrette-natural-chocolate",
         "collection_limit": 2,
-        "bg": "#fff",
+        "bg": "#ffffff",
         "title": "BARRETTE CIOCCOLATO FONDENTE",
         "img_width": 390,
         "cell_align": "center",
