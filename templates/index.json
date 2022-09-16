@@ -853,6 +853,7 @@
     },
     "1663089550e6edda1f": {
       "type": "product-kit",
+      "disabled": true,
       "blocks": {
         "6b08916c-f7fe-4f4a-9b28-2b8cc538caa7": {
           "type": "productKit",
@@ -897,6 +898,7 @@
     },
     "16630929739aa6857c": {
       "type": "tooltips",
+      "disabled": true,
       "blocks": {
         "166309297314f73f42-0": {
           "type": "Tooltip",
