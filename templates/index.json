@@ -9,7 +9,7 @@
             "image": "shopify:\/\/shop_images\/Cestino_Alchemico_b3c3605d-b92a-4b2e-bf6c-639bc6210683.jpg",
             "heading": "DAL CAMPO AL LAB",
             "heading_size": "h2",
-            "subheading": "laboratorio artigianale e azienda agricola: nello stesso luogo, ai piedi del Monte Circeo, coltiviamo in modo naturale gli ingredienti che poi usiamo in cucina.. primo fra tutti lo Zafferano del Circeo",
+            "subheading": "laboratorio artigianale e azienda agricola nello stesso luogo, ai piedi del Monte Circeo, coltiviamo in modo naturale gli ingredienti che poi usiamo in cucina.. primo fra tutti lo Zafferano del Circeo",
             "button_label": "su di noi",
             "link": "shopify:\/\/pages\/chi-siamo",
             "button_style_secondary": true,
@@ -217,7 +217,7 @@
         "165695016975e86f0d-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>naturale<\/strong> perchè crediamo che le regole dell’agricoltura vadano riscritte. Il pianeta e noi non possiamo piu sostenere sistemi di monocoltura intensiva e utilizzo di concimi, pesticidi e prodotti chimici nocivi per l'uomo e l'ambiente a scapito della qualità dei prodotti.<\/p><p>Nei nostri terreni applichiamo tecniche di <strong>permacoltura<\/strong> e <strong>consociazioni<\/strong> per favorire la biodiversita’ e lo sviluppo delle difese naturali delle piante. Aderiamo ai principi della nascente <strong>AgroEcologia<\/strong> e cerchiamo di recuperare varietà <strong>antiche di frutta <\/strong>e ortaggi con un occhio di riguardo per le <strong>erbe selvatiche<\/strong> piu’ nutrienti<\/p>"
+            "text": "<p><strong>naturale<\/strong> perchè crediamo che le regole dell’agricoltura vadano riscritte. Il pianeta e noi non possiamo piu sostenere sistemi di monocoltura intensiva e utilizzo di concimi, pesticidi e prodotti chimici nocivi per l'uomo e l'ambiente a scapito della qualità dei prodotti.<\/p><p>Nei nostri terreni applichiamo tecniche di <strong>permacoltura<\/strong> e <strong>consociazioni<\/strong> per favorire la biodiversita’ e lo sviluppo delle difese naturali delle piante. Aderiamo ai principi della nascente <strong>AgroEcologia<\/strong> e cerchiamo di recuperare varietà <strong>antiche di frutta <\/strong>e ortaggi con un occhio di riguardo per le <strong>erbe selvatiche<\/strong>, <strong>frutti antichi e cerali integrali<\/strong> piu’ nutrienti<\/p>"
           }
         },
         "165695016975e86f0d-2": {
@@ -853,7 +853,6 @@
     },
     "1663089550e6edda1f": {
       "type": "product-kit",
-      "disabled": true,
       "blocks": {
         "6b08916c-f7fe-4f4a-9b28-2b8cc538caa7": {
           "type": "productKit",
@@ -898,7 +897,6 @@
     },
     "16630929739aa6857c": {
       "type": "tooltips",
-      "disabled": true,
       "blocks": {
         "166309297314f73f42-0": {
           "type": "Tooltip",
