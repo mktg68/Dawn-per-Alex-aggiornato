@@ -416,42 +416,6 @@
         "padding_bottom": 20
       }
     },
-    "165695293894235f4e": {
-      "type": "story-look",
-      "blocks": {
-        "79f575e7-b94b-4764-98c7-1095ade84c48": {
-          "type": "storyLook",
-          "settings": {
-            "title": "Il Parco Nazionale",
-            "enable_info_card": true,
-            "richtext": "<p>Le 5 zone del Parco Nazionale del Circeo..<\/p>",
-            "btn_url": "",
-            "btn_label": "altro.."
-          }
-        },
-        "23da264b-0ef8-4029-ba85-70c155dad342": {
-          "type": "storyLook",
-          "settings": {
-            "title": "Piante officinale e piccoli frutti del Parco",
-            "enable_info_card": true,
-            "richtext": "<p>Piante officinali e piccoli frutti el Parco..<\/p>",
-            "btn_url": "",
-            "btn_label": "altro.."
-          }
-        }
-      },
-      "block_order": [
-        "79f575e7-b94b-4764-98c7-1095ade84c48",
-        "23da264b-0ef8-4029-ba85-70c155dad342"
-      ],
-      "settings": {
-        "bg_shape": "",
-        "bg_color": "#ffffff",
-        "section_title": "Il Circeo e il territorio del Parco Nazionale",
-        "section_info": "<p>un territorio a picco sul mare, unico e incredibile in ogni stagione, riserva di biodiversità e di archeologia, da riscoprire, da supportare e da difendere..<\/p>",
-        "enable_overlay": true
-      }
-    },
     "16545886362360f39d": {
       "type": "featured-product",
       "disabled": true,
@@ -523,6 +487,53 @@
         "enable_video_looping": false,
         "padding_top": 8,
         "padding_bottom": 8
+      }
+    },
+    "166342159261e50f8c": {
+      "type": "image-banner",
+      "blocks": {
+        "16634215929081cfe9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Il Circeo e il Parco Nazionale",
+            "heading_size": "h1"
+          }
+        },
+        "16634215929081cfe9-1": {
+          "type": "text",
+          "settings": {
+            "text": "un territorio a picco sul mare, unico e incredibile in ogni stagione, riserva di biodiversità e di archeologia, da riscoprire, da supportare e da difendere..",
+            "text_style": "body"
+          }
+        },
+        "16634215929081cfe9-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16634215929081cfe9-0",
+        "16634215929081cfe9-1",
+        "16634215929081cfe9-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "multicolumn": {
@@ -930,8 +941,8 @@
     "166308941626df14d9",
     "16547072421a698d53",
     "16569526227d0a1812",
-    "165695293894235f4e",
     "16545886362360f39d",
+    "166342159261e50f8c",
     "multicolumn",
     "featured_collection",
     "166308723174e82989",
