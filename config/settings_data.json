@@ -106,7 +106,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "FREE SHIPPING OVER 49€",
+              "text": "SPEDIZIONE GRATUITA SOPRA 49€ DI SPESA",
               "color_scheme": "background-1",
               "link": "shopify:\/\/policies\/shipping-policy"
             }
