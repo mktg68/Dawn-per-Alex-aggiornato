@@ -33,7 +33,6 @@
     },
     "16635064588f9cd162": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1663506458ad55dcb2-0": {
           "type": "heading",
@@ -78,7 +77,6 @@
     },
     "1663506565ba8d2ede": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "16635065659fab88cf-0": {
           "type": "heading",
@@ -121,9 +119,45 @@
         "padding_bottom": 36
       }
     },
+    "16635204158163d768": {
+      "type": "collage",
+      "blocks": {
+        "2132be6c-0097-40d4-9812-446bc948d5cc": {
+          "type": "image",
+          "settings": {
+            "image_padding": false
+          }
+        },
+        "f31a5a23-e282-4d57-aebb-bf4eb0f72717": {
+          "type": "image",
+          "settings": {
+            "image_padding": false
+          }
+        },
+        "dbe178d8-66f4-46f5-ba6c-fb7b40e58e6d": {
+          "type": "image",
+          "settings": {
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "2132be6c-0097-40d4-9812-446bc948d5cc",
+        "f31a5a23-e282-4d57-aebb-bf4eb0f72717",
+        "dbe178d8-66f4-46f5-ba6c-fb7b40e58e6d"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1663506424cab30ed5": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "16635064241393d198-0": {
           "type": "heading",
@@ -154,7 +188,6 @@
     },
     "1663506616dd70f119": {
       "type": "newsletter",
-      "disabled": true,
       "blocks": {
         "166350661670c23cdd-0": {
           "type": "heading",
@@ -193,6 +226,7 @@
     "1663506705e76e396a",
     "16635064588f9cd162",
     "1663506565ba8d2ede",
+    "16635204158163d768",
     "1663506424cab30ed5",
     "1663506616dd70f119"
   ]
