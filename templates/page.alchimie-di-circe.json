@@ -76,6 +76,18 @@
         "padding_bottom": 36
       }
     },
+    "16635206605a42fcb0": {
+      "type": "text-with-background",
+      "settings": {
+        "bg_color": "#ffce05",
+        "title": "L'AZIENDA AGRICOLA",
+        "info": "",
+        "btn_url": "\/",
+        "btn_label": "",
+        "padding_top": 4,
+        "padding_bottom": 4
+      }
+    },
     "1663506565ba8d2ede": {
       "type": "image-with-text",
       "blocks": {
@@ -183,27 +195,15 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "16635206605a42fcb0": {
-      "type": "text-with-background",
-      "settings": {
-        "bg_color": "#ffce05",
-        "title": "L'AZIENDA AGRICOLA",
-        "info": "",
-        "btn_url": "\/",
-        "btn_label": "",
-        "padding_top": 4,
-        "padding_bottom": 4
-      }
     }
   },
   "order": [
     "main",
     "1663506705e76e396a",
     "16635064588f9cd162",
+    "16635206605a42fcb0",
     "1663506565ba8d2ede",
     "1663506424cab30ed5",
-    "1663506616dd70f119",
-    "16635206605a42fcb0"
+    "1663506616dd70f119"
   ]
 }
