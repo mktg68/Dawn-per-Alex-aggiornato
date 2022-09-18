@@ -15,6 +15,7 @@
         "16557448132ee6349a-0": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/1.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
