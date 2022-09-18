@@ -2,9 +2,33 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
+      }
+    },
+    "1663506705e76e396a": {
+      "type": "rich-text",
+      "blocks": {
+        "16635067059be4fbcc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>IL LABORATORIO ARTIGIANALE<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16635067059be4fbcc-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "16635064588f9cd162": {
@@ -162,6 +186,7 @@
   },
   "order": [
     "main",
+    "1663506705e76e396a",
     "16635064588f9cd162",
     "1663506565ba8d2ede",
     "1663506424cab30ed5",
