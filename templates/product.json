@@ -167,6 +167,7 @@
     },
     "image-with-text": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "image-with-text-0": {
           "type": "heading",
@@ -247,6 +248,7 @@
     },
     "16557461536bd74b28": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "68a720d4-ce73-4570-b4c8-2028c3fa4355": {
           "type": "image",
@@ -287,6 +289,7 @@
     },
     "1655743488338a647d": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1655743488b6ff413b-0": {
           "type": "heading",
@@ -347,6 +350,7 @@
     },
     "1654766361fc2d668b": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Blog posts",
         "heading_size": "h1",
