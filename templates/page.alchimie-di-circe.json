@@ -183,6 +183,18 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "16635206605a42fcb0": {
+      "type": "text-with-background",
+      "settings": {
+        "bg_color": "#ffce05",
+        "title": "L'AZIENDA AGRICOLA",
+        "info": "",
+        "btn_url": "\/",
+        "btn_label": "",
+        "padding_top": 4,
+        "padding_bottom": 4
+      }
     }
   },
   "order": [
@@ -191,6 +203,7 @@
     "16635064588f9cd162",
     "1663506565ba8d2ede",
     "1663506424cab30ed5",
-    "1663506616dd70f119"
+    "1663506616dd70f119",
+    "16635206605a42fcb0"
   ]
 }
