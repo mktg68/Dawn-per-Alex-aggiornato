@@ -180,6 +180,7 @@
     },
     "image-with-text": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "image-with-text-0": {
           "type": "heading",
@@ -216,6 +217,7 @@
     },
     "1655801071ea1992d2": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "e83f9fe8-53f6-4f51-ad68-475ca1265d64": {
           "type": "image",
@@ -256,6 +258,7 @@
     },
     "1654591691953b242f": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1654591691e33d1788-0": {
           "type": "heading",
@@ -300,7 +303,6 @@
     },
     "multicolumn": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "column-0": {
           "type": "column",
