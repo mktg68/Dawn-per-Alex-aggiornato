@@ -657,23 +657,11 @@
             "text": "un territorio a picco sul mare, unico e incredibile in ogni stagione, riserva di biodiversità e di archeologia, da riscoprire, da supportare e da difendere..",
             "text_style": "body"
           }
-        },
-        "16634215929081cfe9-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "16634215929081cfe9-0",
-        "16634215929081cfe9-1",
-        "16634215929081cfe9-2"
+        "16634215929081cfe9-1"
       ],
       "settings": {
         "image_overlay_opacity": 0,
