@@ -236,6 +236,58 @@
         "show_text_below": false
       }
     },
+    "16636110137def76e7": {
+      "type": "slideshow",
+      "blocks": {
+        "1663611013efc760ab-0": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "1663611013efc760ab-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1663611013efc760ab-0",
+        "1663611013efc760ab-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "16569501690775bac4": {
       "type": "rich-text",
       "blocks": {
@@ -985,6 +1037,7 @@
     "166309304430b2921b",
     "1654697334b3514743",
     "image_banner",
+    "16636110137def76e7",
     "16569501690775bac4",
     "1656950237cedfd9b6",
     "165458846339a33a6e",
