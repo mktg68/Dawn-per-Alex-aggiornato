@@ -544,6 +544,73 @@
         "padding_bottom": 24
       }
     },
+    "1663605865761cf546": {
+      "type": "collage",
+      "blocks": {
+        "1663605865a8367454-0": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": "Describe the video",
+            "image_padding": false
+          }
+        },
+        "1663605865a8367454-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "1663605865a8367454-2": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "1663605865a8367454-0",
+        "1663605865a8367454-1",
+        "1663605865a8367454-2"
+      ],
+      "settings": {
+        "heading": "PRALINE E CIOCCOLATO IN TAVOLETTE",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16636064328a5ef542": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "166342159261e50f8c": {
       "type": "image-banner",
       "blocks": {
@@ -643,46 +710,6 @@
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1663605865761cf546": {
-      "type": "collage",
-      "blocks": {
-        "1663605865a8367454-0": {
-          "type": "video",
-          "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "description": "Describe the video",
-            "image_padding": false
-          }
-        },
-        "1663605865a8367454-1": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "1663605865a8367454-2": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "1663605865a8367454-0",
-        "1663605865a8367454-1",
-        "1663605865a8367454-2"
-      ],
-      "settings": {
-        "heading": "PRALINE E CIOCCOLATO IN TAVOLETTE",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -985,10 +1012,11 @@
     "16569526227d0a1812",
     "16545886362360f39d",
     "multicolumn",
+    "1663605865761cf546",
+    "16636064328a5ef542",
     "166342159261e50f8c",
     "featured_collection",
     "166308723174e82989",
-    "1663605865761cf546",
     "165458823624187e23",
     "1654707965c64c9801",
     "16545883497f8cf782",
