@@ -374,34 +374,6 @@
         "padding_bottom": 28
       }
     },
-    "165458846339a33a6e": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "cioccolato bianco",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "sortilegi-della-maga-white-magic",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "166308941626df14d9": {
       "type": "image-with-text",
       "blocks": {
@@ -443,6 +415,33 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "16636064328a5ef542": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "LINEA CONSERVE",
+        "heading_size": "h2",
+        "description": "<p>erbe selvatiche sott'olio, mostarde di frutta antica, ricette innovative per ingredienti naturali <\/p>",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "conserve-speciali-natural-ingredients",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "16547072421a698d53": {
@@ -487,121 +486,9 @@
         "padding_bottom": 52
       }
     },
-    "16569526227d0a1812": {
-      "type": "text-with-background",
-      "disabled": true,
-      "settings": {
-        "bg_color": "#ffdb00",
-        "title": "Nuova Alchimia!",
-        "info": "<p>scopri il nostro ultimo prodotto in uscita questo mese..<\/p>",
-        "btn_url": "\/",
-        "btn_label": "più info",
-        "padding_top": 12,
-        "padding_bottom": 20
-      }
-    },
-    "16636064328a5ef542": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "LINEA CONSERVE",
-        "heading_size": "h2",
-        "description": "<p>erbe selvatiche sott'olio, mostarde di frutta antica, ricette innovative per ingredienti naturali <\/p>",
-        "show_description": false,
-        "description_style": "subtitle",
-        "collection": "conserve-speciali-natural-ingredients",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "16545886362360f39d": {
-      "type": "featured-product",
-      "disabled": true,
-      "blocks": {
-        "1654588636c35f2944-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "1654588636c35f2944-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "1654588636c35f2944-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "1654588636c35f2944-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "1654588636c35f2944-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "1654588636c35f2944-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "1654588636c35f2944-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "1654588636c35f2944-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "1654588636c35f2944-0",
-        "1654588636c35f2944-1",
-        "1654588636c35f2944-2",
-        "1654588636c35f2944-3",
-        "1654588636c35f2944-4",
-        "1654588636c35f2944-5",
-        "1654588636c35f2944-6",
-        "1654588636c35f2944-7"
-      ],
-      "settings": {
-        "product": "miele-allo-zafferano-ambra-di-circe",
-        "color_scheme": "inverse",
-        "secondary_background": false,
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 8,
-        "padding_bottom": 8
-      }
-    },
     "multicolumn": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
@@ -693,6 +580,33 @@
         "padding_bottom": 36
       }
     },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Cioccolatini dark",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "frontpage",
+        "products_to_show": 12,
+        "columns_desktop": 5,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
     "166342159261e50f8c": {
       "type": "image-banner",
       "blocks": {
@@ -726,62 +640,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Cioccolatini dark",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "frontpage",
-        "products_to_show": 12,
-        "columns_desktop": 5,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
-    "166308723174e82989": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Featured collection",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "165458823624187e23": {
@@ -1040,17 +898,13 @@
     "16636110137def76e7",
     "16569501690775bac4",
     "1656950237cedfd9b6",
-    "165458846339a33a6e",
     "166308941626df14d9",
-    "16547072421a698d53",
-    "16569526227d0a1812",
     "16636064328a5ef542",
-    "16545886362360f39d",
+    "16547072421a698d53",
     "multicolumn",
     "1663605865761cf546",
-    "166342159261e50f8c",
     "featured_collection",
-    "166308723174e82989",
+    "166342159261e50f8c",
     "165458823624187e23",
     "16545883497f8cf782",
     "1654707496b217ff7c",
