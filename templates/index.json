@@ -206,6 +206,36 @@
         "show_text_below": false
       }
     },
+    "1663607151262d4066": {
+      "type": "rich-text",
+      "blocks": {
+        "1663607151511100d1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>SITE UNDER CONSTRUCTION - SITO IN ALLESTIMENTO<\/p>",
+            "heading_size": "hxl"
+          }
+        },
+        "1663607151511100d1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>WORK IN PROGRESS<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1663607151511100d1-0",
+        "1663607151511100d1-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16569501690775bac4": {
       "type": "rich-text",
       "blocks": {
@@ -988,6 +1018,7 @@
     "166309304430b2921b",
     "1654697334b3514743",
     "image_banner",
+    "1663607151262d4066",
     "16569501690775bac4",
     "1656950237cedfd9b6",
     "165458846339a33a6e",
