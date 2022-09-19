@@ -172,7 +172,7 @@
           "type": "text",
           "settings": {
             "text": "molto più di un cracker",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         },
         "button": {
