@@ -385,8 +385,8 @@
             "button_label": "chi siamo",
             "button_link": "shopify:\/\/pages\/chi-siamo",
             "button_style_secondary": false,
-            "button_label_2": "il laboratorio",
-            "button_link_2": "shopify:\/\/pages\/il-laboratorio-artigianale",
+            "button_label_2": "",
+            "button_link_2": "",
             "button_style_secondary_2": false
           }
         }
