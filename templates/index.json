@@ -6,15 +6,16 @@
         "16545882313a19e2a2-0": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/LINGUE_CHIA_ZAFF_PAN_1.jpg",
             "heading": "DAL CAMPO AL LAB",
             "heading_size": "h2",
             "subheading": "laboratorio artigianale e azienda agricola nello stesso luogo, ai piedi del Monte Circeo..coltiviamo in modo naturale gli ingredienti che poi usiamo in cucina.. primo fra tutti lo Zafferano del Circeo",
             "button_label": "IL PROGETTO",
             "link": "shopify:\/\/pages\/chi-siamo",
             "button_style_secondary": true,
-            "box_align": "bottom-right",
+            "box_align": "middle-center",
             "show_text_box": true,
-            "text_alignment": "right",
+            "text_alignment": "left",
             "image_overlay_opacity": 0,
             "color_scheme": "inverse",
             "text_alignment_mobile": "left"
