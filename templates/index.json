@@ -60,15 +60,16 @@
         "07ca6b65-ba7c-478f-9352-98406d90527b": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6246_2.jpg",
             "heading": "RICETTE SOSTENIBILI",
             "heading_size": "h2",
             "subheading": "costante ricerca volta alla creazione, riscoperta, rivisitazione di ricette sostenibili, sia ecologicamente che a livello nutritivo, buone per l'uomo ma anche per la terra su cui vive",
             "button_label": "",
             "link": "",
             "button_style_secondary": true,
-            "box_align": "bottom-right",
+            "box_align": "middle-left",
             "show_text_box": true,
-            "text_alignment": "right",
+            "text_alignment": "left",
             "image_overlay_opacity": 0,
             "color_scheme": "inverse",
             "text_alignment_mobile": "center"
