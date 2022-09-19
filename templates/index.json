@@ -24,6 +24,7 @@
         "16545882313a19e2a2-1": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_7812_2.jpg",
             "heading": "CUOCHI MA ANCHE CONTADINI",
             "heading_size": "h2",
             "subheading": "crediamo che nessuno conosca meglio un  ingrediente di chi lo coltiva, seguiamo i nostri prodotti in ogni fase, dalla coltivazione alla trasformazione in lab",
@@ -33,7 +34,7 @@
             "box_align": "bottom-left",
             "show_text_box": true,
             "text_alignment": "left",
-            "image_overlay_opacity": 50,
+            "image_overlay_opacity": 0,
             "color_scheme": "inverse",
             "text_alignment_mobile": "left"
           }
