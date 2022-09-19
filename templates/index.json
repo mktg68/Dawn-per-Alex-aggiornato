@@ -767,29 +767,6 @@
         "padding_bottom": 52
       }
     },
-    "1654707965c64c9801": {
-      "type": "rich-text",
-      "blocks": {
-        "16547079657d43efd7-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Glossario & Faq<\/p>",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "16547079657d43efd7-0"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 20,
-        "padding_bottom": 8
-      }
-    },
     "16545883497f8cf782": {
       "type": "faq",
       "blocks": {
@@ -1022,7 +999,6 @@
     "featured_collection",
     "166308723174e82989",
     "165458823624187e23",
-    "1654707965c64c9801",
     "16545883497f8cf782",
     "1654707496b217ff7c",
     "1654085877bb4baed2",
