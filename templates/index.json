@@ -960,12 +960,11 @@
     },
     "166308969528b0542f": {
       "type": "Feature-slider",
-      "disabled": true,
       "settings": {
         "collection_main": "cioccolato-in-barrette-natural-chocolate",
-        "collection_limit": 2,
+        "collection_limit": 5,
         "bg": "#ffffff",
-        "title": "BARRETTE CIOCCOLATO FONDENTE",
+        "title": "CIOCCOLATO FONDENTE IN TAVOLETTE",
         "img_width": 390,
         "cell_align": "center",
         "title_mb": 48,
