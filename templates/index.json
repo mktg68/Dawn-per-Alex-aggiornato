@@ -958,21 +958,6 @@
         "section_info": ""
       }
     },
-    "166308969528b0542f": {
-      "type": "Feature-slider",
-      "settings": {
-        "collection_main": "cioccolato-in-barrette-natural-chocolate",
-        "collection_limit": 5,
-        "bg": "#ffc200",
-        "title": "CIOCCOLATO FONDENTE IN TAVOLETTE",
-        "img_width": 210,
-        "cell_align": "center",
-        "title_mb": 38,
-        "cell_width": "25%",
-        "wrap_around": "true",
-        "mr": 16
-      }
-    },
     "16630929739aa6857c": {
       "type": "tooltips",
       "disabled": true,
@@ -1022,7 +1007,6 @@
     "1654707496b217ff7c",
     "1654085877bb4baed2",
     "1663089550e6edda1f",
-    "166308969528b0542f",
     "16630929739aa6857c"
   ]
 }
