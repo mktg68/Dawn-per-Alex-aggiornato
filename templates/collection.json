@@ -5,7 +5,7 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "color_scheme": "background-2"
+        "color_scheme": "inverse"
       }
     },
     "16557448132085f1b3": {
@@ -87,7 +87,6 @@
         "1655216264ddc18e6f-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/8.png",
             "title": "Ingredienti naturali",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -106,7 +105,6 @@
         "1655216264ddc18e6f-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_5.png",
             "title": "Rispetto per l'ambiente",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
