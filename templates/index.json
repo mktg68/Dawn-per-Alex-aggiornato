@@ -712,7 +712,7 @@
           "settings": {
             "checkbox_expanded": false,
             "title": "Cos è l' AgroEcologia?",
-            "content": "<p>FAQ content<\/p>"
+            "content": "<p>L' AgroEcologia è un insieme di pratiche e metodi, di produzione agricola ma anche di consumo, sostenibili per l'ecosistema (suolo, falde acquifere, insetti impollinatori ecc) per la salvaguardia dell' ambiente e della qualità nutritiva dei prodotti<\/p>"
           }
         },
         "7f529f6f-4fd5-4f47-9f07-495ff89dc31f": {
@@ -749,11 +749,11 @@
       "settings": {
         "enable_rich_schema": true,
         "max_width": "124rem",
-        "margin_top": 1,
+        "margin_top": 1.4,
         "margin_bottom": 1,
         "background_color": "#ffffff",
         "border_color": "#eeeeee",
-        "panel_color": "#fdfdfd",
+        "panel_color": "#ffc200",
         "q_size_small": 1,
         "q_size_large": 1.4,
         "q_color": "",
@@ -762,6 +762,7 @@
     },
     "1654707496b217ff7c": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "16547074960cc0e3b9-0": {
           "type": "heading",
