@@ -194,11 +194,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_8177.jpg",
-        "image_2": "shopify:\/\/shop_images\/IMG_8159.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-right",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "top-right",
         "show_text_box": false,
         "desktop_content_alignment": "right",
         "color_scheme": "background-1",
