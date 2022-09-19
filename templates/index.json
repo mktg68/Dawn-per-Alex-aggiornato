@@ -24,10 +24,10 @@
         "16545882313a19e2a2-1": {
           "type": "slide",
           "settings": {
-            "heading": "CONTADINI MA ANCHE CUOCHI",
+            "heading": "CUOCHI MA ANCHE CONTADINI",
             "heading_size": "h2",
-            "subheading": "crediamo che nessuno possa conoscere meglio un  ingrediente del contadino che lo coltiva... seguiamo i nostri prodotti in ogni fase, dalla coltivazione NATURALE alla trasformazione in laboratorio, fino al confezionamento, tutto rigorosamente a mano",
-            "button_label": "il lab",
+            "subheading": "crediamo che nessuno conosca meglio un  ingrediente di chi lo coltiva, seguiamo i nostri prodotti in ogni fase, dalla coltivazione NATURALE alla trasformazione in laboratorio, fino al confezionamento, tutto rigorosamente a mano",
+            "button_label": "",
             "link": "shopify:\/\/pages\/contact",
             "button_style_secondary": true,
             "box_align": "bottom-left",
