@@ -6,11 +6,11 @@
         "16545882313a19e2a2-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_8183.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_8175.jpg",
             "heading": "DAL CAMPO ALLA CUCINA",
             "heading_size": "h2",
-            "subheading": "laboratorio artigianale e azienda agricola nello stesso luogo, ai piedi del Monte Circeo..coltiviamo in modo naturale gli ingredienti che poi usiamo in cucina.. primo fra tutti lo Zafferano del Circeo",
-            "button_label": "IL PROGETTO",
+            "subheading": "laboratorio artigianale e azienda agricola nello stesso luogo, coltiviamo in modo naturale i nostri ingredienti..primo fra tutti lo Zafferano del Circeo",
+            "button_label": "",
             "link": "shopify:\/\/pages\/chi-siamo",
             "button_style_secondary": true,
             "box_align": "bottom-left",
