@@ -245,7 +245,7 @@
         "desktop_content_position": "center",
         "content_alignment": "left",
         "color_scheme": "inverse",
-        "full_width": false,
+        "full_width": true,
         "padding_top": 20,
         "padding_bottom": 56
       }
@@ -288,7 +288,7 @@
         "desktop_content_position": "center",
         "content_alignment": "left",
         "color_scheme": "inverse",
-        "full_width": false,
+        "full_width": true,
         "padding_top": 8,
         "padding_bottom": 28
       }
@@ -327,8 +327,8 @@
         "1663089416eb9e6c6b-0": {
           "type": "heading",
           "settings": {
-            "heading": "Portulaca sott'olio",
-            "heading_size": "h1"
+            "heading": "MAYONNAISE ALLO ZAFFERANO",
+            "heading_size": "h2"
           }
         },
         "1663089416eb9e6c6b-1": {
