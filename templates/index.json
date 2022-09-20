@@ -36,14 +36,14 @@
         "16545882313a19e2a2-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/MAJONNAISE_tagliere.jpg",
+            "image": "shopify:\/\/shop_images\/HOME_8.jpg",
             "heading": "DAL CAMPO ALLA CUCINA",
             "heading_size": "h2",
             "subheading": "laboratorio artigianale e azienda agricola nello stesso luogo, coltiviamo in modo naturale i nostri ingredienti..primo fra tutti lo Zafferano del Circeo",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "top-left",
+            "box_align": "bottom-center",
             "show_text_box": true,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
