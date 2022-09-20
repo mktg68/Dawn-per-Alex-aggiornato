@@ -54,14 +54,14 @@
         "fa569ecf-3006-41a5-92a7-a05cd395165d": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/KUMQUAT_ALBERO.jpg",
+            "image": "shopify:\/\/shop_images\/LINGUE_FARRO_ZUCCA_PART_BELLA_3.jpg",
             "heading": "SAPORE SOSTENIBILITA' E NUTRIZIONE",
             "heading_size": "h2",
             "subheading": "erbe e spezie selvatiche, frutti antichi, grano e cereali non raffinati, zafferano..questi gli ingredienti con cui creiamo nuovi prodotti dal gusto incredibile",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "bottom-left",
+            "box_align": "top-left",
             "show_text_box": true,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
