@@ -51,6 +51,23 @@
             "text_alignment_mobile": "left"
           }
         },
+        "fa569ecf-3006-41a5-92a7-a05cd395165d": {
+          "type": "slide",
+          "settings": {
+            "heading": "SAPORE S",
+            "heading_size": "h1",
+            "subheading": "erbe e spezie selvatiche, frutti antichi, grano e cereali non raffinati, zafferano..questi gli ingredienti con cui creiamo nuovi e inredibili prodotti",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "16545882313a19e2a2-1": {
           "type": "slide",
           "settings": {
@@ -108,6 +125,7 @@
       },
       "block_order": [
         "16545882313a19e2a2-0",
+        "fa569ecf-3006-41a5-92a7-a05cd395165d",
         "16545882313a19e2a2-1",
         "47aa4dd5-6544-471d-92c7-f7b42ec676eb",
         "07ca6b65-ba7c-478f-9352-98406d90527b"
