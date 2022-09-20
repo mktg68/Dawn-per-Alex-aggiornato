@@ -36,14 +36,14 @@
         "16545882313a19e2a2-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/HOME_2.jpg",
+            "image": "shopify:\/\/shop_images\/MAJONNAISE_tagliere.jpg",
             "heading": "DAL CAMPO ALLA CUCINA",
             "heading_size": "h2",
             "subheading": "laboratorio artigianale e azienda agricola nello stesso luogo, coltiviamo in modo naturale i nostri ingredienti..primo fra tutti lo Zafferano del Circeo",
             "button_label": "",
-            "link": "shopify:\/\/pages\/chi-siamo",
-            "button_style_secondary": true,
-            "box_align": "bottom-left",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "top-left",
             "show_text_box": true,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
@@ -54,17 +54,18 @@
         "fa569ecf-3006-41a5-92a7-a05cd395165d": {
           "type": "slide",
           "settings": {
-            "heading": "SAPORE S",
-            "heading_size": "h1",
-            "subheading": "erbe e spezie selvatiche, frutti antichi, grano e cereali non raffinati, zafferano..questi gli ingredienti con cui creiamo nuovi e inredibili prodotti",
+            "image": "shopify:\/\/shop_images\/PORTU_2022_2.jpg",
+            "heading": "SAPORE SOSTENIBILITA' E NUTRIZIONE",
+            "heading_size": "h2",
+            "subheading": "erbe e spezie selvatiche, frutti antichi, grano e cereali non raffinati, zafferano..questi gli ingredienti con cui creiamo nuovi prodotti dal gusto incredibile",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "bottom-left",
             "show_text_box": true,
-            "text_alignment": "center",
+            "text_alignment": "left",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "inverse",
             "text_alignment_mobile": "center"
           }
         },
@@ -133,7 +134,7 @@
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
-        "slider_visual": "counter",
+        "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 7,
         "show_text_below": true,
@@ -506,7 +507,6 @@
     },
     "multicolumn": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
