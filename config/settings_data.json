@@ -149,6 +149,7 @@
           },
           "footer-2": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "heading": "ALCHIMIE DI CIRCE",
               "subtext": "<p><em>laboratorio artigianale<\/em><\/p><p><em> e azienda agricola -<\/em><\/p><p><em>Zafferano del Circeo<\/em><\/p><p><\/p>"
