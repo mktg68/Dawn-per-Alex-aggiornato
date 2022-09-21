@@ -674,21 +674,33 @@
             "text": "un territorio a picco sul mare, unico e incredibile in ogni stagione, riserva di biodiversità e di archeologia, da riscoprire, da supportare e da difendere..",
             "text_style": "body"
           }
+        },
+        "9b1ada10-083c-4f56-9192-a20f4d9062e8": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "vai",
+            "button_link_1": "shopify:\/\/pages\/contact",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "16634215929081cfe9-0",
-        "16634215929081cfe9-1"
+        "16634215929081cfe9-1",
+        "9b1ada10-083c-4f56-9192-a20f4d9062e8"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/CORBEZZOLO_pianta.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
+        "image_height": "small",
+        "adapt_height_first_image": true,
         "desktop_content_position": "bottom-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
