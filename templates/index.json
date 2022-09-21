@@ -596,6 +596,7 @@
         "1663605865a8367454-0": {
           "type": "video",
           "settings": {
+            "cover_image": "shopify:\/\/shop_images\/AE05666A-BB1D-4869-9AA4-3971A4E81336.jpg",
             "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
             "description": "Describe the video",
             "image_padding": false
@@ -625,7 +626,7 @@
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "padding_top": 36,
         "padding_bottom": 36
       }
