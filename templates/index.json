@@ -482,7 +482,7 @@
         "show_view_all": true,
         "view_all_style": "outline",
         "enable_desktop_slider": true,
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": false,
@@ -604,14 +604,14 @@
         "1663605865a8367454-1": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false
+            "product": "natural-chocolate-mandarino-e-mandorla",
+            "second_image": true
           }
         },
         "1663605865a8367454-2": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "sortilegi-della-maga-white-magic"
           }
         }
       },
