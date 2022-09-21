@@ -664,8 +664,8 @@
         "16634215929081cfe9-0": {
           "type": "heading",
           "settings": {
-            "heading": "Il Circeo e il Parco Nazionale",
-            "heading_size": "h1"
+            "heading": "IL CIRCEO E IL PARCO NAZIONALE",
+            "heading_size": "h2"
           }
         },
         "16634215929081cfe9-1": {
@@ -681,10 +681,11 @@
         "16634215929081cfe9-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/CORBEZZOLO_pianta.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "bottom-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
