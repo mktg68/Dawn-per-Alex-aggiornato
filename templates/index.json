@@ -436,15 +436,15 @@
         "1663089416eb9e6c6b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>il nostro Zafferano del Circeo in un' altra combinazione da non perdere..in gusto delle buone uova naturali si fondev col retrogusto del crocus sativus..una mayo a lunga conservazione con poco aceto di mele bio e limoni naturali di nostra produzione <\/p>",
             "text_style": "body"
           }
         },
         "1663089416eb9e6c6b-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "shop",
+            "button_link": "shopify:\/\/products\/mayonnaise-allo-zafferano-del-circeo"
           }
         }
       },
