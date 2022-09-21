@@ -100,7 +100,11 @@
     "cart_type": "drawer",
     "show_cart_note": true,
     "cart_drawer_collection": "cioccolato-in-barrette-natural-chocolate",
-    "checkout_logo_image": "shopify:\/\/shop_images\/LOGO_rettangolo_2022_63a2ebd8-3fbc-4ecc-b6ec-4ff9ef908ae6.jpg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/LOGO_rettangolo_2022_9e155911-24f6-4bac-a9b4-dae430602084.jpg",
+    "checkout_body_background_color": "#050000",
+    "checkout_sidebar_background_color": "#ffc200",
+    "checkout_accent_color": "#ffffff",
+    "checkout_button_color": "#ffc200",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
