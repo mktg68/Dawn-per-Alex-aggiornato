@@ -1,36 +1,5 @@
 {
   "sections": {
-    "1663607151262d4066": {
-      "type": "rich-text",
-      "blocks": {
-        "1663607151511100d1-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "<p>SITE UNDER CONSTRUCTION - SITO  WEB IN ALLESTIMENTO<\/p>",
-            "heading_size": "hxl"
-          }
-        },
-        "1663607151511100d1-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>WORK IN PROGRESS<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1663607151511100d1-0",
-        "1663607151511100d1-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "1654588232c80d0d73": {
       "type": "slideshow",
       "blocks": {
@@ -133,7 +102,7 @@
         "16545882313a19e2a2-1"
       ],
       "settings": {
-        "layout": "grid",
+        "layout": "full_bleed",
         "slide_height": "medium",
         "slider_visual": "dots",
         "auto_rotate": true,
@@ -956,7 +925,6 @@
     }
   },
   "order": [
-    "1663607151262d4066",
     "1654588232c80d0d73",
     "1654697334b3514743",
     "166309304430b2921b",
