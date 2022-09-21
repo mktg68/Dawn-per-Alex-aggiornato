@@ -754,6 +754,7 @@
         },
         "7f529f6f-4fd5-4f47-9f07-495ff89dc31f": {
           "type": "faq",
+          "disabled": true,
           "settings": {
             "checkbox_expanded": false,
             "title": "Da dove vengono i vostri ingredienti?",
@@ -762,6 +763,7 @@
         },
         "216d8621-5b88-48a5-8a1d-23562e459aa8": {
           "type": "faq",
+          "disabled": true,
           "settings": {
             "checkbox_expanded": false,
             "title": "Il cioccolato che utilizzate è Fairtrade: cosa significa?",
@@ -773,7 +775,7 @@
           "settings": {
             "checkbox_expanded": false,
             "title": "In quanto tempo spedite i vostri prodotti in Italia?",
-            "content": "<p>FAQ content<\/p>"
+            "content": "<p>Effettuiamo spedizioni in tutta Italia in 48h con UPS o DHL, in ogni momento è possibile tracciare grazie al codice che riceverai via mail subito dopo l'acquisto<\/p>"
           }
         }
       },
