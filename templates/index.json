@@ -33,6 +33,24 @@
     "1654588232c80d0d73": {
       "type": "slideshow",
       "blocks": {
+        "07ca6b65-ba7c-478f-9352-98406d90527b": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LINGUE_SEGALE_NOCCIOLA_PAN_1.jpg",
+            "heading": "PRODOTTI E RICETTE SOSTENIBILI",
+            "heading_size": "h2",
+            "subheading": "Alchimie di Circe è costante ricerca volta alla creazione di ricette sostenibili, sia ecologicamente che a livello nutritivo, buone per l'uomo e per la terra su cui vive",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        },
         "16545882313a19e2a2-0": {
           "type": "slide",
           "settings": {
@@ -49,6 +67,24 @@
             "image_overlay_opacity": 0,
             "color_scheme": "inverse",
             "text_alignment_mobile": "left"
+          }
+        },
+        "47aa4dd5-6544-471d-92c7-f7b42ec676eb": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CAF7EACB-A55F-43D4-929C-2FE1D2CC0ED9_2.jpg",
+            "heading": "ATTENTA SELEZIONE DI OGNI INGREDIENTE",
+            "heading_size": "h2",
+            "subheading": "per tutti gli ingredienti che non produciamo facciamo un attentissima selezione, una rete di aziende amiche che condividono con noi princìpi di sostenibilità e  Agroecologia",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "bottom-right",
+            "show_text_box": true,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
           }
         },
         "fa569ecf-3006-41a5-92a7-a05cd395165d": {
@@ -86,71 +122,23 @@
             "color_scheme": "inverse",
             "text_alignment_mobile": "left"
           }
-        },
-        "47aa4dd5-6544-471d-92c7-f7b42ec676eb": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/0665B6DF-BEDA-4926-A844-CC19D9115A09_2.jpg",
-            "heading": "ATTENTA SELEZIONE DI OGNI INGREDIENTE",
-            "heading_size": "h2",
-            "subheading": "per tutti gli ingredienti che non produciamo facciamo un attentissima selezione, una rete di aziende amiche che condividono con noi princìpi di sostenibilità e  Agroecologia",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": true,
-            "box_align": "middle-left",
-            "show_text_box": true,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "inverse",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "07ca6b65-ba7c-478f-9352-98406d90527b": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/LINGUE_SEGALE_NOCCIOLA_PAN_1.jpg",
-            "heading": "RICETTE SOSTENIBILI",
-            "heading_size": "h2",
-            "subheading": "costante ricerca volta alla creazione di ricette sostenibili, sia ecologicamente che a livello nutritivo, buone per l'uomo e per la terra su cui vive",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "bottom-left",
-            "show_text_box": true,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "inverse",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
+        "07ca6b65-ba7c-478f-9352-98406d90527b",
         "16545882313a19e2a2-0",
-        "fa569ecf-3006-41a5-92a7-a05cd395165d",
-        "16545882313a19e2a2-1",
         "47aa4dd5-6544-471d-92c7-f7b42ec676eb",
-        "07ca6b65-ba7c-478f-9352-98406d90527b"
+        "fa569ecf-3006-41a5-92a7-a05cd395165d",
+        "16545882313a19e2a2-1"
       ],
       "settings": {
-        "layout": "full_bleed",
+        "layout": "grid",
         "slide_height": "medium",
         "slider_visual": "dots",
-        "auto_rotate": false,
+        "auto_rotate": true,
         "change_slides_speed": 7,
         "show_text_below": true,
         "accessibility_info": "Alchimie di Circe principi fondanti"
-      }
-    },
-    "166309304430b2921b": {
-      "type": "text-with-background",
-      "settings": {
-        "bg_color": "#ffc200",
-        "title": "“..attorno a lei nereidi e ninfe  che non filavano muovendo le dita non traevano fili ma erbe e fiori sparsi alla rinfusa steli di vario colore selezionavano lei conosceva la funzione di ogni foglia esaminava con cura i dosaggi...”",
-        "info": "<p>OVIDIO - LE METAMORFOSI<\/p>",
-        "btn_url": "",
-        "btn_label": "",
-        "padding_top": 8,
-        "padding_bottom": 4
       }
     },
     "1654697334b3514743": {
@@ -205,6 +193,18 @@
         "swipe_on_mobile": true,
         "padding_top": 20,
         "padding_bottom": 24
+      }
+    },
+    "166309304430b2921b": {
+      "type": "text-with-background",
+      "settings": {
+        "bg_color": "#ffc200",
+        "title": "“..attorno a lei nereidi e ninfe  che non filavano muovendo le dita non traevano fili ma erbe e fiori sparsi alla rinfusa steli di vario colore selezionavano lei conosceva la funzione di ogni foglia esaminava con cura i dosaggi...”",
+        "info": "<p>OVIDIO - LE METAMORFOSI<\/p>",
+        "btn_url": "",
+        "btn_label": "",
+        "padding_top": 8,
+        "padding_bottom": 4
       }
     },
     "image_banner": {
@@ -940,8 +940,8 @@
   "order": [
     "1663607151262d4066",
     "1654588232c80d0d73",
-    "166309304430b2921b",
     "1654697334b3514743",
+    "166309304430b2921b",
     "image_banner",
     "16636110137def76e7",
     "1663757696bfe0682b",
