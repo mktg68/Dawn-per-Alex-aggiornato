@@ -671,14 +671,14 @@
         "16634215929081cfe9-1": {
           "type": "text",
           "settings": {
-            "text": "un territorio a picco sul mare, unico e incredibile in ogni stagione, riserva di biodiversità e di archeologia, da riscoprire, da supportare e da difendere..",
+            "text": "un territorio a picco sul mare, unico es incredibile in ogni stagione, diviso in 5 zone con ecosistemi diversi,  riserva di biodiversità e di archeologia, da riscoprire, da supportare e da difendere..",
             "text_style": "body"
           }
         },
         "9b1ada10-083c-4f56-9192-a20f4d9062e8": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "vai",
+            "button_label_1": "più info",
             "button_link_1": "shopify:\/\/pages\/contact",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -693,13 +693,13 @@
         "9b1ada10-083c-4f56-9192-a20f4d9062e8"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/CORBEZZOLO_pianta.jpg",
+        "image": "shopify:\/\/shop_images\/CIRCEO_Erica.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": true,
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "bottom-left",
         "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "inverse",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
