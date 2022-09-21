@@ -507,7 +507,7 @@
         "1654707242c8a529c7-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Per ogni ingrediente che la nostra terra ha da offrire, spezia, frutto o verdura, elaboriamo un 'alchimia di gusto', la più buona possibile..ma anche più digeribile e nutriente, grazie ad un' attenta selezione delle materie prime non deteriorate da processi industriali.<\/p><p>Alchimie per il palato, dolci o salate, con zafferano o senza, in armonia con le giuste combinazioni alimentari, con soli ingredienti naturali non raffinati, per una maggiore consapevolezza, di se e del territorio.<\/p>"
+            "text": "<p>Per ogni ingrediente che la nostra terra ha da offrire, spezia, frutto o verdura, elaboriamo un' alchimia di gusto, la più buona possibile..ma anche più digeribile e nutriente, grazie ad un' attenta selezione e abbinamento di materie prime non deteriorate da processi industriali.<\/p><p>Alchimie per il palato, dolci o salate, con zafferano o senza, in armonia con le giuste combinazioni alimentari, con farine non raffinate, zuccheri integrali, frutta naturale non trattata, erbe e spezie selvatiche e molto altro.. per una maggiore consapevolezza, di se e del territorio.<\/p>"
           }
         },
         "1654707242c8a529c7-2": {
@@ -634,28 +634,28 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Cioccolatini dark",
+        "title": "CIOCCOLATINI FONDENTI  - SORTILEGI DELLA MAGA",
         "heading_size": "h2",
-        "description": "",
+        "description": "<p>vegan, gluten free, low sugar.. e soprattutto buonissimi !!!  frutta candita + frutta secca + fondente<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "frontpage",
         "products_to_show": 12,
         "columns_desktop": 5,
         "full_width": true,
-        "show_view_all": false,
+        "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": true,
         "color_scheme": "background-1",
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "enable_quick_add": true,
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 28,
-        "padding_bottom": 36
+        "padding_bottom": 16
       }
     },
     "166342159261e50f8c": {
