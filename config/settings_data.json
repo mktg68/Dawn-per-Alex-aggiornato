@@ -108,7 +108,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "SPEDIZIONE GRATUITA SOPRA 49€ DI SPESA",
+              "text": "SPEDIZIONE RAPIDA IN 48H - GRATUITA OLTRE I 49€ DI SPESA",
               "color_scheme": "background-2",
               "link": "shopify:\/\/policies\/shipping-policy"
             }
