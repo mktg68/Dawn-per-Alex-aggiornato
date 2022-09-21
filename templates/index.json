@@ -220,7 +220,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "molto più di un cracker..snack proteici e ricchi di fibre e elementi preziosi..solo ingredienti naturali non raffinati DISPONIBILI IN 4 ABBINAMENTI",
+            "text": "molto più di un cracker..snack proteici e ricchi di fibre e elementi preziosi, vegan e senza lievito..solo ingredienti naturali italiani non raffinati..disponibili in 4 abbinamenti",
             "text_style": "subtitle"
           }
         },
@@ -261,34 +261,36 @@
         "1663611013efc760ab-0": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
+            "image": "shopify:\/\/shop_images\/HOME_11.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "super friabili e super buone, leggere e nutrienti, le nostre Lingue di Strega sono un mix perfetto di proteine, carboidrati, sali minerali, vitamine e omega 3",
+            "button_label": "LINGUE DI STREGA",
+            "link": "shopify:\/\/collections\/prodotti-da-forno",
+            "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "inverse",
             "text_alignment_mobile": "center"
           }
         },
         "1663611013efc760ab-1": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
+            "image": "shopify:\/\/shop_images\/LINGUE_FARRO_ZUCCA_PART_BELLA_3.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "solo farine naturali non raffinate selezionate e frutta secca da presidi Igp, Dop e Slow Food italiani, 4 abbinamenti tutti da scoprire..",
+            "button_label": "vai",
+            "link": "shopify:\/\/collections\/prodotti-da-forno",
+            "button_style_secondary": true,
+            "box_align": "middle-left",
             "show_text_box": true,
-            "text_alignment": "center",
+            "text_alignment": "left",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "inverse",
             "text_alignment_mobile": "center"
           }
         }
@@ -300,7 +302,7 @@
       "settings": {
         "layout": "full_bleed",
         "slide_height": "small",
-        "slider_visual": "counter",
+        "slider_visual": "dots",
         "auto_rotate": true,
         "change_slides_speed": 5,
         "show_text_below": true,
