@@ -756,14 +756,14 @@
       ],
       "settings": {
         "enable_rich_schema": true,
-        "max_width": "124rem",
+        "max_width": "150em",
         "margin_top": 1.4,
         "margin_bottom": 1,
         "background_color": "#ffffff",
         "border_color": "#eeeeee",
         "panel_color": "#ffc200",
-        "q_size_small": 1,
-        "q_size_large": 1.4,
+        "q_size_small": 1.3,
+        "q_size_large": 1.8,
         "q_color": "",
         "a_color": ""
       }
