@@ -251,7 +251,6 @@
         "68a720d4-ce73-4570-b4c8-2028c3fa4355": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_9d4e7afb-b786-4b9b-a068-3ae2e15a02c7.jpg",
             "image_padding": false
           }
         },
@@ -347,6 +346,7 @@
     },
     "1654766361fc2d668b": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Blog posts",
         "heading_size": "h1",
