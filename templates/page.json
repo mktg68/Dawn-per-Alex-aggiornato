@@ -7,6 +7,48 @@
         "padding_bottom": 28
       }
     },
+    "16639327183254e252": {
+      "type": "rich-text",
+      "blocks": {
+        "1663932718da9f3516-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>la nostra storia..<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1663932718da9f3516-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Alchimie di Circe è ricerca di equilibrio tra artigianalità, eccellenza e nutrizione.. è cucina sostenibile, è rispetto per il territorio.<\/p><p>Alchimie è un laboratorio artigianale ma anche un azienda agricola naturale, ispirata ai principi dell' Agroecologia, parte della comunità romana di produttori Slow Food, con zafferaneto, agrumeto, frutteto con varietà antiche dove effettuiamo anche conservazione e propagazione di erbe selvatiche e sperimentazione con varietà antiche di ortaggi, soprattutto perenni<\/p>"
+          }
+        },
+        "1663932718da9f3516-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1663932718da9f3516-0",
+        "1663932718da9f3516-1",
+        "1663932718da9f3516-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16635226674e4994d7": {
       "type": "slideshow",
       "blocks": {
@@ -303,6 +345,7 @@
   },
   "order": [
     "main",
+    "16639327183254e252",
     "16635226674e4994d7",
     "16635064588f9cd162",
     "1663522789b5ad5eb9",
