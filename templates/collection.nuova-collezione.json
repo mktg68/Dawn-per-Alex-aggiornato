@@ -170,7 +170,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/46527148-7E3E-4E7E-B4F4-53F670923748.jpg",
-            "image_padding": true
+            "image_padding": false
           }
         },
         "16552164745d18be7b-1": {
@@ -193,7 +193,7 @@
         "b6fff0c9-1140-435c-9f74-0114e573c113"
       ],
       "settings": {
-        "heading": "ingredienti per stimolare la creatività in cucina",
+        "heading": "ingredienti per ricette fantasiose..libera la creatività in cucina",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
