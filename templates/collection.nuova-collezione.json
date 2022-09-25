@@ -171,10 +171,10 @@
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "right",
         "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "right",
         "padding_top": 36,
         "padding_bottom": 36
       }
