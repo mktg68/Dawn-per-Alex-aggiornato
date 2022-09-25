@@ -153,9 +153,10 @@
         "1663522788467f9811-0": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/D4DFBA36-DA5D-4F9F-87B6-FBF1A18C587E.jpg",
             "heading": "L'AZIENDA AGRICOLA",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
+            "subheading": "Tell your brand's story throughs images",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -163,7 +164,7 @@
             "show_text_box": true,
             "text_alignment": "right",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "inverse",
             "text_alignment_mobile": "center"
           }
         },
@@ -191,7 +192,7 @@
       ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "adapt_image",
+        "slide_height": "large",
         "slider_visual": "dots",
         "auto_rotate": true,
         "change_slides_speed": 7,
