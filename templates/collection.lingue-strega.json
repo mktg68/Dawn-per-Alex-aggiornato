@@ -170,15 +170,16 @@
       "blocks": {
         "1664131853a6b49ddd-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "heading": "Image with text",
+            "heading": "Molto più di un cracker, le 'lingue di strega' sono un portento di fragranza e sapore. Ricche di fibre rappresentano il corretto, e buonissimo, abbinamento tra farina integrale non raffinata e frutta secca naturale (coltivata senza uso di sostanze chimiche)",
             "heading_size": "h2"
           }
         },
         "1664131853a6b49ddd-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Molto più di un cracker, le '<strong>lingue di strega'<\/strong> sono un portento di fragranza e sapore. <strong>Ricche di fibre<\/strong> rappresentano il corretto, e buonissimo, abbinamento tra <strong>farina integrale non raffinata<\/strong> e <strong>frutta secca naturale <\/strong>(coltivata senza uso di sostanze chimiche)<\/p>",
             "text_style": "body"
           }
         }
