@@ -26,46 +26,6 @@
         "padding_bottom": 36
       }
     },
-    "1655216474dd706bfa": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "51c4e4af-24bf-496a-98f3-83df65318eb5": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1.jpg",
-            "image_padding": false
-          }
-        },
-        "16552164745d18be7b-1": {
-          "type": "product",
-          "settings": {
-            "product": "sortilegi-della-maga-white-magic-mandarino-e-mandorla",
-            "second_image": true
-          }
-        },
-        "b6fff0c9-1140-435c-9f74-0114e573c113": {
-          "type": "image",
-          "settings": {
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "51c4e4af-24bf-496a-98f3-83df65318eb5",
-        "16552164745d18be7b-1",
-        "b6fff0c9-1140-435c-9f74-0114e573c113"
-      ],
-      "settings": {
-        "heading": "Nuovo prodotto",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1655217812dc13e471": {
       "type": "custom-liquid",
       "disabled": true,
@@ -202,16 +162,56 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1655216474dd706bfa": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "51c4e4af-24bf-496a-98f3-83df65318eb5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/46527148-7E3E-4E7E-B4F4-53F670923748.jpg",
+            "image_padding": true
+          }
+        },
+        "16552164745d18be7b-1": {
+          "type": "product",
+          "settings": {
+            "product": "sortilegi-della-maga-white-magic-mandarino-e-mandorla",
+            "second_image": true
+          }
+        },
+        "b6fff0c9-1140-435c-9f74-0114e573c113": {
+          "type": "image",
+          "settings": {
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "51c4e4af-24bf-496a-98f3-83df65318eb5",
+        "16552164745d18be7b-1",
+        "b6fff0c9-1140-435c-9f74-0114e573c113"
+      ],
+      "settings": {
+        "heading": "Nuovo prodotto",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "banner",
     "product-grid",
-    "1655216474dd706bfa",
     "1655217812dc13e471",
     "16641214670782f926",
     "1664121769144bf9b6",
     "1664122483255df260",
-    "166412314902f62293"
+    "166412314902f62293",
+    "1655216474dd706bfa"
   ]
 }
