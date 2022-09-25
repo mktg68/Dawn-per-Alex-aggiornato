@@ -18,9 +18,9 @@
         "show_vendor": false,
         "show_rating": true,
         "enable_quick_add": true,
-        "enable_filtering": true,
+        "enable_filtering": false,
         "filter_type": "horizontal",
-        "enable_sorting": true,
+        "enable_sorting": false,
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36
@@ -166,32 +166,40 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "16641224907d2c71ae": {
-      "type": "image-banner",
+    "166412314902f62293": {
+      "type": "image-with-text",
       "blocks": {
-        "16641224900c86945d-0": {
+        "1664123149ae43e864-0": {
           "type": "heading",
           "settings": {
             "heading": "Con Zafferano del Circeo o senza, a base di erbe selvatiche, frutti antichi, spezie del territorio, ogni conserva (quasi tutte vegan e gluten free) è un inno al territorio e alla buona tavola, stimola la fantasia e la creatività in chi interpreta la cucina e il buon cibo come arte di vivere",
             "heading_size": "h2"
           }
+        },
+        "1664123149ae43e864-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "MAYONNAISE ALLO ZAFFERANO",
+            "button_link": "shopify:\/\/products\/mayonnaise-allo-zafferano-del-circeo"
+          }
         }
       },
       "block_order": [
-        "16641224900c86945d-0"
+        "1664123149ae43e864-0",
+        "1664123149ae43e864-2"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/20DCD67A-F8C0-4A58-BFF9-14A55E70D28D.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "right",
+        "content_layout": "no-overlap",
         "color_scheme": "inverse",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -203,6 +211,6 @@
     "16641214670782f926",
     "1664121769144bf9b6",
     "1664122483255df260",
-    "16641224907d2c71ae"
+    "166412314902f62293"
   ]
 }
