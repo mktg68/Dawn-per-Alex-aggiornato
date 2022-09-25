@@ -150,6 +150,34 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1664121769144bf9b6": {
+      "type": "image-with-text",
+      "blocks": {
+        "16641217693894efed-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Poi una fase di <strong>sperimentazione in lab<\/strong>, riscoprendo antiche ricette del territorio e italiane, fonte di ispirazione, come anche altre tradizioni mediterranee e non solo, con un occhio di riguardo alla cucina vegan<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "16641217693894efed-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Ambra_panoramica.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -158,6 +186,7 @@
     "1655216474dd706bfa",
     "1655217812dc13e471",
     "1664121358b4d4b99d",
-    "16641214670782f926"
+    "16641214670782f926",
+    "1664121769144bf9b6"
   ]
 }
