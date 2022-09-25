@@ -202,6 +202,46 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "16641256532deb4e15": {
+      "type": "image-banner",
+      "blocks": {
+        "166412565386a190d5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Per le nostre conserve abbiamo scelto Olio Flaminio, dal territorio del Parco Nazionale dei Monti Sibillini, un EVO delicato e fruttato allo stesso tempo, frutto di anni di esperienza e amore per la terra, che ha portato l’azienda a creare un proprio laboratorio di analisi per garantire un prodotto eccellente e super nutriente",
+            "heading_size": "h2"
+          }
+        },
+        "c1459694-0dcf-4000-82e5-18415bde3cfd": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Olio Flaminio",
+            "button_link_1": "{{ shop.brand.favicon_url }}",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "166412565386a190d5-0",
+        "c1459694-0dcf-4000-82e5-18415bde3cfd"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/26DF55B8-38D3-4E6B-8A0B-DB58BA1BAF85.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -212,6 +252,7 @@
     "1664121769144bf9b6",
     "1664122483255df260",
     "166412314902f62293",
-    "1655216474dd706bfa"
+    "1655216474dd706bfa",
+    "16641256532deb4e15"
   ]
 }
