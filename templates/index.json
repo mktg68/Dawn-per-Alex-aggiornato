@@ -309,6 +309,13 @@
     "1664132951774f448a": {
       "type": "image-banner",
       "blocks": {
+        "f1fc6932-1a01-4596-a9c1-62a14b3c0d34": {
+          "type": "heading",
+          "settings": {
+            "heading": "benvenuti nel nostro laboratorio",
+            "heading_size": "h2"
+          }
+        },
         "16641329515adf3baf-2": {
           "type": "buttons",
           "settings": {
@@ -322,16 +329,17 @@
         }
       },
       "block_order": [
+        "f1fc6932-1a01-4596-a9c1-62a14b3c0d34",
         "16641329515adf3baf-2"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/955D631E-9900-4886-8150-7ED245CB12B9.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "adapt_height_first_image": false,
+        "adapt_height_first_image": true,
         "desktop_content_position": "bottom-left",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
         "color_scheme": "inverse",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
