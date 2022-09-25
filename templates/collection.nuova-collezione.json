@@ -165,6 +165,34 @@
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "16641224907d2c71ae": {
+      "type": "image-banner",
+      "blocks": {
+        "16641224900c86945d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Con Zafferano del Circeo o senza, a base di erbe selvatiche, frutti antichi, spezie del territorio, ogni conserva (quasi tutte vegan e gluten free) è un inno al territorio e alla buona tavola, stimola la fantasia e la creatività in chi interpreta la cucina e il buon cibo come arte di vivere",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "16641224900c86945d-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/20DCD67A-F8C0-4A58-BFF9-14A55E70D28D.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -174,6 +202,7 @@
     "1655217812dc13e471",
     "16641214670782f926",
     "1664121769144bf9b6",
-    "1664122483255df260"
+    "1664122483255df260",
+    "16641224907d2c71ae"
   ]
 }
