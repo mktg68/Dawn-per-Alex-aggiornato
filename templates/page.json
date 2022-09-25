@@ -9,6 +9,7 @@
     },
     "16639327183254e252": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1663932718da9f3516-0": {
           "type": "heading",
@@ -51,6 +52,7 @@
     },
     "16635226674e4994d7": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "166352266759a1c30a-0": {
           "type": "slide",
