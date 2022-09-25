@@ -205,43 +205,28 @@
     "166413186653f07746": {
       "type": "image-with-text",
       "blocks": {
-        "166413186675b47b89-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
         "166413186675b47b89-1": {
           "type": "text",
           "settings": {
             "text": "<p>Un super alimento bilanciato in carboidrati, grassi (solo Olio EVO Flaminio, Trevi - PG) e proteine, e una ricarica di sali minerali, vitamine.<\/p>",
             "text_style": "body"
           }
-        },
-        "166413186675b47b89-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
-        "166413186675b47b89-0",
-        "166413186675b47b89-1",
-        "166413186675b47b89-2"
+        "166413186675b47b89-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/C817229F-E8A1-4183-B374-85FE44329C90.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     }
