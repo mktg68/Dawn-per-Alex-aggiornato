@@ -165,7 +165,6 @@
     },
     "1655216474dd706bfa": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "51c4e4af-24bf-496a-98f3-83df65318eb5": {
           "type": "image",
@@ -194,11 +193,11 @@
         "b6fff0c9-1140-435c-9f74-0114e573c113"
       ],
       "settings": {
-        "heading": "Nuovo prodotto",
-        "heading_size": "h1",
+        "heading": "ingredienti per stimolare la creatività in cucina",
+        "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "padding_top": 36,
         "padding_bottom": 36
       }
