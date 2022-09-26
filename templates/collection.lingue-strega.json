@@ -140,38 +140,38 @@
       "type": "collage",
       "disabled": true,
       "blocks": {
-        "51c4e4af-24bf-496a-98f3-83df65318eb5": {
+        "3e501f0d-fba3-4774-a567-d11d607e6ff4": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1.jpg",
             "image_padding": false
-          }
-        },
-        "16552164745d18be7b-1": {
-          "type": "product",
-          "settings": {
-            "product": "sortilegi-della-maga-white-magic-mandarino-e-mandorla",
-            "second_image": true
           }
         },
         "b6fff0c9-1140-435c-9f74-0114e573c113": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/HOME_11.jpg",
+            "image_padding": false
+          }
+        },
+        "51c4e4af-24bf-496a-98f3-83df65318eb5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LINGUE_1.jpg",
             "image_padding": false
           }
         }
       },
       "block_order": [
-        "51c4e4af-24bf-496a-98f3-83df65318eb5",
-        "16552164745d18be7b-1",
-        "b6fff0c9-1140-435c-9f74-0114e573c113"
+        "3e501f0d-fba3-4774-a567-d11d607e6ff4",
+        "b6fff0c9-1140-435c-9f74-0114e573c113",
+        "51c4e4af-24bf-496a-98f3-83df65318eb5"
       ],
       "settings": {
-        "heading": "Nuovo prodotto",
-        "heading_size": "h1",
+        "heading": "ricette veloci ma buonissime",
+        "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "padding_top": 36,
         "padding_bottom": 36
       }
