@@ -26,100 +26,6 @@
         "padding_bottom": 36
       }
     },
-    "16552162644ddf3b10": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "1655216264ddc18e6f-0": {
-          "type": "column",
-          "settings": {
-            "title": "Ingredienti naturali",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1655216264ddc18e6f-1": {
-          "type": "column",
-          "settings": {
-            "title": "Poche calorie",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1655216264ddc18e6f-2": {
-          "type": "column",
-          "settings": {
-            "title": "Rispetto per l'ambiente",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1655216264ddc18e6f-0",
-        "1655216264ddc18e6f-1",
-        "1655216264ddc18e6f-2"
-      ],
-      "settings": {
-        "title": "i nostri prodotti",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1655216474dd706bfa": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "51c4e4af-24bf-496a-98f3-83df65318eb5": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1.jpg",
-            "image_padding": false
-          }
-        },
-        "16552164745d18be7b-1": {
-          "type": "product",
-          "settings": {
-            "product": "sortilegi-della-maga-white-magic-mandarino-e-mandorla",
-            "second_image": true
-          }
-        },
-        "b6fff0c9-1140-435c-9f74-0114e573c113": {
-          "type": "image",
-          "settings": {
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "51c4e4af-24bf-496a-98f3-83df65318eb5",
-        "16552164745d18be7b-1",
-        "b6fff0c9-1140-435c-9f74-0114e573c113"
-      ],
-      "settings": {
-        "heading": "Nuovo prodotto",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1655217812dc13e471": {
       "type": "custom-liquid",
       "disabled": true,
@@ -208,7 +114,7 @@
         "166413186675b47b89-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Un super alimento bilanciato in carboidrati, grassi (solo Olio EVO Flaminio, Trevi - PG) e proteine, e una ricarica di sali minerali, vitamine.<\/p>",
+            "text": "<p>Un super alimento bilanciato in carboidrati, grassi (solo Olio EVO Flaminio, Trevi - PG) e proteine, e una ricarica di sali minerali, vitamine e oligoelementi.<\/p>",
             "text_style": "body"
           }
         }
@@ -229,16 +135,146 @@
         "padding_top": 0,
         "padding_bottom": 36
       }
+    },
+    "1655216474dd706bfa": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "51c4e4af-24bf-496a-98f3-83df65318eb5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.jpg",
+            "image_padding": false
+          }
+        },
+        "16552164745d18be7b-1": {
+          "type": "product",
+          "settings": {
+            "product": "sortilegi-della-maga-white-magic-mandarino-e-mandorla",
+            "second_image": true
+          }
+        },
+        "b6fff0c9-1140-435c-9f74-0114e573c113": {
+          "type": "image",
+          "settings": {
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "51c4e4af-24bf-496a-98f3-83df65318eb5",
+        "16552164745d18be7b-1",
+        "b6fff0c9-1140-435c-9f74-0114e573c113"
+      ],
+      "settings": {
+        "heading": "Nuovo prodotto",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16552162644ddf3b10": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "1655216264ddc18e6f-0": {
+          "type": "column",
+          "settings": {
+            "title": "Ingredienti naturali",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1655216264ddc18e6f-1": {
+          "type": "column",
+          "settings": {
+            "title": "Poche calorie",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1655216264ddc18e6f-2": {
+          "type": "column",
+          "settings": {
+            "title": "Rispetto per l'ambiente",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1655216264ddc18e6f-0",
+        "1655216264ddc18e6f-1",
+        "1655216264ddc18e6f-2"
+      ],
+      "settings": {
+        "title": "i nostri prodotti",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1664174892a87302c7": {
+      "type": "newsletter",
+      "disabled": true,
+      "blocks": {
+        "1664174892a373eff5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "1664174892a373eff5-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "1664174892a373eff5-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1664174892a373eff5-0",
+        "1664174892a373eff5-1",
+        "1664174892a373eff5-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "banner",
     "product-grid",
-    "16552162644ddf3b10",
-    "1655216474dd706bfa",
     "1655217812dc13e471",
     "1664131910d3203f9d",
     "16641318532328ad3a",
-    "166413186653f07746"
+    "166413186653f07746",
+    "1655216474dd706bfa",
+    "16552162644ddf3b10",
+    "1664174892a87302c7"
   ]
 }
