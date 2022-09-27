@@ -273,7 +273,7 @@
         "layout": "full_bleed",
         "slide_height": "small",
         "slider_visual": "dots",
-        "auto_rotate": true,
+        "auto_rotate": false,
         "change_slides_speed": 5,
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
@@ -316,6 +316,13 @@
             "heading_size": "h2"
           }
         },
+        "fb8f88a2-9ebc-4c9f-8f9d-96521c752109": {
+          "type": "text",
+          "settings": {
+            "text": "ogni giorno nuove preparazioni e nuove idee, con gli ingredienti che il nostro terreno ci offre secondo stagione, preservando la biodiversità anche in cucina",
+            "text_style": "body"
+          }
+        },
         "16641329515adf3baf-2": {
           "type": "buttons",
           "settings": {
@@ -330,6 +337,7 @@
       },
       "block_order": [
         "f1fc6932-1a01-4596-a9c1-62a14b3c0d34",
+        "fb8f88a2-9ebc-4c9f-8f9d-96521c752109",
         "16641329515adf3baf-2"
       ],
       "settings": {
