@@ -484,6 +484,50 @@
         "padding_bottom": 36
       }
     },
+    "1664293030aab31b32": {
+      "type": "image-with-text",
+      "blocks": {
+        "1664293030cc572794-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "MOSTARDINA DI ANNURCHE",
+            "heading_size": "h2"
+          }
+        },
+        "1664293030cc572794-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>La Mela Annurca, unica mela autoctona del centro-sud Italia, e anche una delle più ricche di nutrienti, in versione mostarda molto delicata e aromatica, perfetta per formaggi ma da sperimentare quasi su qualsiasi cosa..<\/p><p>mele naturali di nostra produzione aceto di mele bio, sale integrale, olio Evo Flaminio..ecco solo alcuni dei nostri super ingredienti..<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1664293030cc572794-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "assaggia",
+            "button_link": "shopify:\/\/products\/mostardina-di-annurche"
+          }
+        }
+      },
+      "block_order": [
+        "1664293030cc572794-0",
+        "1664293030cc572794-1",
+        "1664293030cc572794-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOSTARDINA_PAR_HOME.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16636064328a5ef542": {
       "type": "featured-collection",
       "settings": {
@@ -983,6 +1027,7 @@
     "16569501690775bac4",
     "1656950237cedfd9b6",
     "166308941626df14d9",
+    "1664293030aab31b32",
     "16636064328a5ef542",
     "16547072421a698d53",
     "multicolumn",
