@@ -337,7 +337,6 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
-      "disabled": true,
       "settings": {
         "heading": "Ti potrebbe piacere",
         "heading_size": "h2",
