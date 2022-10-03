@@ -157,7 +157,7 @@
             "type": "text",
             "settings": {
               "heading": "ALCHIMIE DI CIRCE",
-              "subtext": "<p><em>di Alexander Tombolillo<\/em><\/p><p><em>in via Ungaretti 81 San Felice Circeo<\/em><\/p><p><em>P.Iva 12313300019<\/em><\/p><p><em>Laboratorio Artigianale e Azienda Agricola <\/em><\/p>"
+              "subtext": "<p><em>di Alexander Tombolillo<\/em><\/p><p><em>in via Ungaretti 81 San Felice Circeo<\/em><\/p><p><em>P.Iva 12313300019<\/em><\/p><p><em><strong>Laboratorio Artigianale e Azienda Agricola<\/strong><\/em><em> <\/em><\/p>"
             }
           },
           "footer-0": {
