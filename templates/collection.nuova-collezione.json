@@ -5,7 +5,7 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "color_scheme": "background-2"
+        "color_scheme": "inverse"
       }
     },
     "product-grid": {
@@ -242,6 +242,83 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "1664788088e2e0e0ef": {
+      "type": "multicolumn",
+      "blocks": {
+        "1664788088cf00df53-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1664788088cf00df53-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664788088cf00df53-0",
+        "1664788088cf00df53-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1664788066572b6cad": {
+      "type": "newsletter",
+      "blocks": {
+        "16647880665865558e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "ottieni subito il 15% di sconto!",
+            "heading_size": "h1"
+          }
+        },
+        "16647880665865558e-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Iscriviti alla nostra newsletter per ricevere notizie, approfondimenti, nuove uscite, offerte e sconti..     <\/p>"
+          }
+        },
+        "16647880665865558e-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16647880665865558e-0",
+        "16647880665865558e-1",
+        "16647880665865558e-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -253,6 +330,8 @@
     "1664122483255df260",
     "166412314902f62293",
     "1655216474dd706bfa",
-    "16641256532deb4e15"
+    "16641256532deb4e15",
+    "1664788088e2e0e0ef",
+    "1664788066572b6cad"
   ]
 }
