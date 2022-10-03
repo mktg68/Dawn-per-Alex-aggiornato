@@ -249,8 +249,8 @@
         "1664788088cf00df53-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "SPEDIZIONE RAPIDA IN 24\/48h",
+            "text": "<p>in Italia ed Europa spediamo in 24\/4h grazie ai migliori corrieri. Il tuo ordine viene elaborato subito dopo l’acquisto. <strong>Entro 2h riceverai il<\/strong> <strong>codice di tracking <\/strong>per seguire il pacco in ogni momento<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -258,8 +258,8 @@
         "1664788088cf00df53-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "SCEGLI IL TUO METODO DI PAGAMENTO",
+            "text": "<p>Tutti i tipi di pagamento sono supportati (<strong>PayPal<\/strong>, <strong>ApplePay<\/strong>, <strong>GooglePay<\/strong> ecc.) e rilevati automaticamente dal nostro sito, paga in tutta sicurezza con gli standard Shopify <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -314,8 +314,8 @@
         "16647880665865558e-2"
       ],
       "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
+        "color_scheme": "background-2",
+        "full_width": false,
         "padding_top": 40,
         "padding_bottom": 52
       }
