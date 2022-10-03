@@ -155,10 +155,9 @@
           },
           "footer-2": {
             "type": "text",
-            "disabled": true,
             "settings": {
               "heading": "ALCHIMIE DI CIRCE",
-              "subtext": "<p><em>laboratorio artigianale<\/em><\/p><p><em> e azienda agricola -<\/em><\/p><p><em>Zafferano del Circeo<\/em><\/p><p><\/p>"
+              "subtext": "<p><em>di Alexander Tombolillo<\/em><\/p><p><em>in via Ungaretti 81 San Felice Circeo<\/em><\/p><p><em>P.Iva 12313300019<\/em><\/p><p><em>Laboratorio Artigianale e Azienda Agricola <\/em><\/p>"
             }
           },
           "footer-0": {
