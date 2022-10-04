@@ -413,6 +413,96 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1664883860d7150d2c": {
+      "type": "image-with-text",
+      "blocks": {
+        "166488385969230a70-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "solo zucchero integrale",
+            "heading_size": "h1"
+          }
+        },
+        "166488385969230a70-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Per la nostra frutta candita usiamo solo zuccheri integrali di canna biologici, varietà Demerara, Dulcita o Mascobado, ognuno coi suoi profumi e aromi e caratteristiche. Come ogni alimento integrale porta con se oltre ai carboidrati anche tutti i sali minerali e oligoelementi naturali risultando così più digeribile e molto meno dannoso dello zucchero bianco raffinato<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "166488385969230a70-0",
+        "166488385969230a70-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/A452B70C-8DC3-4435-8C95-7003ABB6437D.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "166488441321caa4fb": {
+      "type": "slideshow",
+      "blocks": {
+        "16648844130a0de94c-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/970857A1-7612-4823-898C-29AD2F0BBDEF.jpg",
+            "heading": "Dal campo alla cucina",
+            "heading_size": "h1",
+            "subheading": "Scorri per vedere il percorso delle nostre albicocche",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "16648844130a0de94c-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/421D4DBA-366C-41F0-BF07-120653A8D516.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16648844130a0de94c-0",
+        "16648844130a0de94c-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 7,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
@@ -425,6 +515,8 @@
     "1655743488338a647d",
     "166488256576dde9bc",
     "product-recommendations",
-    "1654766361fc2d668b"
+    "1654766361fc2d668b",
+    "1664883860d7150d2c",
+    "166488441321caa4fb"
   ]
 }
