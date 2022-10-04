@@ -1053,6 +1053,7 @@
     },
     "16630929739aa6857c": {
       "type": "tooltips",
+      "disabled": true,
       "blocks": {
         "166309297314f73f42-0": {
           "type": "Tooltip",
