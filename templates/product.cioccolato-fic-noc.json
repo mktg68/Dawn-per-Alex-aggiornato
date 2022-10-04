@@ -221,19 +221,18 @@
     },
     "image-with-text": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "Il nostro miele",
-            "heading_size": "h1"
+            "heading": "fichi noci e fondente",
+            "heading_size": "h2"
           }
         },
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Fichi Dottato naturali, dal nostro albero secolare, canditi con solo zucchero integrale di canna bio varietá Demerara, Noci di Sorrento IGP, e cioccolato fondente 75% monorigine..un esplosione di morbidezza e aromi speziati<\/p>",
             "text_style": "body"
           }
         }
