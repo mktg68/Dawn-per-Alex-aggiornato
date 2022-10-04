@@ -207,6 +207,40 @@
         "padding_bottom": 36
       }
     },
+    "16648825602cc890a2": {
+      "type": "newsletter",
+      "blocks": {
+        "16648825606d5a8cef-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "RICEVI SUBITO IL 15% DI SCONTO SUL TUO PRIMO ACQUISTO",
+            "heading_size": "h2"
+          }
+        },
+        "16648825606d5a8cef-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Iscriviti alla nostra newsletter per ricevere news, approfondimenti, nuove uscite, offerte e sconti!<\/p>"
+          }
+        },
+        "16648825606d5a8cef-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16648825606d5a8cef-0",
+        "16648825606d5a8cef-1",
+        "16648825606d5a8cef-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 24
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -242,33 +276,33 @@
     },
     "16557461536bd74b28": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
-        "68a720d4-ce73-4570-b4c8-2028c3fa4355": {
-          "type": "image",
-          "settings": {
-            "image_padding": false
-          }
-        },
-        "165574615363fd6adc-1": {
-          "type": "product",
-          "settings": {
-            "product": "sortilegi-dell-maga-mandarino-e-mandorla-box-da-5",
-            "second_image": false
-          }
-        },
         "79ca00cb-378e-47ba-baa9-cab22882337d": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1.jpg",
-            "image_padding": true
+            "image": "shopify:\/\/shop_images\/DA5451BD-2D57-476E-AB6D-96EDE546B494.jpg",
+            "image_padding": false
+          }
+        },
+        "b36b43f7-7381-45a8-9433-c4162c166c53": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EA143273-4F63-4E52-A40E-05F8CF75B916.jpg",
+            "image_padding": false
+          }
+        },
+        "68a720d4-ce73-4570-b4c8-2028c3fa4355": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AF1AA753-2AAA-4EB7-963F-D4930E80298B.jpg",
+            "image_padding": false
           }
         }
       },
       "block_order": [
-        "68a720d4-ce73-4570-b4c8-2028c3fa4355",
-        "165574615363fd6adc-1",
-        "79ca00cb-378e-47ba-baa9-cab22882337d"
+        "79ca00cb-378e-47ba-baa9-cab22882337d",
+        "b36b43f7-7381-45a8-9433-c4162c166c53",
+        "68a720d4-ce73-4570-b4c8-2028c3fa4355"
       ],
       "settings": {
         "heading": "",
@@ -312,13 +346,14 @@
         "1655743488b6ff413b-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/F04C8494-9B2B-44FC-89D9-8628FDE95FE6.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -358,51 +393,17 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "16648825602cc890a2": {
-      "type": "newsletter",
-      "blocks": {
-        "16648825606d5a8cef-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "RICEVI SUBITO IL 15% DI SCONTO SUL TUO PRIMO ACQUISTO",
-            "heading_size": "h2"
-          }
-        },
-        "16648825606d5a8cef-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Iscriviti alla nostra newsletter per ricevere news, approfondimenti, nuove uscite, offerte e sconti!<\/p>"
-          }
-        },
-        "16648825606d5a8cef-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "16648825606d5a8cef-0",
-        "16648825606d5a8cef-1",
-        "16648825606d5a8cef-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "main",
     "165528594679f57dfa",
     "image-with-text",
+    "16648825602cc890a2",
     "multicolumn",
     "16557461536bd74b28",
     "1655743488338a647d",
     "product-recommendations",
-    "1654766361fc2d668b",
-    "16648825602cc890a2"
+    "1654766361fc2d668b"
   ]
 }
