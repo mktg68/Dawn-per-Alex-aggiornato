@@ -350,6 +350,117 @@
         "padding_bottom": 36
       }
     },
+    "166488441321caa4fb": {
+      "type": "slideshow",
+      "blocks": {
+        "16648844130a0de94c-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/970857A1-7612-4823-898C-29AD2F0BBDEF.jpg",
+            "heading": "Dal campo alla cucina",
+            "heading_size": "h1",
+            "subheading": "Scorri per vedere il percorso delle nostre albicocche",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "16648844130a0de94c-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/421D4DBA-366C-41F0-BF07-120653A8D516.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "1381b3ba-d62d-4285-9799-5df16c7f0480": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/B9A58D26-9DED-420C-AFB5-71177C5D7F72.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "eee796d5-563c-4c4d-9701-6048bca471f9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/E5325ACE-7D0D-4A84-85BB-DF716BD5B3DA.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "5fa30fc2-7a72-47ed-9dbd-439b9490a4e6": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/F1FCA436-0AF8-4335-93F5-1C00DECB3AD3.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16648844130a0de94c-0",
+        "16648844130a0de94c-1",
+        "1381b3ba-d62d-4285-9799-5df16c7f0480",
+        "eee796d5-563c-4c4d-9701-6048bca471f9",
+        "5fa30fc2-7a72-47ed-9dbd-439b9490a4e6"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 7,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "166488256576dde9bc": {
       "type": "image-banner",
       "blocks": {
@@ -449,98 +560,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "166488441321caa4fb": {
-      "type": "slideshow",
-      "blocks": {
-        "16648844130a0de94c-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/970857A1-7612-4823-898C-29AD2F0BBDEF.jpg",
-            "heading": "Dal campo alla cucina",
-            "heading_size": "h1",
-            "subheading": "Scorri per vedere il percorso delle nostre albicocche",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "inverse",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "16648844130a0de94c-1": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/421D4DBA-366C-41F0-BF07-120653A8D516.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "eee796d5-563c-4c4d-9701-6048bca471f9": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/A671A1B4-7F48-443D-B53D-DF23AF0BFAC5.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "1381b3ba-d62d-4285-9799-5df16c7f0480": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/B9A58D26-9DED-420C-AFB5-71177C5D7F72.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "16648844130a0de94c-0",
-        "16648844130a0de94c-1",
-        "eee796d5-563c-4c4d-9701-6048bca471f9",
-        "1381b3ba-d62d-4285-9799-5df16c7f0480"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "adapt_image",
-        "slider_visual": "dots",
-        "auto_rotate": true,
-        "change_slides_speed": 7,
-        "show_text_below": false,
-        "accessibility_info": "Slideshow about our brand"
-      }
     }
   },
   "order": [
@@ -551,10 +570,10 @@
     "multicolumn",
     "16557461536bd74b28",
     "1655743488338a647d",
+    "166488441321caa4fb",
     "166488256576dde9bc",
     "product-recommendations",
     "1654766361fc2d668b",
-    "1664883860d7150d2c",
-    "166488441321caa4fb"
+    "1664883860d7150d2c"
   ]
 }
