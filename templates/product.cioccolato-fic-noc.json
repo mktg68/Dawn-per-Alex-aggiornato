@@ -369,6 +369,40 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1664887441b5a1ba78": {
+      "type": "newsletter",
+      "blocks": {
+        "1664887441b7489d72-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "OTTIENI SUBITO il 15% DI SCONTO SUL TUO PRIMO ACQUISTO",
+            "heading_size": "h2"
+          }
+        },
+        "1664887441b7489d72-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "1664887441b7489d72-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1664887441b7489d72-0",
+        "1664887441b7489d72-1",
+        "1664887441b7489d72-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
     }
   },
   "order": [
@@ -379,6 +413,7 @@
     "16557461536bd74b28",
     "1655743488338a647d",
     "product-recommendations",
-    "1654766361fc2d668b"
+    "1654766361fc2d668b",
+    "1664887441b5a1ba78"
   ]
 }
