@@ -728,13 +728,13 @@
           "type": "heading",
           "settings": {
             "heading": "IL CIRCEO E IL PARCO NAZIONALE",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "16634215929081cfe9-1": {
           "type": "text",
           "settings": {
-            "text": "un territorio a picco sul mare, unico es incredibile in ogni stagione, diviso in 5 zone con ecosistemi diversi,  riserva di biodiversità e di archeologia, da riscoprire, da supportare e da difendere..",
+            "text": "un territorio a picco sul mare, unico e incredibile in ogni stagione, diviso in 5 zone con ecosistemi diversi,  riserva di biodiversità e di archeologia, da riscoprire, da supportare e da difendere..",
             "text_style": "body"
           }
         },
@@ -757,11 +757,11 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/CIRCEO_Erica.jpg",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 50,
         "image_height": "small",
         "adapt_height_first_image": true,
         "desktop_content_position": "bottom-left",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "left",
         "color_scheme": "inverse",
         "mobile_content_alignment": "center",
@@ -1024,7 +1024,7 @@
           "type": "column",
           "settings": {
             "title": "NATURALE",
-            "text": "<p>naturale perchè crediamo che le regole dell’agricoltura e dell' alimentazione vadano riscritte. Il pianeta e noi non possiamo piu sostenere sistemi di monocoltura intensiva e utilizzo di concimi, pesticidi e prodotti chimici nocivi per l'uomo e l'ambiente, oltretutto a scapito della qualità dei prodotti.Nei nostri terreni applichiamo tecniche di <strong>permacoltura<\/strong> e <strong>consociazioni<\/strong> per favorire la <strong>biodiversita<\/strong>’ e lo sviluppo delle difese naturali delle piante. Aderiamo ai principi della nascente <strong>AgroEcologia<\/strong> e cerchiamo di recuperare <strong>varietà antiche<\/strong> di frutta e ortaggi con un occhio di riguardo per le <strong>erbe selvatiche<\/strong>, frutti antichi e <strong>cereali integrali<\/strong> piu’ nutrienti<\/p>",
+            "text": "<p><strong>naturale<\/strong> perchè crediamo che le regole dell’agricoltura e dell' alimentazione vadano riscritte. Il pianeta e noi non possiamo piu sostenere sistemi di monocoltura intensiva e utilizzo di concimi, pesticidi e prodotti chimici nocivi per l'uomo e l'ambiente, oltretutto a scapito della qualità dei prodotti.Nei nostri terreni applichiamo tecniche di <strong>permacoltura<\/strong> e <strong>consociazioni<\/strong> per favorire la <strong>biodiversita<\/strong>’ e lo sviluppo delle difese naturali delle piante. Aderiamo ai principi della nascente <strong>AgroEcologia<\/strong> e cerchiamo di recuperare <strong>varietà antiche<\/strong> di frutta e ortaggi con un occhio di riguardo per le <strong>erbe selvatiche<\/strong>, frutti antichi e <strong>cereali integrali<\/strong> piu’ nutrienti<\/p>",
             "link_label": "",
             "link": ""
           }
