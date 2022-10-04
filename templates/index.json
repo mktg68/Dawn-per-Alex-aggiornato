@@ -356,6 +356,7 @@
     },
     "16569501690775bac4": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "165695016975e86f0d-0": {
           "type": "heading",
@@ -399,6 +400,7 @@
     },
     "1656950237cedfd9b6": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "16569502376cd2991a-0": {
           "type": "heading",
@@ -1014,6 +1016,49 @@
         "tooltip_focus_color": "#ff0000",
         "breakpoint": "768"
       }
+    },
+    "1664874543d31c2cc5": {
+      "type": "multicolumn",
+      "blocks": {
+        "166487454361c056a0-0": {
+          "type": "column",
+          "settings": {
+            "title": "NATURALE",
+            "text": "<p>.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "166487454361c056a0-1": {
+          "type": "column",
+          "settings": {
+            "title": "FANTASIA",
+            "text": "<p><strong>fantasia<\/strong> perchè abbiamo creato un laboratorio di traformazione immerso nel verde, in cui sperimentare secondo stagione con i nostri ingredienti che vengono lavorati <strong>appena raccolti. <\/strong>Ci ispirano le ricette della tradizione contadina e <strong>mediterranea<\/strong> ma subiamo il fascino anche di altre cucine (vegan, orientale ecc.)<\/p><p>Ci piace rivisitare o scoprire nuove ricette seguendo le giuste <strong>combinazioni alimentari<\/strong> e utilizziamo ingredienti cosiddetti <strong>super nutrienti<\/strong> per una maggiore digeribilità e integrazione di proteine, vitamine e oligo elementi, consapevoli che <strong>'più sano' non vuol dire 'meno buono'<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166487454361c056a0-0",
+        "166487454361c056a0-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -1039,6 +1084,7 @@
     "1654707496b217ff7c",
     "1654085877bb4baed2",
     "1663089550e6edda1f",
-    "16630929739aa6857c"
+    "16630929739aa6857c",
+    "1664874543d31c2cc5"
   ]
 }
