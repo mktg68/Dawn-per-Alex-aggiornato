@@ -503,8 +503,8 @@
         "show_vendor": false,
         "show_rating": true,
         "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 28
+        "padding_top": 16,
+        "padding_bottom": 0
       }
     },
     "1654766361fc2d668b": {
