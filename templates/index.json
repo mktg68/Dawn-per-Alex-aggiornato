@@ -102,7 +102,7 @@
         "16545882313a19e2a2-1"
       ],
       "settings": {
-        "layout": "full_bleed",
+        "layout": "grid",
         "slide_height": "medium",
         "slider_visual": "dots",
         "auto_rotate": false,
@@ -354,6 +354,49 @@
         "show_text_below": true
       }
     },
+    "1664874543d31c2cc5": {
+      "type": "multicolumn",
+      "blocks": {
+        "166487454361c056a0-0": {
+          "type": "column",
+          "settings": {
+            "title": "NATURALE",
+            "text": "<p><strong>naturale<\/strong> perchè crediamo che le regole dell’agricoltura e dell' alimentazione vadano riscritte. Il pianeta e noi non possiamo piu sostenere sistemi di monocoltura intensiva e utilizzo di concimi, pesticidi e prodotti chimici nocivi per l'uomo e l'ambiente, oltretutto a scapito della qualità dei prodotti.Nei nostri terreni applichiamo tecniche di <strong>permacoltura<\/strong> e <strong>consociazioni<\/strong> per favorire la <strong>biodiversita<\/strong>’ e lo sviluppo delle difese naturali delle piante. Aderiamo ai principi della nascente <strong>AgroEcologia<\/strong> e cerchiamo di recuperare <strong>varietà antiche<\/strong> di frutta e ortaggi con un occhio di riguardo per le <strong>erbe selvatiche<\/strong>, frutti antichi e <strong>cereali integrali<\/strong> piu’ nutrienti<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "166487454361c056a0-1": {
+          "type": "column",
+          "settings": {
+            "title": "FANTASIA",
+            "text": "<p><strong>fantasia<\/strong> perchè abbiamo creato un laboratorio di traformazione immerso nel verde, in cui sperimentare secondo stagione con i nostri ingredienti che vengono lavorati <strong>appena raccolti. <\/strong>Ci ispirano le ricette della tradizione contadina e <strong>mediterranea<\/strong> ma subiamo il fascino anche di altre cucine (vegan, orientale ecc.)<\/p><p>Ci piace rivisitare o scoprire nuove ricette seguendo le giuste <strong>combinazioni alimentari<\/strong> e utilizziamo ingredienti cosiddetti <strong>super nutrienti<\/strong> per una maggiore digeribilità e integrazione di proteine, vitamine e oligo elementi, consapevoli che <strong>'più sano' non vuol dire 'meno buono'<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166487454361c056a0-0",
+        "166487454361c056a0-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16569501690775bac4": {
       "type": "rich-text",
       "disabled": true,
@@ -563,14 +606,14 @@
         "1654707242c8a529c7-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>equilibrio tra gusto e nutrizione<\/p>",
-            "heading_size": "h1"
+            "heading": "<p>EQUILIBRIO TRA GUSTO E NUTRIZIONE<\/p>",
+            "heading_size": "h2"
           }
         },
         "1654707242c8a529c7-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Per ogni ingrediente che la nostra terra ha da offrire, spezia, frutto o verdura, elaboriamo un' alchimia di gusto, la più buona possibile..ma anche più digeribile e nutriente, grazie ad un' attenta selezione e abbinamento di materie prime non deteriorate da processi industriali.<\/p><p>Alchimie per il palato, dolci o salate, con zafferano o senza, in armonia con le giuste combinazioni alimentari, con farine non raffinate, zuccheri integrali, frutta naturale non trattata, erbe e spezie selvatiche e molto altro.. per una maggiore consapevolezza, di se e del territorio.<\/p>"
+            "text": "<p>Per ogni ingrediente che la nostra terra ha da offrire, spezia, frutto o verdura, elaboriamo un' alchimia di gusto, dolce o salata, con zafferano o senza, la più buona possibile..ma anche più digeribile, in armonia con le giuste combinazioni alimentari, e nutriente, grazie ad un' attenta selezione e abbinamento di materie prime non deteriorate da processi industriali.<\/p>"
           }
         },
         "1654707242c8a529c7-2": {
@@ -981,10 +1024,25 @@
             "save_percentage": "",
             "btn_label": "shop now"
           }
+        },
+        "056015f2-52e3-4474-bd03-bc1ea81b259f": {
+          "type": "productKit",
+          "settings": {
+            "kit_color": "",
+            "kit_title": "Economy Nappy Kit",
+            "kit_label": "Fast Drying",
+            "kit_text_info": "",
+            "kit_contain_title": "Our Economy Kits contain:",
+            "kit_contain_info": "Aaaaaaaaaa",
+            "product": "natural-chocolate-fichi-e-noci",
+            "save_percentage": "20",
+            "btn_label": "shop now"
+          }
         }
       },
       "block_order": [
-        "6b08916c-f7fe-4f4a-9b28-2b8cc538caa7"
+        "6b08916c-f7fe-4f4a-9b28-2b8cc538caa7",
+        "056015f2-52e3-4474-bd03-bc1ea81b259f"
       ],
       "settings": {
         "bg_shape": "",
@@ -995,12 +1053,20 @@
     },
     "16630929739aa6857c": {
       "type": "tooltips",
-      "disabled": true,
       "blocks": {
         "166309297314f73f42-0": {
           "type": "Tooltip",
           "settings": {
             "title": "LE NOSTRE BOX",
+            "content": "",
+            "top": 76,
+            "left": 88
+          }
+        },
+        "7d2865b1-bb65-46ca-8bbb-a06fa3109c6f": {
+          "type": "Tooltip",
+          "settings": {
+            "title": "Tooltip title",
             "content": "I am a tooltip, I provide additional explanatory content and showcase product features.",
             "top": 50,
             "left": 50
@@ -1008,56 +1074,14 @@
         }
       },
       "block_order": [
-        "166309297314f73f42-0"
+        "166309297314f73f42-0",
+        "7d2865b1-bb65-46ca-8bbb-a06fa3109c6f"
       ],
       "settings": {
         "tooltip_color": "#ffffff",
         "tooltip_background_color": "#64cbdf",
         "tooltip_focus_color": "#ff0000",
         "breakpoint": "768"
-      }
-    },
-    "1664874543d31c2cc5": {
-      "type": "multicolumn",
-      "blocks": {
-        "166487454361c056a0-0": {
-          "type": "column",
-          "settings": {
-            "title": "NATURALE",
-            "text": "<p><strong>naturale<\/strong> perchè crediamo che le regole dell’agricoltura e dell' alimentazione vadano riscritte. Il pianeta e noi non possiamo piu sostenere sistemi di monocoltura intensiva e utilizzo di concimi, pesticidi e prodotti chimici nocivi per l'uomo e l'ambiente, oltretutto a scapito della qualità dei prodotti.Nei nostri terreni applichiamo tecniche di <strong>permacoltura<\/strong> e <strong>consociazioni<\/strong> per favorire la <strong>biodiversita<\/strong>’ e lo sviluppo delle difese naturali delle piante. Aderiamo ai principi della nascente <strong>AgroEcologia<\/strong> e cerchiamo di recuperare <strong>varietà antiche<\/strong> di frutta e ortaggi con un occhio di riguardo per le <strong>erbe selvatiche<\/strong>, frutti antichi e <strong>cereali integrali<\/strong> piu’ nutrienti<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "166487454361c056a0-1": {
-          "type": "column",
-          "settings": {
-            "title": "FANTASIA",
-            "text": "<p><strong>fantasia<\/strong> perchè abbiamo creato un laboratorio di traformazione immerso nel verde, in cui sperimentare secondo stagione con i nostri ingredienti che vengono lavorati <strong>appena raccolti. <\/strong>Ci ispirano le ricette della tradizione contadina e <strong>mediterranea<\/strong> ma subiamo il fascino anche di altre cucine (vegan, orientale ecc.)<\/p><p>Ci piace rivisitare o scoprire nuove ricette seguendo le giuste <strong>combinazioni alimentari<\/strong> e utilizziamo ingredienti cosiddetti <strong>super nutrienti<\/strong> per una maggiore digeribilità e integrazione di proteine, vitamine e oligo elementi, consapevoli che <strong>'più sano' non vuol dire 'meno buono'<\/strong><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "166487454361c056a0-0",
-        "166487454361c056a0-1"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     }
   },
@@ -1069,6 +1093,7 @@
     "16636110137def76e7",
     "1663757696bfe0682b",
     "1664132951774f448a",
+    "1664874543d31c2cc5",
     "16569501690775bac4",
     "1656950237cedfd9b6",
     "166308941626df14d9",
@@ -1084,7 +1109,6 @@
     "1654707496b217ff7c",
     "1654085877bb4baed2",
     "1663089550e6edda1f",
-    "16630929739aa6857c",
-    "1664874543d31c2cc5"
+    "16630929739aa6857c"
   ]
 }
