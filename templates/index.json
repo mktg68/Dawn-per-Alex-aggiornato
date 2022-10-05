@@ -306,183 +306,45 @@
         "padding_bottom": 36
       }
     },
-    "1664132951774f448a": {
-      "type": "image-banner",
+    "1663605865761cf546": {
+      "type": "collage",
       "blocks": {
-        "f1fc6932-1a01-4596-a9c1-62a14b3c0d34": {
-          "type": "heading",
+        "1663605865a8367454-0": {
+          "type": "video",
           "settings": {
-            "heading": "benvenuti nel nostro laboratorio",
-            "heading_size": "h2"
+            "cover_image": "shopify:\/\/shop_images\/AE05666A-BB1D-4869-9AA4-3971A4E81336.jpg",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": "Describe the video",
+            "image_padding": false
           }
         },
-        "fb8f88a2-9ebc-4c9f-8f9d-96521c752109": {
-          "type": "text",
+        "1663605865a8367454-1": {
+          "type": "product",
           "settings": {
-            "text": "ogni giorno nuove preparazioni e nuove idee, con gli ingredienti che il nostro terreno ci offre secondo stagione, preservando la biodiversità anche in cucina",
-            "text_style": "body"
+            "product": "natural-chocolate-mandarino-e-mandorla",
+            "second_image": true
           }
         },
-        "16641329515adf3baf-2": {
-          "type": "buttons",
+        "1663605865a8367454-2": {
+          "type": "collection",
           "settings": {
-            "button_label_1": "il lab",
-            "button_link_1": "shopify:\/\/pages\/contact",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "collection": "sortilegi-della-maga-white-magic"
           }
         }
       },
       "block_order": [
-        "f1fc6932-1a01-4596-a9c1-62a14b3c0d34",
-        "fb8f88a2-9ebc-4c9f-8f9d-96521c752109",
-        "16641329515adf3baf-2"
+        "1663605865a8367454-0",
+        "1663605865a8367454-1",
+        "1663605865a8367454-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/08C35F7B-275C-4845-8540-41EB3B065F0B.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "bottom-left",
-        "show_text_box": true,
-        "desktop_content_alignment": "left",
-        "color_scheme": "inverse",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "1664874543d31c2cc5": {
-      "type": "multicolumn",
-      "blocks": {
-        "166487454361c056a0-0": {
-          "type": "column",
-          "settings": {
-            "title": "NATURALE",
-            "text": "<p><strong>naturale<\/strong> perchè crediamo che le regole dell’agricoltura e dell' alimentazione vadano riscritte. Il pianeta e noi non possiamo piu sostenere sistemi di monocoltura intensiva e utilizzo di concimi, pesticidi e prodotti chimici nocivi per l'uomo e l'ambiente, oltretutto a scapito della qualità dei prodotti.Nei nostri terreni applichiamo tecniche di <strong>permacoltura<\/strong> e <strong>consociazioni<\/strong> per favorire la <strong>biodiversita<\/strong>’ e lo sviluppo delle difese naturali delle piante. Aderiamo ai principi della nascente <strong>AgroEcologia<\/strong> e cerchiamo di recuperare <strong>varietà antiche<\/strong> di frutta e ortaggi con un occhio di riguardo per le <strong>erbe selvatiche<\/strong>, frutti antichi e <strong>cereali integrali<\/strong> piu’ nutrienti<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "166487454361c056a0-1": {
-          "type": "column",
-          "settings": {
-            "title": "FANTASIA",
-            "text": "<p><strong>fantasia<\/strong> perchè abbiamo creato un laboratorio di traformazione immerso nel verde, in cui sperimentare secondo stagione con i nostri ingredienti che vengono lavorati <strong>appena raccolti. <\/strong>Ci ispirano le ricette della tradizione contadina e <strong>mediterranea<\/strong> ma subiamo il fascino anche di altre cucine (vegan, orientale ecc.)<\/p><p>Ci piace rivisitare o scoprire nuove ricette seguendo le giuste <strong>combinazioni alimentari<\/strong> e utilizziamo ingredienti cosiddetti <strong>super nutrienti<\/strong> per una maggiore digeribilità e integrazione di proteine, vitamine e oligo elementi, consapevoli che <strong>'più sano' non vuol dire 'meno buono'<\/strong><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "166487454361c056a0-0",
-        "166487454361c056a0-1"
-      ],
-      "settings": {
-        "title": "",
+        "heading": "PRALINE E CIOCCOLATO IN TAVOLETTE",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "inverse",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "16569501690775bac4": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "165695016975e86f0d-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Naturale<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "165695016975e86f0d-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>naturale<\/strong> perchè crediamo che le regole dell’agricoltura e dell' alimentazione vadano riscritte. Il pianeta e noi non possiamo piu sostenere sistemi di monocoltura intensiva e utilizzo di concimi, pesticidi e prodotti chimici nocivi per l'uomo e l'ambiente, oltretutto a scapito della qualità dei prodotti.<\/p><p>Nei nostri terreni applichiamo tecniche di <strong>permacoltura<\/strong> e <strong>consociazioni<\/strong> per favorire la biodiversita’ e lo sviluppo delle difese naturali delle piante. Aderiamo ai principi della nascente <strong>AgroEcologia<\/strong> e cerchiamo di recuperare varietà <strong>antiche di frutta <\/strong>e ortaggi con un occhio di riguardo per le <strong>erbe selvatiche<\/strong>, <strong>frutti antichi e cereali integrali<\/strong> piu’ nutrienti<\/p>"
-          }
-        },
-        "165695016975e86f0d-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "165695016975e86f0d-0",
-        "165695016975e86f0d-1",
-        "165695016975e86f0d-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "inverse",
-        "full_width": true,
-        "padding_top": 20,
-        "padding_bottom": 56
-      }
-    },
-    "1656950237cedfd9b6": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "16569502376cd2991a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Fantasia<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "16569502376cd2991a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>fantasia<\/strong> perchè abbiamo creato un laboratorio di traformazione immerso nel verde, in cui sperimentare secondo stagione con i nostri ingredienti che vengono lavorati <strong>appena raccolti. <\/strong>Ci ispirano le ricette della tradizione contadina e <strong>mediterranea<\/strong> ma subiamo il fascino anche di altre cucine (vegan, orientale ecc.)<\/p><p>Ci piace rivisitare o scoprire nuove ricette seguendo le giuste <strong>combinazioni alimentari<\/strong> e utilizziamo ingredienti cosiddetti <strong>super nutrienti<\/strong> per una maggiore digeribilità e integrazione di proteine, vitamine e oligo elementi, consapevoli che <strong>'più sano' non vuol dire 'meno buono'<\/strong><\/p>"
-          }
-        },
-        "16569502376cd2991a-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16569502376cd2991a-0",
-        "16569502376cd2991a-1",
-        "16569502376cd2991a-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "inverse",
-        "full_width": true,
-        "padding_top": 8,
-        "padding_bottom": 28
       }
     },
     "166308941626df14d9": {
@@ -600,6 +462,97 @@
         "padding_bottom": 12
       }
     },
+    "1664132951774f448a": {
+      "type": "image-banner",
+      "blocks": {
+        "f1fc6932-1a01-4596-a9c1-62a14b3c0d34": {
+          "type": "heading",
+          "settings": {
+            "heading": "benvenuti nel nostro laboratorio",
+            "heading_size": "h2"
+          }
+        },
+        "fb8f88a2-9ebc-4c9f-8f9d-96521c752109": {
+          "type": "text",
+          "settings": {
+            "text": "ogni giorno nuove preparazioni e nuove idee, con gli ingredienti che il nostro terreno ci offre secondo stagione, preservando la biodiversità anche in cucina",
+            "text_style": "body"
+          }
+        },
+        "16641329515adf3baf-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "il lab",
+            "button_link_1": "shopify:\/\/pages\/contact",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "f1fc6932-1a01-4596-a9c1-62a14b3c0d34",
+        "fb8f88a2-9ebc-4c9f-8f9d-96521c752109",
+        "16641329515adf3baf-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/08C35F7B-275C-4845-8540-41EB3B065F0B.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "bottom-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1664874543d31c2cc5": {
+      "type": "multicolumn",
+      "blocks": {
+        "166487454361c056a0-0": {
+          "type": "column",
+          "settings": {
+            "title": "NATURALE",
+            "text": "<p><strong>naturale<\/strong> perchè crediamo che le regole dell’agricoltura e dell' alimentazione vadano riscritte. Il pianeta e noi non possiamo piu sostenere sistemi di monocoltura intensiva e utilizzo di concimi, pesticidi e prodotti chimici nocivi per l'uomo e l'ambiente, oltretutto a scapito della qualità dei prodotti.Nei nostri terreni applichiamo tecniche di <strong>permacoltura<\/strong> e <strong>consociazioni<\/strong> per favorire la <strong>biodiversita<\/strong>’ e lo sviluppo delle difese naturali delle piante. Aderiamo ai principi della nascente <strong>AgroEcologia<\/strong> e cerchiamo di recuperare <strong>varietà antiche<\/strong> di frutta e ortaggi con un occhio di riguardo per le <strong>erbe selvatiche<\/strong>, frutti antichi e <strong>cereali integrali<\/strong> piu’ nutrienti<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "166487454361c056a0-1": {
+          "type": "column",
+          "settings": {
+            "title": "FANTASIA",
+            "text": "<p><strong>fantasia<\/strong> perchè abbiamo creato un laboratorio di traformazione immerso nel verde, in cui sperimentare secondo stagione con i nostri ingredienti che vengono lavorati <strong>appena raccolti. <\/strong>Ci ispirano le ricette della tradizione contadina e <strong>mediterranea<\/strong> ma subiamo il fascino anche di altre cucine (vegan, orientale ecc.)<\/p><p>Ci piace rivisitare o scoprire nuove ricette seguendo le giuste <strong>combinazioni alimentari<\/strong> e utilizziamo ingredienti cosiddetti <strong>super nutrienti<\/strong> per una maggiore digeribilità e integrazione di proteine, vitamine e oligo elementi, consapevoli che <strong>'più sano' non vuol dire 'meno buono'<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166487454361c056a0-0",
+        "166487454361c056a0-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16547072421a698d53": {
       "type": "rich-text",
       "blocks": {
@@ -694,47 +647,6 @@
         "swipe_on_mobile": true,
         "padding_top": 24,
         "padding_bottom": 24
-      }
-    },
-    "1663605865761cf546": {
-      "type": "collage",
-      "blocks": {
-        "1663605865a8367454-0": {
-          "type": "video",
-          "settings": {
-            "cover_image": "shopify:\/\/shop_images\/AE05666A-BB1D-4869-9AA4-3971A4E81336.jpg",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "description": "Describe the video",
-            "image_padding": false
-          }
-        },
-        "1663605865a8367454-1": {
-          "type": "product",
-          "settings": {
-            "product": "natural-chocolate-mandarino-e-mandorla",
-            "second_image": true
-          }
-        },
-        "1663605865a8367454-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "sortilegi-della-maga-white-magic"
-          }
-        }
-      },
-      "block_order": [
-        "1663605865a8367454-0",
-        "1663605865a8367454-1",
-        "1663605865a8367454-2"
-      ],
-      "settings": {
-        "heading": "PRALINE E CIOCCOLATO IN TAVOLETTE",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "inverse",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "featured_collection": {
@@ -1093,16 +1005,14 @@
     "image_banner",
     "16636110137def76e7",
     "1663757696bfe0682b",
-    "1664132951774f448a",
-    "1664874543d31c2cc5",
-    "16569501690775bac4",
-    "1656950237cedfd9b6",
+    "1663605865761cf546",
     "166308941626df14d9",
     "1664293030aab31b32",
     "16636064328a5ef542",
+    "1664132951774f448a",
+    "1664874543d31c2cc5",
     "16547072421a698d53",
     "multicolumn",
-    "1663605865761cf546",
     "featured_collection",
     "166342159261e50f8c",
     "165458823624187e23",
