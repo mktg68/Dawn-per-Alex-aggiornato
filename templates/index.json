@@ -676,6 +676,99 @@
         "padding_bottom": 16
       }
     },
+    "165458823624187e23": {
+      "type": "newsletter",
+      "disabled": true,
+      "blocks": {
+        "16545882361fd74d66-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Iscriviti alla Newsletter e ottieni il 15% di sconto",
+            "heading_size": "h1"
+          }
+        },
+        "16545882361fd74d66-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>vuoi sapere quele sarà il nostro nuovo prodotto in pre-order? o vuoi qualche ricetta coi nostri ingredienti dal blog? o magari venirci a trovare al prossimo evento in azienda..<\/p>"
+          }
+        },
+        "16545882361fd74d66-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16545882361fd74d66-0",
+        "16545882361fd74d66-1",
+        "16545882361fd74d66-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16545883497f8cf782": {
+      "type": "faq",
+      "blocks": {
+        "85eace9f-d931-4d36-a16d-94b3ad28a8e0": {
+          "type": "faq",
+          "settings": {
+            "checkbox_expanded": false,
+            "title": "In quanto tempo spedite i vostri prodotti in Italia?",
+            "content": "<p>Effettuiamo spedizioni in tutta Italia in 48h con UPS o DHL, e in Europa e nel mondo in 5gg lavorativi. In ogni momento è possibile tracciare grazie al codice che riceverai via mail subito dopo l'acquisto<\/p>"
+          }
+        },
+        "7f529f6f-4fd5-4f47-9f07-495ff89dc31f": {
+          "type": "faq",
+          "disabled": true,
+          "settings": {
+            "checkbox_expanded": false,
+            "title": "E all’estero?",
+            "content": "<p>FAQ content<\/p>"
+          }
+        },
+        "0e7b7b80-48aa-4b22-9176-0ad3b4a83706": {
+          "type": "faq",
+          "settings": {
+            "checkbox_expanded": false,
+            "title": "Cos è l' AgroEcologia?",
+            "content": "<p>L' AgroEcologia è un insieme di pratiche e metodi, di produzione agricola ma anche di consumo, sostenibili per l'ecosistema (suolo, falde acquifere, insetti impollinatori ecc) per la salvaguardia dell' ambiente e della qualità nutritiva dei prodotti<\/p>"
+          }
+        },
+        "216d8621-5b88-48a5-8a1d-23562e459aa8": {
+          "type": "faq",
+          "disabled": true,
+          "settings": {
+            "checkbox_expanded": false,
+            "title": "Il cioccolato che utilizzate è Fairtrade: cosa significa?",
+            "content": "<p>FAQ content<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "85eace9f-d931-4d36-a16d-94b3ad28a8e0",
+        "7f529f6f-4fd5-4f47-9f07-495ff89dc31f",
+        "0e7b7b80-48aa-4b22-9176-0ad3b4a83706",
+        "216d8621-5b88-48a5-8a1d-23562e459aa8"
+      ],
+      "settings": {
+        "enable_rich_schema": true,
+        "max_width": "150em",
+        "margin_top": 1.4,
+        "margin_bottom": 1,
+        "background_color": "#ffffff",
+        "border_color": "#eeeeee",
+        "panel_color": "#ffc200",
+        "q_size_small": 1.3,
+        "q_size_large": 1.8,
+        "q_color": "",
+        "a_color": ""
+      }
+    },
     "166342159261e50f8c": {
       "type": "image-banner",
       "blocks": {
@@ -722,99 +815,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "165458823624187e23": {
-      "type": "newsletter",
-      "disabled": true,
-      "blocks": {
-        "16545882361fd74d66-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Iscriviti alla Newsletter e ottieni il 15% di sconto",
-            "heading_size": "h1"
-          }
-        },
-        "16545882361fd74d66-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>vuoi sapere quele sarà il nostro nuovo prodotto in pre-order? o vuoi qualche ricetta coi nostri ingredienti dal blog? o magari venirci a trovare al prossimo evento in azienda..<\/p>"
-          }
-        },
-        "16545882361fd74d66-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "16545882361fd74d66-0",
-        "16545882361fd74d66-1",
-        "16545882361fd74d66-2"
-      ],
-      "settings": {
-        "color_scheme": "background-2",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "16545883497f8cf782": {
-      "type": "faq",
-      "blocks": {
-        "0e7b7b80-48aa-4b22-9176-0ad3b4a83706": {
-          "type": "faq",
-          "settings": {
-            "checkbox_expanded": false,
-            "title": "Cos è l' AgroEcologia?",
-            "content": "<p>L' AgroEcologia è un insieme di pratiche e metodi, di produzione agricola ma anche di consumo, sostenibili per l'ecosistema (suolo, falde acquifere, insetti impollinatori ecc) per la salvaguardia dell' ambiente e della qualità nutritiva dei prodotti<\/p>"
-          }
-        },
-        "7f529f6f-4fd5-4f47-9f07-495ff89dc31f": {
-          "type": "faq",
-          "disabled": true,
-          "settings": {
-            "checkbox_expanded": false,
-            "title": "Da dove vengono i vostri ingredienti?",
-            "content": "<p>FAQ content<\/p>"
-          }
-        },
-        "216d8621-5b88-48a5-8a1d-23562e459aa8": {
-          "type": "faq",
-          "disabled": true,
-          "settings": {
-            "checkbox_expanded": false,
-            "title": "Il cioccolato che utilizzate è Fairtrade: cosa significa?",
-            "content": "<p>FAQ content<\/p>"
-          }
-        },
-        "85eace9f-d931-4d36-a16d-94b3ad28a8e0": {
-          "type": "faq",
-          "settings": {
-            "checkbox_expanded": false,
-            "title": "In quanto tempo spedite i vostri prodotti in Italia?",
-            "content": "<p>Effettuiamo spedizioni in tutta Italia in 48h con UPS o DHL, e in Europa e nel mondo in 5gg lavorativi. In ogni momento è possibile tracciare grazie al codice che riceverai via mail subito dopo l'acquisto<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "0e7b7b80-48aa-4b22-9176-0ad3b4a83706",
-        "7f529f6f-4fd5-4f47-9f07-495ff89dc31f",
-        "216d8621-5b88-48a5-8a1d-23562e459aa8",
-        "85eace9f-d931-4d36-a16d-94b3ad28a8e0"
-      ],
-      "settings": {
-        "enable_rich_schema": true,
-        "max_width": "150em",
-        "margin_top": 1.4,
-        "margin_bottom": 1,
-        "background_color": "#ffffff",
-        "border_color": "#eeeeee",
-        "panel_color": "#ffc200",
-        "q_size_small": 1.3,
-        "q_size_large": 1.8,
-        "q_color": "",
-        "a_color": ""
       }
     },
     "1654707496b217ff7c": {
@@ -1014,9 +1014,9 @@
     "16547072421a698d53",
     "multicolumn",
     "featured_collection",
-    "166342159261e50f8c",
     "165458823624187e23",
     "16545883497f8cf782",
+    "166342159261e50f8c",
     "1654707496b217ff7c",
     "1654085877bb4baed2",
     "1663089550e6edda1f",
