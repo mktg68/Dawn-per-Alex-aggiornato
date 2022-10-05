@@ -724,7 +724,6 @@
         },
         "7f529f6f-4fd5-4f47-9f07-495ff89dc31f": {
           "type": "faq",
-          "disabled": true,
           "settings": {
             "checkbox_expanded": false,
             "title": "E all’estero?",
@@ -744,7 +743,7 @@
           "disabled": true,
           "settings": {
             "checkbox_expanded": false,
-            "title": "Il cioccolato che utilizzate è Fairtrade: cosa significa?",
+            "title": "Cosa si intende per Agricoltura Naturale?",
             "content": "<p>FAQ content<\/p>"
           }
         }
