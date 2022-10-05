@@ -114,10 +114,10 @@
     "1654697334b3514743": {
       "type": "collection-list",
       "blocks": {
-        "165469733402a550c6-0": {
+        "165469733402a550c6-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "conserve-speciali-natural-ingredients"
+            "collection": "frontpage"
           }
         },
         "165469733402a550c6-1": {
@@ -126,10 +126,16 @@
             "collection": "prodotti-da-forno"
           }
         },
-        "165469733402a550c6-2": {
+        "d97483a2-fd72-45e9-8985-d800af919a0e": {
           "type": "featured_collection",
           "settings": {
-            "collection": "frontpage"
+            "collection": "ciambelle-e-frollini"
+          }
+        },
+        "165469733402a550c6-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "conserve-speciali-natural-ingredients"
           }
         },
         "3d0a40d6-06a5-4774-915c-547f32a07dd7": {
@@ -137,20 +143,14 @@
           "settings": {
             "collection": "zafferano-del-circeo"
           }
-        },
-        "d97483a2-fd72-45e9-8985-d800af919a0e": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "ciambelle-e-frollini"
-          }
         }
       },
       "block_order": [
-        "165469733402a550c6-0",
-        "165469733402a550c6-1",
         "165469733402a550c6-2",
-        "3d0a40d6-06a5-4774-915c-547f32a07dd7",
-        "d97483a2-fd72-45e9-8985-d800af919a0e"
+        "165469733402a550c6-1",
+        "d97483a2-fd72-45e9-8985-d800af919a0e",
+        "165469733402a550c6-0",
+        "3d0a40d6-06a5-4774-915c-547f32a07dd7"
       ],
       "settings": {
         "title": "LE NOSTRE LINEE",
@@ -282,7 +282,7 @@
     "1663757696bfe0682b": {
       "type": "featured-collection",
       "settings": {
-        "title": "Snack integrali LINGUE DI STREGA",
+        "title": "",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
