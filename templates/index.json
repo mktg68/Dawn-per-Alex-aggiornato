@@ -730,6 +730,14 @@
             "content": "<p>FAQ content<\/p>"
           }
         },
+        "216d8621-5b88-48a5-8a1d-23562e459aa8": {
+          "type": "faq",
+          "settings": {
+            "checkbox_expanded": false,
+            "title": "Cosa si intende per Agricoltura Naturale?",
+            "content": "<p>FAQ content<\/p>"
+          }
+        },
         "0e7b7b80-48aa-4b22-9176-0ad3b4a83706": {
           "type": "faq",
           "settings": {
@@ -737,22 +745,13 @@
             "title": "Cos è l' AgroEcologia?",
             "content": "<p>L' AgroEcologia è un insieme di pratiche e metodi, di produzione agricola ma anche di consumo, sostenibili per l'ecosistema (suolo, falde acquifere, insetti impollinatori ecc) per la salvaguardia dell' ambiente e della qualità nutritiva dei prodotti<\/p>"
           }
-        },
-        "216d8621-5b88-48a5-8a1d-23562e459aa8": {
-          "type": "faq",
-          "disabled": true,
-          "settings": {
-            "checkbox_expanded": false,
-            "title": "Cosa si intende per Agricoltura Naturale?",
-            "content": "<p>FAQ content<\/p>"
-          }
         }
       },
       "block_order": [
         "85eace9f-d931-4d36-a16d-94b3ad28a8e0",
         "7f529f6f-4fd5-4f47-9f07-495ff89dc31f",
-        "0e7b7b80-48aa-4b22-9176-0ad3b4a83706",
-        "216d8621-5b88-48a5-8a1d-23562e459aa8"
+        "216d8621-5b88-48a5-8a1d-23562e459aa8",
+        "0e7b7b80-48aa-4b22-9176-0ad3b4a83706"
       ],
       "settings": {
         "enable_rich_schema": true,
