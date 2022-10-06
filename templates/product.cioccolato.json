@@ -253,7 +253,7 @@
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "Come facciamo il cioccalato?",
+            "heading": "fondente con mandarini e mandorle..",
             "heading_size": "h1"
           }
         },
@@ -270,6 +270,7 @@
         "image-with-text-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/0AC0FD15-3D31-46DF-9DCF-074E0DD87366.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
