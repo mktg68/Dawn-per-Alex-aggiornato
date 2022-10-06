@@ -282,51 +282,6 @@
         "padding_bottom": 36
       }
     },
-    "1654591691953b242f": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1654591691e33d1788-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Il nostro zucchero",
-            "heading_size": "h1"
-          }
-        },
-        "1654591691e33d1788-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Rispetto agli zuccheri raffinati, gli zuccheri integrali hanno un potere dolcificante minore: contengono il 10-15% in meno di saccarosio e la differenza è composta da ferro, altri minerali e vitamine: sono quindi un po’ – ma poco… – più salutari.<\/p><p>Non solo: se nella confezione c’è il Marchio Fairtrade sostiene <a href=\"http:\/\/www.fairtrade.it\/produttori\/zucchero\/\">55.000 piccoli agricoltori in 19 Paesi del mondo<\/a>, che possono contare sui soldi del Premio Fairtrade per migliorare le proprie condizioni di vita e di lavoro.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "1654591691e33d1788-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1654591691e33d1788-0",
-        "1654591691e33d1788-1",
-        "1654591691e33d1788-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/4B5D4C3B-4846-43CB-A36A-B4FB2AA8AE20.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1655801071ea1992d2": {
       "type": "collage",
       "blocks": {
@@ -363,6 +318,42 @@
         "desktop_layout": "left",
         "mobile_layout": "collage",
         "color_scheme": "inverse",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1654591691953b242f": {
+      "type": "image-with-text",
+      "blocks": {
+        "1654591691e33d1788-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "solo zucchero integrale di canna bio, varietà Dulcita e Mascobado",
+            "heading_size": "h2"
+          }
+        },
+        "1654591691e33d1788-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Rispetto agli zuccheri raffinati, gli zuccheri integrali hanno un potere dolcificante minore: contengono il 10-15% in meno di saccarosio e la differenza è composta dalla presenza di ferro, altri minerali e vitamine che nello zucchero bianco vengono invece eliminati con la raffinazione: sono quindi più salutari e facilmente assimilabili<\/p><p> <\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1654591691e33d1788-0",
+        "1654591691e33d1788-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/7451B41A-AE02-4A75-9BEB-88FE5E19CC96.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -409,8 +400,8 @@
     "626d0c49-9b67-4011-8691-6b81f41ad101",
     "multicolumn",
     "image-with-text",
-    "1654591691953b242f",
     "1655801071ea1992d2",
+    "1654591691953b242f",
     "product-recommendations",
     "16547111971055b3f4"
   ]
