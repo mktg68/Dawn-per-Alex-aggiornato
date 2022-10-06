@@ -100,7 +100,6 @@
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Spedizioni e Rimborsi",
             "icon": "truck",
@@ -165,6 +164,7 @@
     },
     "1654686536910665d1": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "0e5eae52-45ce-4344-8522-893dd3882e47": {
           "type": "shopify:\/\/apps\/ux-bundle\/blocks\/customer-reviews\/db56920d-adc9-4d8c-9ea5-72e338782247",
@@ -177,6 +177,83 @@
       ],
       "settings": {
         "include_margins": true
+      }
+    },
+    "626d0c49-9b67-4011-8691-6b81f41ad101": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16082098225380__626d0c49-9b67-4011-8691-6b81f41ad101-1665069240d6473ee4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "OTTIENI SUBITO IL 15% DI SCONTO SUL TUO PRIMO ACQUISTO",
+            "heading_size": "h1"
+          }
+        },
+        "template--16082098225380__626d0c49-9b67-4011-8691-6b81f41ad101-1665069240d6473ee4-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "template--16082098225380__626d0c49-9b67-4011-8691-6b81f41ad101-1665069240d6473ee4-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16082098225380__626d0c49-9b67-4011-8691-6b81f41ad101-1665069240d6473ee4-0",
+        "template--16082098225380__626d0c49-9b67-4011-8691-6b81f41ad101-1665069240d6473ee4-1",
+        "template--16082098225380__626d0c49-9b67-4011-8691-6b81f41ad101-1665069240d6473ee4-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "title": "Free Shipping",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Hassle-Free Exchanges",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "image-with-text": {
@@ -211,44 +288,6 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-2",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1655801071ea1992d2": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "e83f9fe8-53f6-4f51-ad68-475ca1265d64": {
-          "type": "image",
-          "settings": {
-            "image_padding": false
-          }
-        },
-        "f99061aa-a3a7-4e5c-9e6b-946d51907f03": {
-          "type": "image",
-          "settings": {
-            "image_padding": false
-          }
-        },
-        "5cb5af69-97ba-46b2-a3a0-352b07c9d509": {
-          "type": "image",
-          "settings": {
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "e83f9fe8-53f6-4f51-ad68-475ca1265d64",
-        "f99061aa-a3a7-4e5c-9e6b-946d51907f03",
-        "5cb5af69-97ba-46b2-a3a0-352b07c9d509"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -297,45 +336,40 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn": {
-      "type": "multicolumn",
+    "1655801071ea1992d2": {
+      "type": "collage",
+      "disabled": true,
       "blocks": {
-        "column-0": {
-          "type": "column",
+        "e83f9fe8-53f6-4f51-ad68-475ca1265d64": {
+          "type": "image",
           "settings": {
-            "title": "Free Shipping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image_padding": false
           }
         },
-        "column-1": {
-          "type": "column",
+        "f99061aa-a3a7-4e5c-9e6b-946d51907f03": {
+          "type": "image",
           "settings": {
-            "title": "Hassle-Free Exchanges",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image_padding": false
+          }
+        },
+        "5cb5af69-97ba-46b2-a3a0-352b07c9d509": {
+          "type": "image",
+          "settings": {
+            "image_padding": false
           }
         }
       },
       "block_order": [
-        "column-0",
-        "column-1"
+        "e83f9fe8-53f6-4f51-ad68-475ca1265d64",
+        "f99061aa-a3a7-4e5c-9e6b-946d51907f03",
+        "5cb5af69-97ba-46b2-a3a0-352b07c9d509"
       ],
       "settings": {
-        "title": "",
+        "heading": "",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -379,10 +413,11 @@
   "order": [
     "main",
     "1654686536910665d1",
-    "image-with-text",
-    "1655801071ea1992d2",
-    "1654591691953b242f",
+    "626d0c49-9b67-4011-8691-6b81f41ad101",
     "multicolumn",
+    "image-with-text",
+    "1654591691953b242f",
+    "1655801071ea1992d2",
     "product-recommendations",
     "16547111971055b3f4"
   ]
