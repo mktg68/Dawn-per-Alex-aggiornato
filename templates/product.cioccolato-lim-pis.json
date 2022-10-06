@@ -169,32 +169,55 @@
         "include_margins": true
       }
     },
+    "6087b54e-9b21-4b6e-95e1-9300d1561162": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16546410889444__6087b54e-9b21-4b6e-95e1-9300d1561162-1665071580a1c34566-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "OTTIENI SUBITO IL 15% DI SCONTO SUL TUO PRIMO ACQUISTO",
+            "heading_size": "h2"
+          }
+        },
+        "template--16546410889444__6087b54e-9b21-4b6e-95e1-9300d1561162-1665071580a1c34566-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Iscriviti alla nostra newsletter per ricevere news, approfondimenti, nuovi prodotti in uscita, eventi in azienda, ricette e molto altro..<\/p>"
+          }
+        },
+        "template--16546410889444__6087b54e-9b21-4b6e-95e1-9300d1561162-1665071580a1c34566-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16546410889444__6087b54e-9b21-4b6e-95e1-9300d1561162-1665071580a1c34566-0",
+        "template--16546410889444__6087b54e-9b21-4b6e-95e1-9300d1561162-1665071580a1c34566-1",
+        "template--16546410889444__6087b54e-9b21-4b6e-95e1-9300d1561162-1665071580a1c34566-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "column-0": {
           "type": "column",
           "settings": {
-            "title": "Free Shipping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Hassle-Free Exchanges",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "SPEDIZIONE RAPIDA IN 24H CON GLS FLEX - GRATIS OLTRE I 39€ DI SPESA",
+            "text": "",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column-0",
-        "column-1"
+        "column-0"
       ],
       "settings": {
         "title": "",
@@ -206,11 +229,11 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 8,
+        "padding_bottom": 8
       }
     },
     "image-with-text": {
@@ -368,51 +391,17 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "6087b54e-9b21-4b6e-95e1-9300d1561162": {
-      "type": "newsletter",
-      "blocks": {
-        "template--16546410889444__6087b54e-9b21-4b6e-95e1-9300d1561162-1665071580a1c34566-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "OTTIENI SUBITO IL 15% DI SCONTO SUL TUO PRIMO ACQUISTO",
-            "heading_size": "h2"
-          }
-        },
-        "template--16546410889444__6087b54e-9b21-4b6e-95e1-9300d1561162-1665071580a1c34566-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Iscriviti alla nostra newsletter per ricevere news, approfondimenti, nuovi prodotti in uscita, eventi in azienda, ricette e molto altro..<\/p>"
-          }
-        },
-        "template--16546410889444__6087b54e-9b21-4b6e-95e1-9300d1561162-1665071580a1c34566-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--16546410889444__6087b54e-9b21-4b6e-95e1-9300d1561162-1665071580a1c34566-0",
-        "template--16546410889444__6087b54e-9b21-4b6e-95e1-9300d1561162-1665071580a1c34566-1",
-        "template--16546410889444__6087b54e-9b21-4b6e-95e1-9300d1561162-1665071580a1c34566-2"
-      ],
-      "settings": {
-        "color_scheme": "inverse",
-        "full_width": true,
-        "padding_top": 8,
-        "padding_bottom": 8
-      }
     }
   },
   "order": [
     "main",
     "165528594679f57dfa",
+    "6087b54e-9b21-4b6e-95e1-9300d1561162",
     "multicolumn",
     "image-with-text",
     "16557461536bd74b28",
     "1655743488338a647d",
     "product-recommendations",
-    "1654766361fc2d668b",
-    "6087b54e-9b21-4b6e-95e1-9300d1561162"
+    "1654766361fc2d668b"
   ]
 }
