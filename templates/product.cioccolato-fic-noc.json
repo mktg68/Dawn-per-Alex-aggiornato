@@ -383,17 +383,17 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/6B6B77F5-FC84-4F23-A1F9-FFE0F93ECB68.jpg",
-            "heading": "Image slide",
+            "heading": "solo zucchero integrale",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "subheading": "Per la nostra frutta candita usiamo solo zuccheri integrali di canna biologici, varietà Demerara, Dulcita o Mascobado, ognuno coi suoi profumi e aromi e caratteristiche. Come ogni alimento integrale porta con se oltre ai carboidrati anche tutti i sali minerali e oligoelementi naturali risultando così più digeribile e molto meno dannoso dello zucchero bianco raffinato",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "bottom-left",
             "show_text_box": true,
-            "text_alignment": "center",
+            "text_alignment": "left",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "inverse",
             "text_alignment_mobile": "center"
           }
         },
