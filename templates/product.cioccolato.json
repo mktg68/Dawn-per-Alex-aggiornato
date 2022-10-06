@@ -333,18 +333,21 @@
         "e83f9fe8-53f6-4f51-ad68-475ca1265d64": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/BFC030DE-4D09-4784-A5ED-04D974D49269.jpg",
             "image_padding": false
           }
         },
         "f99061aa-a3a7-4e5c-9e6b-946d51907f03": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/ACDA0186-C7AB-4D82-8810-BC4D56623500.jpg",
             "image_padding": false
           }
         },
         "5cb5af69-97ba-46b2-a3a0-352b07c9d509": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/23CF7A0C-6811-45D5-B167-9D904ABC97FC.jpg",
             "image_padding": false
           }
         }
