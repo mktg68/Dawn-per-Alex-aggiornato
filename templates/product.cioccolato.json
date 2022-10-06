@@ -248,19 +248,18 @@
     },
     "image-with-text": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "image-with-text-0": {
           "type": "heading",
           "settings": {
             "heading": "fondente con mandarini e mandorle..",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Nel nostro laboratorio creiamo le nostre deliziose produzioni con un processo che parte da materie prime di eccellenza e arriva alle vostre case.<\/p><p>Lo facciamo con amore.<\/p>",
+            "text": "<p>Uno dei primi dolci abbinamenti che abbiamo creato qui in laboratorio.. la vera magia é il gusto dei mandarini  del Circeo, naturalmente dolcissimi e aspri allo stesso tempo..nelle bucce candite c’è un tripudio di terpeni e profumi che ci riportano all’infanzia, grazie alla cottura a bassa temperatura con solo zucchero integrale Demerara Bio<\/p>",
             "text_style": "body"
           }
         }
