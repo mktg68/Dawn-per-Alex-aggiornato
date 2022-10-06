@@ -328,7 +328,6 @@
     },
     "1655801071ea1992d2": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "e83f9fe8-53f6-4f51-ad68-475ca1265d64": {
           "type": "image",
@@ -358,11 +357,11 @@
         "5cb5af69-97ba-46b2-a3a0-352b07c9d509"
       ],
       "settings": {
-        "heading": "",
+        "heading": "il nostro agrumeto..",
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "collage",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "padding_top": 36,
         "padding_bottom": 36
       }
