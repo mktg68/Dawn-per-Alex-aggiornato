@@ -100,7 +100,6 @@
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Spedizioni e rimborsi",
             "icon": "truck",
@@ -170,43 +169,6 @@
         "include_margins": true
       }
     },
-    "image-with-text": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "image-with-text-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Il nostro miele",
-            "heading_size": "h1"
-          }
-        },
-        "image-with-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "image-with-text-0",
-        "image-with-text-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/PORTULACA_PIANTA_2.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn": {
       "type": "multicolumn",
       "disabled": true,
@@ -247,6 +209,43 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "image-with-text-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Il nostro miele",
+            "heading_size": "h1"
+          }
+        },
+        "image-with-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "image-with-text-0",
+        "image-with-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PORTULACA_PIANTA_2.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -369,16 +368,51 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "6087b54e-9b21-4b6e-95e1-9300d1561162": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16546410889444__6087b54e-9b21-4b6e-95e1-9300d1561162-1665071580a1c34566-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "OTTIENI SUBITO IL 15% DI SCONTO SUL TUO PRIMO ACQUISTO",
+            "heading_size": "h2"
+          }
+        },
+        "template--16546410889444__6087b54e-9b21-4b6e-95e1-9300d1561162-1665071580a1c34566-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "template--16546410889444__6087b54e-9b21-4b6e-95e1-9300d1561162-1665071580a1c34566-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16546410889444__6087b54e-9b21-4b6e-95e1-9300d1561162-1665071580a1c34566-0",
+        "template--16546410889444__6087b54e-9b21-4b6e-95e1-9300d1561162-1665071580a1c34566-1",
+        "template--16546410889444__6087b54e-9b21-4b6e-95e1-9300d1561162-1665071580a1c34566-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
     }
   },
   "order": [
     "main",
     "165528594679f57dfa",
-    "image-with-text",
     "multicolumn",
+    "image-with-text",
     "16557461536bd74b28",
     "1655743488338a647d",
     "product-recommendations",
-    "1654766361fc2d668b"
+    "1654766361fc2d668b",
+    "6087b54e-9b21-4b6e-95e1-9300d1561162"
   ]
 }
