@@ -336,7 +336,7 @@
         "content_layout": "no-overlap",
         "color_scheme": "inverse",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 12,
         "padding_bottom": 36
       }
     },
@@ -486,6 +486,34 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "0de7fade-1ea8-4c8d-819f-fd5018757b43": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16546410791140__0de7fade-1ea8-4c8d-819f-fd5018757b43-16651449361775eb26-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>abbondante fioritura del nostro albicocco a fine maggio 2022<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16546410791140__0de7fade-1ea8-4c8d-819f-fd5018757b43-16651449361775eb26-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DEE373F5-A248-4E5B-A957-7C146EBFEB7E.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "322e0b2f-06bf-4916-a006-26d176b1869c": {
       "type": "image-banner",
       "blocks": {
@@ -534,6 +562,7 @@
     "product-recommendations",
     "1654766361fc2d668b",
     "f97fcd2f-06db-44bd-b0d9-73adc08a6ee1",
+    "0de7fade-1ea8-4c8d-819f-fd5018757b43",
     "322e0b2f-06bf-4916-a006-26d176b1869c"
   ]
 }
