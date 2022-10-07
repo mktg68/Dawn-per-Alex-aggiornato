@@ -390,6 +390,41 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "322e0b2f-06bf-4916-a006-26d176b1869c": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16546410791140__322e0b2f-06bf-4916-a006-26d176b1869c-1665139596fb1baaba-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "solo zucchero di canna integrale bio",
+            "heading_size": "h2"
+          }
+        },
+        "template--16546410791140__322e0b2f-06bf-4916-a006-26d176b1869c-1665139596fb1baaba-1": {
+          "type": "text",
+          "settings": {
+            "text": "tutti i nostri cioccolatini, come anche la frutta candita, vengono lavorati con solo zucchero integrale, varietà Demerara, Dulcita e Mascobado. Il nostro obiettivo è elaborare ricette con il minimo indispensabile alla conservaione. Inoltre a differenza dello zucchero bianco raffinato , questi zuccheri hanno sapori e caratteristiche propri, a seconda della varietà e della zona di coltivazione. Inoltre sono ricchi di sali minerali (come il ferro) e vitamine, oligoelementi, e contengono fino al 20% di saccarosio in meno, risultando così più digeribili e meno dannosi",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16546410791140__322e0b2f-06bf-4916-a006-26d176b1869c-1665139596fb1baaba-0",
+        "template--16546410791140__322e0b2f-06bf-4916-a006-26d176b1869c-1665139596fb1baaba-1"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -401,6 +436,7 @@
     "image-with-text",
     "1655743488338a647d",
     "product-recommendations",
-    "1654766361fc2d668b"
+    "1654766361fc2d668b",
+    "322e0b2f-06bf-4916-a006-26d176b1869c"
   ]
 }
