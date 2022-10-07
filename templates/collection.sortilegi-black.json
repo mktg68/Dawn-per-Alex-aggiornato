@@ -80,6 +80,16 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "1655217002c3d2f23b": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<style>#shopify-section-announcement-bar { display: none; } <\/style>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "16552162644ddf3b10": {
       "type": "multicolumn",
       "disabled": true,
@@ -87,8 +97,8 @@
         "1655216264ddc18e6f-0": {
           "type": "column",
           "settings": {
-            "title": "Ingredienti naturali",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "VEGAN",
+            "text": "<p>tutti i nostri cioccolatini e barrette fondenti son senza derivati animali, lista di ingredienti cortissima, 5 abbinamenti di frutta candita e frutta secca<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -96,8 +106,8 @@
         "1655216264ddc18e6f-1": {
           "type": "column",
           "settings": {
-            "title": "Poche calorie",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "GLUTEN FREE",
+            "text": "<p>ingredienti prodotti da da noi o selezionati tra azien<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -105,7 +115,7 @@
         "1655216264ddc18e6f-2": {
           "type": "column",
           "settings": {
-            "title": "Rispetto per l'ambiente",
+            "title": "LOW SUGAR",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -118,7 +128,7 @@
         "1655216264ddc18e6f-2"
       ],
       "settings": {
-        "title": "i nostri prodotti",
+        "title": "",
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "square",
@@ -127,21 +137,11 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "1655217002c3d2f23b": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<style>#shopify-section-announcement-bar { display: none; } <\/style>",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     }
   },
@@ -149,7 +149,7 @@
     "banner",
     "product-grid",
     "16557448132085f1b3",
-    "16552162644ddf3b10",
-    "1655217002c3d2f23b"
+    "1655217002c3d2f23b",
+    "16552162644ddf3b10"
   ]
 }

@@ -183,8 +183,8 @@
         ],
         "settings": {
           "color_scheme": "inverse",
-          "newsletter_enable": false,
-          "newsletter_heading": "Iscriviti alla nostra newsletter",
+          "newsletter_enable": true,
+          "newsletter_heading": "Iscriviti alla nostra newsletter e ottieni subito il 15% di sconto sul tuo primo acquisto!",
           "show_social": true,
           "enable_country_selector": false,
           "enable_language_selector": true,
