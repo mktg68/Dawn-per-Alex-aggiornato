@@ -314,7 +314,6 @@
     },
     "1655743488338a647d": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1655743488b6ff413b-0": {
           "type": "heading",
@@ -495,7 +494,7 @@
       ],
       "settings": {
         "layout": "grid",
-        "slide_height": "large",
+        "slide_height": "medium",
         "slider_visual": "dots",
         "auto_rotate": true,
         "change_slides_speed": 7,
