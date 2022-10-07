@@ -33,9 +33,9 @@
         "16557448132ee6349a-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1.jpg",
-            "heading": "Image slide",
-            "heading_size": "h1",
+            "image": "shopify:\/\/shop_images\/4B5D4C3B-4846-43CB-A36A-B4FB2AA8AE20.jpg",
+            "heading": "solo zucchero di canna integrale biologico",
+            "heading_size": "h2",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
             "link": "",
@@ -89,67 +89,12 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
-    },
-    "16552162644ddf3b10": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "1655216264ddc18e6f-0": {
-          "type": "column",
-          "settings": {
-            "title": "VEGAN",
-            "text": "<p>tutti i nostri cioccolatini e barrette fondenti son senza derivati animali, lista di ingredienti cortissima, 5 abbinamenti di frutta candita e frutta secca<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1655216264ddc18e6f-1": {
-          "type": "column",
-          "settings": {
-            "title": "GLUTEN FREE",
-            "text": "<p>ingredienti prodotti da da noi o selezionati tra azien<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1655216264ddc18e6f-2": {
-          "type": "column",
-          "settings": {
-            "title": "LOW SUGAR",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1655216264ddc18e6f-0",
-        "1655216264ddc18e6f-1",
-        "1655216264ddc18e6f-2"
-      ],
-      "settings": {
-        "title": "vegan - gluten free - low sugar",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "square",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "inverse",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "banner",
     "product-grid",
     "16557448132085f1b3",
-    "1655217002c3d2f23b",
-    "16552162644ddf3b10"
+    "1655217002c3d2f23b"
   ]
 }
