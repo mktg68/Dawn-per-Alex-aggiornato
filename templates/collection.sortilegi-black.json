@@ -28,7 +28,6 @@
     },
     "16557448132085f1b3": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "16557448132ee6349a-0": {
           "type": "slide",
@@ -36,7 +35,7 @@
             "image": "shopify:\/\/shop_images\/4B5D4C3B-4846-43CB-A36A-B4FB2AA8AE20.jpg",
             "heading": "solo zucchero di canna integrale biologico",
             "heading_size": "h2",
-            "subheading": "Tell your brand's story through images",
+            "subheading": "",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
