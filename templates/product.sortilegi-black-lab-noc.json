@@ -414,14 +414,15 @@
         "template--16546410791140__322e0b2f-06bf-4916-a006-26d176b1869c-1665139596fb1baaba-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/4B5D4C3B-4846-43CB-A36A-B4FB2AA8AE20.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "bottom-right",
         "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "right",
         "color_scheme": "inverse",
-        "mobile_content_alignment": "center",
+        "mobile_content_alignment": "right",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
