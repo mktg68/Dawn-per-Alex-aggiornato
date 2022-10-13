@@ -350,7 +350,7 @@
       "settings": {
         "title": "CIOCCOLATINI  - SORTILEGI DELLA MAGA",
         "heading_size": "h1",
-        "description": "<p>vegan, gluten free, low sugar.. e soprattutto buonissimi !!!  <br\/>frutta candita + frutta secca + fondente<\/p>",
+        "description": "<p>vegan, gluten free, low sugar.. e soprattutto buonissimi !!!  <br\/>frutta candita + frutta secca + fondente - ogni astuccio 5 sortilegi<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "frontpage",
@@ -360,7 +360,7 @@
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": true,
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": false,
