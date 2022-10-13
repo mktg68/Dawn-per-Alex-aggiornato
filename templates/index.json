@@ -217,9 +217,9 @@
         "image_height": "small",
         "adapt_height_first_image": true,
         "desktop_content_position": "top-right",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "right",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -351,8 +351,8 @@
         "title": "CIOCCOLATINI  - SORTILEGI DELLA MAGA",
         "heading_size": "h1",
         "description": "<p>vegan, gluten free, low sugar.. e soprattutto buonissimi !!!  <br\/>frutta candita + frutta secca + fondente - ogni astuccio 5 sortilegi<\/p>",
-        "show_description": false,
-        "description_style": "body",
+        "show_description": true,
+        "description_style": "uppercase",
         "collection": "frontpage",
         "products_to_show": 12,
         "columns_desktop": 5,
@@ -360,7 +360,7 @@
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": true,
-        "color_scheme": "inverse",
+        "color_scheme": "background-2",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": false,
@@ -379,7 +379,7 @@
           "type": "heading",
           "settings": {
             "heading": "MAYONNAISE ALLO ZAFFERANO",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "1663089416eb9e6c6b-1": {
@@ -422,8 +422,8 @@
         "1664293030cc572794-0": {
           "type": "heading",
           "settings": {
-            "heading": "MOSTARDINA DI ANNURCHE",
-            "heading_size": "h2"
+            "heading": "MOSTARDINA DI MELE ANNURCHE",
+            "heading_size": "h1"
           }
         },
         "1664293030cc572794-1": {
@@ -457,14 +457,14 @@
         "color_scheme": "inverse",
         "mobile_content_alignment": "left",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 48
       }
     },
     "16636064328a5ef542": {
       "type": "featured-collection",
       "settings": {
-        "title": "LINEA CONSERVE",
-        "heading_size": "h2",
+        "title": "LE NOSTRE CONSERVE, CON ZAFFERANO E NON SOLO..",
+        "heading_size": "h1",
         "description": "<p>erbe selvatiche sott'olio, mostarde di frutta antica, ricette innovative per ingredienti naturali <\/p>",
         "show_description": false,
         "description_style": "subtitle",
@@ -483,7 +483,7 @@
         "enable_quick_add": true,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 12,
+        "padding_top": 32,
         "padding_bottom": 12
       }
     },
