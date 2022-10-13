@@ -160,8 +160,8 @@
         "template--16546410561764__9359c219-b108-48a1-9b0a-9a7099748975-1665684804e0d281ca-0": {
           "type": "heading",
           "settings": {
-            "heading": "OTTIENI SUBITO IL 15% DI SCONTO SUL PRIMO ORDINE",
-            "heading_size": "h2"
+            "heading": "OTTIENI SUBITO IL 15% DI SCONTO",
+            "heading_size": "h1"
           }
         },
         "template--16546410561764__9359c219-b108-48a1-9b0a-9a7099748975-1665684804e0d281ca-1": {
@@ -183,9 +183,9 @@
       ],
       "settings": {
         "color_scheme": "inverse",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "full_width": false,
+        "padding_top": 24,
+        "padding_bottom": 28
       }
     },
     "165528594679f57dfa": {
@@ -265,7 +265,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 2,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
