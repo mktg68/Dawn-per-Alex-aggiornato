@@ -309,17 +309,17 @@
     "1663605865761cf546": {
       "type": "collage",
       "blocks": {
+        "1663605865a8367454-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "sortilegi-della-maga-white-magic"
+          }
+        },
         "1663605865a8367454-1": {
           "type": "product",
           "settings": {
             "product": "white-magic",
             "second_image": true
-          }
-        },
-        "1663605865a8367454-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "sortilegi-della-maga-white-magic"
           }
         },
         "0a7d7ce0-19d5-4324-bddf-553790026937": {
@@ -331,12 +331,12 @@
         }
       },
       "block_order": [
-        "1663605865a8367454-1",
         "1663605865a8367454-2",
+        "1663605865a8367454-1",
         "0a7d7ce0-19d5-4324-bddf-553790026937"
       ],
       "settings": {
-        "heading": "La nostra linea con Cioccolato monorigine",
+        "heading": "Cioccolato Bianco con Zafferano del Circeo",
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "collage",
