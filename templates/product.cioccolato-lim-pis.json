@@ -239,6 +239,51 @@
         "padding_bottom": 12
       }
     },
+    "1655743488338a647d": {
+      "type": "image-with-text",
+      "blocks": {
+        "1655743488b6ff413b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "limoni del Circeo e Pistacchio di Bronte",
+            "heading_size": "h2"
+          }
+        },
+        "1655743488b6ff413b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Questo abbinamento, tra i mostri preferiti e senza dubbio un tributo alla a Sicilia e a tutto il centro sud, terra di sole, di agrumi e di pistacchi, mandorle ed altre ‘bellezze’ mediterranee..l’aciditá di questi limoni profumatissimi viene attenuata dalla dolcezza del pistacchio di Bronte. Le spiccate note burrose di kegano perfettamente col cioccolato fondente monorigine 75%..buona alchimia<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1655743488b6ff413b-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1655743488b6ff413b-0",
+        "1655743488b6ff413b-1",
+        "1655743488b6ff413b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CF8AC143-9219-4387-9CDD-111EEDBBEE13.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16557461536bd74b28": {
       "type": "collage",
       "blocks": {
@@ -315,52 +360,6 @@
         "padding_bottom": 36
       }
     },
-    "1655743488338a647d": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1655743488b6ff413b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "limoni del Circeo e Pistacchio di Bronte",
-            "heading_size": "h2"
-          }
-        },
-        "1655743488b6ff413b-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Questo abbinamento, tra i mostri preferiti e senza dubbio un tributo alla a Sicilia e a tutto il centro sud, terra di sole, di agrumi e di pistacchi, mandorle ed altre ‘bellezze’ mediterranee..l’aciditá di questi limoni profumatissimi viene attenuata dalla dolcezza del pistacchio di Bronte. Le spiccate note burrose di kegano perfettamente col cioccolato fondente monorigine 75%..buona alchimia<\/p>",
-            "text_style": "body"
-          }
-        },
-        "1655743488b6ff413b-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1655743488b6ff413b-0",
-        "1655743488b6ff413b-1",
-        "1655743488b6ff413b-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/CF8AC143-9219-4387-9CDD-111EEDBBEE13.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -402,9 +401,9 @@
     "165528594679f57dfa",
     "6087b54e-9b21-4b6e-95e1-9300d1561162",
     "multicolumn",
+    "1655743488338a647d",
     "16557461536bd74b28",
     "image-with-text",
-    "1655743488338a647d",
     "product-recommendations",
     "1654766361fc2d668b"
   ]
