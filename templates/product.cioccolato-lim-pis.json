@@ -329,12 +329,13 @@
         "1655743488b6ff413b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Questo abbinamento, tra i mostri preferiti e senza dubbio un tributo alla a Sicilia e a tutto il centro sud, terra di sole, di agrumi e di pistacchi, mandorle ed altre ‘bellezze’ mediterranee..l’aciditá di questi limoni profumatissimi viene attenuata dalla dolcezza del pistacchio di Bronte. Le spiccate note burrose di kegano perfettamente col cioccolato fondente monorigine 75%..buona alchimia<\/p>",
             "text_style": "body"
           }
         },
         "1655743488b6ff413b-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
