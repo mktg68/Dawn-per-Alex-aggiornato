@@ -322,8 +322,8 @@
         "1655743488b6ff413b-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "limoni del Circeo e Pistacchio di Bronte",
+            "heading_size": "h2"
           }
         },
         "1655743488b6ff413b-1": {
@@ -347,6 +347,7 @@
         "1655743488b6ff413b-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/CF8AC143-9219-4387-9CDD-111EEDBBEE13.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
