@@ -103,7 +103,6 @@
         },
         "share": {
           "type": "share",
-          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
@@ -124,6 +123,16 @@
           "settings": {
             "custom_liquid": "{% for name in product.metafields.custom.recipt.value %}\n   <h3>{{ info.name}}<\/h3>\n   <p><img src=\"{{ info.image }}\" \/><\/p>\n   <p>{{ info.content }}<\/p>\n{% endfor %}{{ product.metafields.customrecipt.name }}\n\n\n{{ product.metafields.custom.recipt.ingredients }}\n\n\nname\n\n{% for name in product.metafields.customrecipt.value -%}\n  {{ name }}\n{%- endfor %}\n\n{% for property in product.metafields.custom.recipt.value -%}\n  {{ property.first | capitalize }}: {{ property.last }}\n{%- endfor %}"
           }
+        },
+        "98cbe568-7b50-44e3-94f6-00741089ab11": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "content": "<p><a href=\"https:\/\/gls-group.com\/IT\/it\/spedire-ricevere\/servizio-per-te\/servizi-accessori\/flexdeliveryservice\">https:\/\/gls-group.com\/IT\/it\/spedire-ricevere\/servizio-per-te\/<\/a><\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -143,7 +152,8 @@
         "ca0abcfe-207d-4e65-b17b-d874af983d37",
         "share",
         "5f19ce06-f580-4277-b6d2-80b91f345290",
-        "1f33d60e-af0b-45cb-8d36-4a365fef93c9"
+        "1f33d60e-af0b-45cb-8d36-4a365fef93c9",
+        "98cbe568-7b50-44e3-94f6-00741089ab11"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -171,6 +181,39 @@
       ],
       "settings": {
         "include_margins": true
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "title": "SPEDIZIONE RAPIDA IN 24H - GRATIS OLTRE I 39€ DI SPESA",
+            "text": "<p>Spedizione Rapida <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-0"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "626d0c49-9b67-4011-8691-6b81f41ad101": {
@@ -203,39 +246,6 @@
       "settings": {
         "color_scheme": "inverse",
         "full_width": true,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column-0": {
-          "type": "column",
-          "settings": {
-            "title": "SPEDIZIONE RAPIDA IN 24H - GRATIS OLTRE I 39€ DI SPESA",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column-0"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
         "padding_top": 12,
         "padding_bottom": 12
       }
@@ -436,8 +446,8 @@
   "order": [
     "main",
     "1654686536910665d1",
-    "626d0c49-9b67-4011-8691-6b81f41ad101",
     "multicolumn",
+    "626d0c49-9b67-4011-8691-6b81f41ad101",
     "image-with-text",
     "1655801071ea1992d2",
     "1654591691953b242f",
