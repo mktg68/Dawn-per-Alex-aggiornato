@@ -114,7 +114,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "SPEDIZIONE RAPIDA IN 24H - GRATIS OLTRE I 39€ DI SPESA",
+              "text": "SPEDIZIONE GRATIS OLTRE I 39€ DI SPESA",
               "color_scheme": "background-2",
               "link": "shopify:\/\/policies\/shipping-policy"
             }
