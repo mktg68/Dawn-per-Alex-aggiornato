@@ -73,6 +73,7 @@
         },
         "collapsible-row-3": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Abbinamenti",
             "icon": "eye",
@@ -82,6 +83,7 @@
         },
         "2c725bad-960b-4cdd-a050-4e33c3915df4": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Valori nutrizionali",
             "icon": "heart",
@@ -91,6 +93,7 @@
         },
         "ca0abcfe-207d-4e65-b17b-d874af983d37": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Consigli per la conservazione",
             "icon": "box",
@@ -109,6 +112,7 @@
         },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
