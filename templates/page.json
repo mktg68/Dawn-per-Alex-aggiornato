@@ -244,6 +244,7 @@
     },
     "1663506565ba8d2ede": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16635065659fab88cf-0": {
           "type": "heading",
@@ -298,6 +299,7 @@
         },
         "16635064241393d198-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
@@ -381,7 +383,7 @@
         "166350661670c23cdd-2"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
