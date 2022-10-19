@@ -101,15 +101,6 @@
             "page": ""
           }
         },
-        "collapsible-row-1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Spedizione Rapida e personalizzata - GLS  Flex Delivery Service",
-            "icon": "truck",
-            "content": "<p><strong>Consegna rapida in 24h in Italia<\/strong>, 48h in Europa e 4gg lavorativi in Stati Uniti nel resto del mondo<\/p><p><strong>La nostra spedizione è gratuita sopra i 39€ di spesa! <\/strong>(59€ per l’Europa)<\/p><p>Con <strong>GLS  Flex Delivery Service<\/strong> potrai personalizzare al massimo la tua consegna. Attraverso il link che riceverai via mail dopo l’acquisto accedi al portale GLS per <strong>monitorare in tempo reale<\/strong> il pacco, <strong>modificare la data e indirizzo di consegna<\/strong> in qualsiasi momento <strong>senza costi aggiuntivi<\/strong>, potrai inoltre far <strong>consegnare a un vicino o al tuo negozio di fiducia<\/strong>. <a href=\"https:\/\/gls-group.com\/IT\/it\/spedire-ricevere\/servizio-per-te\/servizi-accessori\/flexdeliveryservice\" target=\"_blank\" title=\"https:\/\/gls-group.com\/IT\/it\/spedire-ricevere\/servizio-per-te\/servizi-accessori\/flexdeliveryservice\"><strong>GLS Flex Delivery Service<\/strong><\/a><\/p>",
-            "page": ""
-          }
-        },
         "share": {
           "type": "share",
           "disabled": true,
@@ -150,7 +141,6 @@
         "collapsible-row-3",
         "2c725bad-960b-4cdd-a050-4e33c3915df4",
         "ca0abcfe-207d-4e65-b17b-d874af983d37",
-        "collapsible-row-1",
         "share",
         "5f19ce06-f580-4277-b6d2-80b91f345290",
         "1f33d60e-af0b-45cb-8d36-4a365fef93c9"
