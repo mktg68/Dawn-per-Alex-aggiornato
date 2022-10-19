@@ -105,6 +105,7 @@
     },
     "16635064588f9cd162": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1663506458ad55dcb2-0": {
           "type": "heading",
@@ -153,16 +154,16 @@
         "1663522788467f9811-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/D4DFBA36-DA5D-4F9F-87B6-FBF1A18C587E.jpg",
+            "image": "shopify:\/\/shop_images\/DEE373F5-A248-4E5B-A957-7C146EBFEB7E.jpg",
             "heading": "L'AZIENDA AGRICOLA",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story throughs images",
+            "subheading": "",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "bottom-right",
+            "box_align": "bottom-left",
             "show_text_box": true,
-            "text_alignment": "right",
+            "text_alignment": "left",
             "image_overlay_opacity": 0,
             "color_scheme": "inverse",
             "text_alignment_mobile": "center"
@@ -170,6 +171,7 @@
         },
         "1663522788467f9811-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "heading": "Image slide",
             "heading_size": "h1",
