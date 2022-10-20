@@ -671,6 +671,59 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "3703ce24-76fd-47d9-b792-9dca838894dd": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-0": {
+          "type": "column",
+          "settings": {
+            "title": "Az. agr. 'La Fescennina'",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-1": {
+          "type": "column",
+          "settings": {
+            "title": "Miele del Parco Nazionale del Circeo",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-2": {
+          "type": "column",
+          "settings": {
+            "title": "Circeo Gin",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-0",
+        "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-1",
+        "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -689,6 +742,7 @@
     "0b5f70a1-2251-43f0-9e09-2a8ee7f0bec1",
     "1663506424cab30ed5",
     "1663506616dd70f119",
-    "fc279420-6917-4e36-98d9-38cd634c5c4e"
+    "fc279420-6917-4e36-98d9-38cd634c5c4e",
+    "3703ce24-76fd-47d9-b792-9dca838894dd"
   ]
 }
