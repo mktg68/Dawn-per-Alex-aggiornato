@@ -103,52 +103,6 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "16635064588f9cd162": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1663506458ad55dcb2-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "il nostro packaging minimale ed ecologico",
-            "heading_size": "h1"
-          }
-        },
-        "1663506458ad55dcb2-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>dalle nostre buste per biscotti e snack in <strong>PLA<\/strong> (finta plastica prodotta da amido di mais e proteine dei legumi) passando dalla <strong>carta riciclata<\/strong> 100% per scatole e volantini, fino alla nostra partnership con <strong>GLS<\/strong>, che utilizza per le spedizioni solo materiale riciclato al 100% a impatto zero<\/p>",
-            "text_style": "body"
-          }
-        },
-        "77d53abb-ed6a-48a0-892c-50ed505f371f": {
-          "type": "caption",
-          "settings": {
-            "caption": "Add a tagline",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        }
-      },
-      "block_order": [
-        "1663506458ad55dcb2-0",
-        "1663506458ad55dcb2-1",
-        "77d53abb-ed6a-48a0-892c-50ed505f371f"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/CE345EA8-732D-48A8-AA9A-8A440EC72B74.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "inverse",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "16635204158163d768": {
       "type": "collage",
       "blocks": {
@@ -212,6 +166,7 @@
         },
         "template--16081813176548__718179cc-d249-4fd0-bd7c-58a764dc4dc3-1666253695148d4cd9-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "heading": "Image slide",
             "heading_size": "h1",
@@ -323,6 +278,52 @@
         "desktop_layout": "left",
         "mobile_layout": "collage",
         "color_scheme": "inverse",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16635064588f9cd162": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "1663506458ad55dcb2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "il nostro packaging minimale ed ecologico",
+            "heading_size": "h1"
+          }
+        },
+        "1663506458ad55dcb2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>dalle nostre buste per biscotti e snack in <strong>PLA<\/strong> (finta plastica prodotta da amido di mais e proteine dei legumi) passando dalla <strong>carta riciclata<\/strong> 100% per scatole e volantini, fino alla nostra partnership con <strong>GLS<\/strong>, che utilizza per le spedizioni solo materiale riciclato al 100% a impatto zero<\/p>",
+            "text_style": "body"
+          }
+        },
+        "77d53abb-ed6a-48a0-892c-50ed505f371f": {
+          "type": "caption",
+          "settings": {
+            "caption": "Add a tagline",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "1663506458ad55dcb2-0",
+        "1663506458ad55dcb2-1",
+        "77d53abb-ed6a-48a0-892c-50ed505f371f"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CE345EA8-732D-48A8-AA9A-8A440EC72B74.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "right",
+        "content_layout": "overlap",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -492,11 +493,11 @@
     "main",
     "16639327183254e252",
     "16635226674e4994d7",
-    "16635064588f9cd162",
     "16635204158163d768",
     "718179cc-d249-4fd0-bd7c-58a764dc4dc3",
     "1663506565ba8d2ede",
     "a7e44e15-1b9f-4402-8ed4-4efd4be71ecb",
+    "16635064588f9cd162",
     "1664115950822f8e8d",
     "1663522789b5ad5eb9",
     "1663506424cab30ed5",
