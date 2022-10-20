@@ -51,6 +51,7 @@
         },
         "16864c50-f95c-4629-892b-75313b0b70bd": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<style>\n\n.navbar {\n  width: 100%;\n  overflow: auto;\n}\n\n.navbar a {\n  float: left;\n  padding: 10px;\n   width: 33%;\ntext-align: center;\n  display: inline-block;\n  color: black;\n  text-decoration: none;\n  font-size: 16px;\n}\n\n.navbar a:hover {\n  background-color: #FFDB00;\n  color: white;\n}\n\n\n\n\n@media screen and (max-width: 500px) {\n  .navbar a {\n    float: none; width: 100%;\n    text-align: center;\n  }\n}\n<\/style>\n<body>\n<div class=\"navbar\">\n  <a href=\"\/policies\/refund-policy\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0517\/2684\/4076\/files\/warranty_TH.svg?v=1649513912\" target=\"_blank\" style=\"width:30px;height30px alt=\"WARRANTY<\" >{% if request.locale.iso_code == 'fr' %}\n    \/\/ frenchCODe\n RETOURS\n{% elsif request.locale.iso_code == 'en' %}\n   RETURNS\n{% else %}\n   GARANZIA\n{% endif %}<\/a> \n<a href=\"\/pages\/secured-payment\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0517\/2684\/4076\/files\/secure_payment_TH.svg?v=1649513912\" target=\"_blank\" style=\"width:30px;height:30px alt=\"secure payment\">{% if request.locale.iso_code == 'fr' %}PAIEMENTS\n{% elsif request.locale.iso_code == 'en' %}PAYMENTS\n{% else %}PAGAMENTI\n{% endif %}<\/a>\n   <a href=\"\/policies\/shipping-policy\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0517\/2684\/4076\/files\/shipping_TH.svg?v=1649513912\" target=\"_blank\" style=\"width:30px;height:30px alt=\"LIVRAISON\" > {% if request.locale.iso_code == 'fr' %}\nLIVRAISON\n{% elsif request.locale.iso_code == 'en' %}\n   SHIPPING\n{% else %}\n    SPEDIZIONE\n{% endif %}<\/a> \n \n<\/div>"
           }
@@ -71,6 +72,7 @@
         },
         "collapsible-row-2": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Valori nutrizionali",
             "icon": "heart",
@@ -151,6 +153,7 @@
     },
     "165528594679f57dfa": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "6d074eb3-b7bf-4006-93f9-b94bfd5c5f4e": {
           "type": "shopify:\/\/apps\/ux-bundle\/blocks\/customer-reviews\/db56920d-adc9-4d8c-9ea5-72e338782247",
@@ -171,12 +174,13 @@
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "Il nostro miele",
-            "heading_size": "h1"
+            "heading": "Una collaborazione tra due eccellenze del territorio",
+            "heading_size": "h2"
           }
         },
         "image-with-text-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_style": "body"
@@ -247,11 +251,11 @@
     },
     "16557461536bd74b28": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "68a720d4-ce73-4570-b4c8-2028c3fa4355": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_9d4e7afb-b786-4b9b-a068-3ae2e15a02c7.jpg",
             "image_padding": false
           }
         },
@@ -287,6 +291,7 @@
     },
     "1655743488338a647d": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1655743488b6ff413b-0": {
           "type": "heading",
@@ -347,6 +352,7 @@
     },
     "1654766361fc2d668b": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Blog posts",
         "heading_size": "h1",
