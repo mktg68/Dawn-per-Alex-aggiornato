@@ -84,7 +84,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Abbinamenti",
-            "icon": "eye",
+            "icon": "carrot",
             "content": "<p>{{ product.metafields.my_fields.abbinamenti | metafield_tag }}<\/p>",
             "page": ""
           }
@@ -100,6 +100,7 @@
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Spedizioni e rimborsi",
             "icon": "truck",
@@ -115,6 +116,7 @@
         },
         "2bd5c237-93ef-4abe-897e-2e30d90eb574": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<style>#shopify-section-announcement-bar { display: none; } <\/style>"
           }
