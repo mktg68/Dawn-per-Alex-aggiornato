@@ -116,6 +116,7 @@
         },
         "2bd5c237-93ef-4abe-897e-2e30d90eb574": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<style>#shopify-section-announcement-bar { display: none; } <\/style>"
           }
