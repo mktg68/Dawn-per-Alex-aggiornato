@@ -698,10 +698,10 @@
         "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-2": {
           "type": "column",
           "settings": {
-            "title": "Circeo Gin",
+            "title": "CIRCEO GIN",
             "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "vai al sito",
+            "link": "https:\/\/circeogin.it"
           }
         }
       },
