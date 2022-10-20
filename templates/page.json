@@ -110,14 +110,14 @@
         "1663506458ad55dcb2-0": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "il nostro packaging minimale ed ecologico",
             "heading_size": "h1"
           }
         },
         "1663506458ad55dcb2-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>dalle nostre buste per biscotti e snack in <strong>PLA<\/strong> (finta plastica prodotta da amido di mais e proteine dei legumi) passando dalla <strong>carta riciclata<\/strong> 100% per scatole e volantini, fino alla nostra partnership con <strong>GLS<\/strong>, che utilizza per le spedizioni solo buste e <strong>materiali compostabili<\/strong><\/p>",
             "text_style": "body"
           }
         },
@@ -142,7 +142,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
