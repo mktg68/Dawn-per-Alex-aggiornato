@@ -295,6 +295,7 @@
         "8a7e26c7-a0f8-4fd2-8f29-5c0495b8d6ff": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_8182.jpg",
             "image_padding": false
           }
         }
