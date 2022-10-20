@@ -167,6 +167,39 @@
         "include_margins": true
       }
     },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "title": "SPEDIZIONE GRATUITA CON SOLI 39€ DI SPESA - CONSEGNA RAPIDA IN 24H",
+            "text": "<p>personalizzata al massimo con <a href=\"https:\/\/gls-group.com\/IT\/it\/spedire-ricevere\/servizio-per-te\/servizi-accessori\/flexdeliveryservice\" target=\"_blank\" title=\"https:\/\/gls-group.com\/IT\/it\/spedire-ricevere\/servizio-per-te\/servizi-accessori\/flexdeliveryservice\"><strong>GLS Flex Delivery Service<\/strong><\/a> <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-0"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "disabled": true,
@@ -200,40 +233,6 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-2",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "column-0": {
-          "type": "column",
-          "settings": {
-            "title": "SPEDIZIONE GRATUITA CON SOLI 39€ DI SPESA - CONSEGNA RAPIDA IN 24H",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column-0"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -356,16 +355,52 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "91a376ff-7ab3-4932-a26c-d128ec0b8b29": {
+      "type": "newsletter",
+      "disabled": true,
+      "blocks": {
+        "template--16480831996132__91a376ff-7ab3-4932-a26c-d128ec0b8b29-16662924575efa68fb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "OTTIENI SUBITO IL 15% DI SCONTO SUL TUO PRIMO ACQUISTO",
+            "heading_size": "h2"
+          }
+        },
+        "template--16480831996132__91a376ff-7ab3-4932-a26c-d128ec0b8b29-16662924575efa68fb-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Iscriviti alla nostra newsletter per ricevere news, approfondimenti, nuovi prodotti in uscita, offerte e sconti<\/p>"
+          }
+        },
+        "template--16480831996132__91a376ff-7ab3-4932-a26c-d128ec0b8b29-16662924575efa68fb-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16480831996132__91a376ff-7ab3-4932-a26c-d128ec0b8b29-16662924575efa68fb-0",
+        "template--16480831996132__91a376ff-7ab3-4932-a26c-d128ec0b8b29-16662924575efa68fb-1",
+        "template--16480831996132__91a376ff-7ab3-4932-a26c-d128ec0b8b29-16662924575efa68fb-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "165528594679f57dfa",
-    "image-with-text",
     "multicolumn",
+    "image-with-text",
     "16557461536bd74b28",
     "1655743488338a647d",
     "product-recommendations",
-    "1654766361fc2d668b"
+    "1654766361fc2d668b",
+    "91a376ff-7ab3-4932-a26c-d128ec0b8b29"
   ]
 }
