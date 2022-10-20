@@ -251,33 +251,33 @@
     },
     "16557461536bd74b28": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "68a720d4-ce73-4570-b4c8-2028c3fa4355": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/EF760711-3A5B-487A-8F0E-F6EA2B118793.jpg",
             "image_padding": false
-          }
-        },
-        "165574615363fd6adc-1": {
-          "type": "product",
-          "settings": {
-            "product": "sortilegi-dell-maga-mandarino-e-mandorla-box-da-5",
-            "second_image": false
           }
         },
         "79ca00cb-378e-47ba-baa9-cab22882337d": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1.jpg",
-            "image_padding": true
+            "image": "shopify:\/\/shop_images\/4C92421F-35A2-49AB-8AD7-20A81AC3F761.jpg",
+            "image_padding": false
+          }
+        },
+        "6c7a946b-5669-465e-a33c-97b1e451f423": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BARATTOLI_miele_banner_orizzontale.jpg",
+            "image_padding": false
           }
         }
       },
       "block_order": [
         "68a720d4-ce73-4570-b4c8-2028c3fa4355",
-        "165574615363fd6adc-1",
-        "79ca00cb-378e-47ba-baa9-cab22882337d"
+        "79ca00cb-378e-47ba-baa9-cab22882337d",
+        "6c7a946b-5669-465e-a33c-97b1e451f423"
       ],
       "settings": {
         "heading": "",
