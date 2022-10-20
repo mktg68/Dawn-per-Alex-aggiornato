@@ -625,10 +625,11 @@
         "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-0": {
           "type": "column",
           "settings": {
-            "title": "Olio Flaminio",
+            "image": "shopify:\/\/shop_images\/4CE313C1-6961-4AC6-B212-3864ED782F8F.jpg",
+            "title": "OLIO FLAMINIO",
             "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "vai al sito",
+            "link": "https:\/\/www.olioflaminio.it"
           }
         },
         "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-1": {
