@@ -618,6 +618,59 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "fc279420-6917-4e36-98d9-38cd634c5c4e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-0": {
+          "type": "column",
+          "settings": {
+            "title": "Olio Flaminio",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-1": {
+          "type": "column",
+          "settings": {
+            "title": "Mulino FarFarina",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-2": {
+          "type": "column",
+          "settings": {
+            "title": "Molino Cipolla",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-0",
+        "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-1",
+        "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-2"
+      ],
+      "settings": {
+        "title": "la nostra rete di aziende, produttori e amici della terra",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -635,6 +688,7 @@
     "a3503ade-5199-4af7-8e6c-83c78d6cd632",
     "0b5f70a1-2251-43f0-9e09-2a8ee7f0bec1",
     "1663506424cab30ed5",
-    "1663506616dd70f119"
+    "1663506616dd70f119",
+    "fc279420-6917-4e36-98d9-38cd634c5c4e"
   ]
 }
