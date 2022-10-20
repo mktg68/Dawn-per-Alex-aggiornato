@@ -237,6 +237,7 @@
     },
     "image-with-text": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "image-with-text-0": {
           "type": "heading",
@@ -273,20 +274,19 @@
     },
     "16557461536bd74b28": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
-        "68a720d4-ce73-4570-b4c8-2028c3fa4355": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/612C458E-87D3-48B9-A9C0-C08A58FB6077.jpg",
-            "image_padding": false
-          }
-        },
         "79ca00cb-378e-47ba-baa9-cab22882337d": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_0674.jpg",
             "image_padding": true
+          }
+        },
+        "68a720d4-ce73-4570-b4c8-2028c3fa4355": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/612C458E-87D3-48B9-A9C0-C08A58FB6077.jpg",
+            "image_padding": false
           }
         },
         "5b821454-fe1b-4ae6-9729-883c88ab88f9": {
@@ -298,16 +298,16 @@
         }
       },
       "block_order": [
-        "68a720d4-ce73-4570-b4c8-2028c3fa4355",
         "79ca00cb-378e-47ba-baa9-cab22882337d",
+        "68a720d4-ce73-4570-b4c8-2028c3fa4355",
         "5b821454-fe1b-4ae6-9729-883c88ab88f9"
       ],
       "settings": {
         "heading": "",
         "heading_size": "h1",
         "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "inverse",
+        "mobile_layout": "column",
+        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -390,6 +390,42 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "cba96afc-abd8-40d7-8f00-d8b3a8fbe110": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16480831996132__cba96afc-abd8-40d7-8f00-d8b3a8fbe110-16662925675f2c351b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "le nostre mele annurche",
+            "heading_size": "h1"
+          }
+        },
+        "template--16480831996132__cba96afc-abd8-40d7-8f00-d8b3a8fbe110-16662925675f2c351b-1": {
+          "type": "text",
+          "settings": {
+            "text": "L’unica mela autoctona del centro-sud, e anche una delle più ricche di nutrienti, dalla consistenza pastosa e gusto acidulo poco dolce è da sempre la mela delle nonne e nonni di queste zone. Noi la riproponiamo in versione mezza mostarda dalla consistenza vellutata (o Mostardina) con pochissimo aceto di mele Bio, accompagnato dal Moscato di Terracina, unico vitigno autoctono del Circeo, lievemente sapida e speziata vi stupirà per la sua versatilità..",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16480831996132__cba96afc-abd8-40d7-8f00-d8b3a8fbe110-16662925675f2c351b-0",
+        "template--16480831996132__cba96afc-abd8-40d7-8f00-d8b3a8fbe110-16662925675f2c351b-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/6D7E3DB4-E2AB-44A0-A1CD-8A66A9EA140D.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -401,6 +437,7 @@
     "16557461536bd74b28",
     "1655743488338a647d",
     "product-recommendations",
-    "1654766361fc2d668b"
+    "1654766361fc2d668b",
+    "cba96afc-abd8-40d7-8f00-d8b3a8fbe110"
   ]
 }
