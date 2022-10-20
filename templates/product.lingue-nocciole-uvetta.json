@@ -167,7 +167,7 @@
         "template--16546410561764__9359c219-b108-48a1-9b0a-9a7099748975-1665684804e0d281ca-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Iscriviti alla nostra newsletter e ricevi subito un piccolo regalo di benvenuto per assaggiare le nostre alchimie..<\/p><p>Inoltre resta aggiornato su nuovi prodotti in uscita, offerte e sconti, eventi, approfondimenti su Circeo e Parco Nazionale, le lavorazioni in laboratorio, l'agricoltura naturale e molto altro..<\/p>"
+            "text": "<p>Iscriviti alla nostra newsletter e ricevi subito un piccolo regalo di benvenuto per assaggiare le nostre alchimie..<\/p><p>Inoltre resta aggiornato su nuovi prodotti in uscita, offerte e sconti, eventi, approfondimenti e molto altro..<\/p>"
           }
         },
         "template--16546410561764__9359c219-b108-48a1-9b0a-9a7099748975-1665684804e0d281ca-2": {
@@ -213,9 +213,9 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><strong>SPEDIZIONE RAPIDA<\/strong> E <strong>FLESSIBILE<\/strong> IN 24H CON <strong>GLS FLEX<\/strong> <\/p><p><strong>GRATUITA<\/strong> OLTRE I <strong>39€<\/strong> DI SPESA<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p><strong>SPEDIZIONE RAPIDA<\/strong> E <strong>PERSONALIZZATA<\/strong> IN 24H CON <strong>GLS FLEX<\/strong> <strong>DELIVERY<\/strong><\/p><p><strong>GRATUITA<\/strong> OLTRE I <strong>39€<\/strong> DI SPESA<\/p>",
+            "link_label": "più info",
+            "link": "https:\/\/gls-group.com\/IT\/it\/spedire-ricevere\/servizio-per-te\/servizi-accessori\/flexdeliveryservice"
           }
         }
       },
