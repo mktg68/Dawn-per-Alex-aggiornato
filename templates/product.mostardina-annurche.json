@@ -200,6 +200,40 @@
         "padding_bottom": 36
       }
     },
+    "91a376ff-7ab3-4932-a26c-d128ec0b8b29": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16480831996132__91a376ff-7ab3-4932-a26c-d128ec0b8b29-16662924575efa68fb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "OTTIENI SUBITO IL 15% DI SCONTO SUL TUO PRIMO ACQUISTO",
+            "heading_size": "h2"
+          }
+        },
+        "template--16480831996132__91a376ff-7ab3-4932-a26c-d128ec0b8b29-16662924575efa68fb-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Iscriviti alla nostra newsletter per ricevere news, approfondimenti, nuovi prodotti in uscita, offerte e sconti<\/p>"
+          }
+        },
+        "template--16480831996132__91a376ff-7ab3-4932-a26c-d128ec0b8b29-16662924575efa68fb-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16480831996132__91a376ff-7ab3-4932-a26c-d128ec0b8b29-16662924575efa68fb-0",
+        "template--16480831996132__91a376ff-7ab3-4932-a26c-d128ec0b8b29-16662924575efa68fb-1",
+        "template--16480831996132__91a376ff-7ab3-4932-a26c-d128ec0b8b29-16662924575efa68fb-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "disabled": true,
@@ -207,14 +241,14 @@
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "Il nostro miele",
-            "heading_size": "h1"
+            "heading": "le nostre mele annurche",
+            "heading_size": "h2"
           }
         },
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>L’unica mela <strong>autoctona<\/strong> del centro-sud, e anche una delle più <strong>ricche<\/strong> <strong>di nutrienti<\/strong>, dalla consistenza pastosa e gusto acidulo poco dolce è da sempre la mela delle nonne e nonni di queste zone. Noi la riproponiamo in versione mezza mostarda dalla consistenza vellutata (o Mostardina) con pochissimo <strong>aceto di mele Bio<\/strong>, accompagnato dal <strong>Moscato di Terracina<\/strong>, unico vitigno autoctono del Circeo, lievemente sapida e speziata vi stupirà per la sua versatilità..<\/p>",
             "text_style": "body"
           }
         }
@@ -224,8 +258,8 @@
         "image-with-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/PORTULACA_PIANTA_2.jpg",
-        "height": "small",
+        "image": "shopify:\/\/shop_images\/6D7E3DB4-E2AB-44A0-A1CD-8A66A9EA140D.jpg",
+        "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
@@ -355,52 +389,17 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "91a376ff-7ab3-4932-a26c-d128ec0b8b29": {
-      "type": "newsletter",
-      "disabled": true,
-      "blocks": {
-        "template--16480831996132__91a376ff-7ab3-4932-a26c-d128ec0b8b29-16662924575efa68fb-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "OTTIENI SUBITO IL 15% DI SCONTO SUL TUO PRIMO ACQUISTO",
-            "heading_size": "h2"
-          }
-        },
-        "template--16480831996132__91a376ff-7ab3-4932-a26c-d128ec0b8b29-16662924575efa68fb-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Iscriviti alla nostra newsletter per ricevere news, approfondimenti, nuovi prodotti in uscita, offerte e sconti<\/p>"
-          }
-        },
-        "template--16480831996132__91a376ff-7ab3-4932-a26c-d128ec0b8b29-16662924575efa68fb-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--16480831996132__91a376ff-7ab3-4932-a26c-d128ec0b8b29-16662924575efa68fb-0",
-        "template--16480831996132__91a376ff-7ab3-4932-a26c-d128ec0b8b29-16662924575efa68fb-1",
-        "template--16480831996132__91a376ff-7ab3-4932-a26c-d128ec0b8b29-16662924575efa68fb-2"
-      ],
-      "settings": {
-        "color_scheme": "inverse",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "main",
     "165528594679f57dfa",
     "multicolumn",
+    "91a376ff-7ab3-4932-a26c-d128ec0b8b29",
     "image-with-text",
     "16557461536bd74b28",
     "1655743488338a647d",
     "product-recommendations",
-    "1654766361fc2d668b",
-    "91a376ff-7ab3-4932-a26c-d128ec0b8b29"
+    "1654766361fc2d668b"
   ]
 }
