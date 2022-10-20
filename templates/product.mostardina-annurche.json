@@ -72,6 +72,7 @@
         },
         "collapsible-row-2": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Valori nutrizionali",
             "icon": "heart",
@@ -236,7 +237,6 @@
     },
     "image-with-text": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "image-with-text-0": {
           "type": "heading",
@@ -259,9 +259,9 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/6D7E3DB4-E2AB-44A0-A1CD-8A66A9EA140D.jpg",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "medium",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
