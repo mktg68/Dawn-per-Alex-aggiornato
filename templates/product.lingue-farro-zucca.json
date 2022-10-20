@@ -82,6 +82,7 @@
         },
         "02d1e0a0-b2c8-4502-895e-eba24daa7c8f": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Abbinamenti",
             "icon": "eye",
@@ -94,7 +95,7 @@
           "settings": {
             "heading": "Consigli per la conservazione",
             "icon": "box",
-            "content": "<p>{{ product.metafields.custom.consigli_per_la_conservazione | metafield_tag }}<\/p>",
+            "content": "<p>{{ product.metafields.custom.consigli_per_la_conservazione | metafield_tag }}<\/p><p>Le nostre confezioni da 200g sono da <strong>2\/3 porzioni<\/strong>, una volta aperte richiudi subito il sacchetto con la clip di legno inclusa, per non perdere tutta la loro irresistibile fragranza<\/p>",
             "page": ""
           }
         },
