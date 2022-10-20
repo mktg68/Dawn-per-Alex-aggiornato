@@ -507,8 +507,133 @@
         "accessibility_info": "Fiori e frutti dell'azienda agricola"
       }
     },
+    "fc279420-6917-4e36-98d9-38cd634c5c4e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4CE313C1-6961-4AC6-B212-3864ED782F8F.jpg",
+            "title": "OLIO FLAMINIO",
+            "text": "",
+            "link_label": "vai al sito",
+            "link": "https:\/\/www.olioflaminio.it"
+          }
+        },
+        "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BBE188BA-CDD6-4662-B81F-6C2C8BBE8469.jpg",
+            "title": "MULINO FARFARINA",
+            "text": "",
+            "link_label": "vai al sito",
+            "link": "https:\/\/www.farfarina.it"
+          }
+        },
+        "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-2": {
+          "type": "column",
+          "settings": {
+            "title": "MOLINO CIPOLLA",
+            "text": "",
+            "link_label": "vai al sito",
+            "link": "https:\/\/www.molinocipolla.it\/index.php"
+          }
+        }
+      },
+      "block_order": [
+        "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-0",
+        "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-1",
+        "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-2"
+      ],
+      "settings": {
+        "title": "la nostra rete di aziende, produttori e amici della terra",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3703ce24-76fd-47d9-b792-9dca838894dd": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-0": {
+          "type": "column",
+          "settings": {
+            "title": "AZ.AGR. LA FESCENNINA",
+            "text": "",
+            "link_label": "vai al sito",
+            "link": "https:\/\/lafescennina.com\/?gclid=Cj0KCQjw48OaBhDWARIsAMd966BhAXiZ--GytCRiWPm6Wb8sPvigS5s2ztQKVML3ZSUw3oJgqzFxh4saAuK3EALw_wcB"
+          }
+        },
+        "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-1": {
+          "type": "column",
+          "settings": {
+            "title": "MIELE DEL PARCO NAZIONALE DEL CIRCEO",
+            "text": "",
+            "link_label": "vai alla pagina fb",
+            "link": "https:\/\/it-it.facebook.com\/mieledelcirceo\/"
+          }
+        },
+        "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-2": {
+          "type": "column",
+          "settings": {
+            "title": "CIRCEO GIN",
+            "text": "",
+            "link_label": "vai al sito",
+            "link": "https:\/\/circeogin.it"
+          }
+        }
+      },
+      "block_order": [
+        "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-0",
+        "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-1",
+        "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
     "a3503ade-5199-4af7-8e6c-83c78d6cd632": {
       "type": "story-look",
+      "disabled": true,
+      "blocks": {
+        "fb63b69a-e582-42e2-a04e-83bd6f265e72": {
+          "type": "storyLook",
+          "disabled": true,
+          "settings": {
+            "title": "Our Story",
+            "enable_info_card": true,
+            "richtext": "<p>The Pfaff Family have been manufacturing and retailing garments since 1908.<\/p>",
+            "btn_url": "",
+            "btn_label": "read more"
+          }
+        }
+      },
+      "block_order": [
+        "fb63b69a-e582-42e2-a04e-83bd6f265e72"
+      ],
       "settings": {
         "bg_shape": "",
         "bg_color": "#050000",
@@ -618,114 +743,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "fc279420-6917-4e36-98d9-38cd634c5c4e": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4CE313C1-6961-4AC6-B212-3864ED782F8F.jpg",
-            "title": "OLIO FLAMINIO",
-            "text": "",
-            "link_label": "vai al sito",
-            "link": "https:\/\/www.olioflaminio.it"
-          }
-        },
-        "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/BBE188BA-CDD6-4662-B81F-6C2C8BBE8469.jpg",
-            "title": "MULINO FARFARINA",
-            "text": "",
-            "link_label": "vai al sito",
-            "link": "https:\/\/www.farfarina.it"
-          }
-        },
-        "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-2": {
-          "type": "column",
-          "settings": {
-            "title": "MOLINO CIPOLLA",
-            "text": "",
-            "link_label": "vai al sito",
-            "link": "https:\/\/www.molinocipolla.it\/index.php"
-          }
-        }
-      },
-      "block_order": [
-        "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-0",
-        "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-1",
-        "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-2"
-      ],
-      "settings": {
-        "title": "la nostra rete di aziende, produttori e amici della terra",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "3703ce24-76fd-47d9-b792-9dca838894dd": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-0": {
-          "type": "column",
-          "settings": {
-            "title": "AZ.AGR. LA FESCENNINA",
-            "text": "",
-            "link_label": "vai al sito",
-            "link": "https:\/\/lafescennina.com\/?gclid=Cj0KCQjw48OaBhDWARIsAMd966BhAXiZ--GytCRiWPm6Wb8sPvigS5s2ztQKVML3ZSUw3oJgqzFxh4saAuK3EALw_wcB"
-          }
-        },
-        "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-1": {
-          "type": "column",
-          "settings": {
-            "title": "MIELE DEL PARCO NAZIONALE DEL CIRCEO",
-            "text": "",
-            "link_label": "vai alla pagina fb",
-            "link": "https:\/\/it-it.facebook.com\/mieledelcirceo\/"
-          }
-        },
-        "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-2": {
-          "type": "column",
-          "settings": {
-            "title": "CIRCEO GIN",
-            "text": "",
-            "link_label": "vai al sito",
-            "link": "https:\/\/circeogin.it"
-          }
-        }
-      },
-      "block_order": [
-        "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-0",
-        "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-1",
-        "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-2"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "circle",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -740,11 +757,11 @@
     "16635064588f9cd162",
     "1664115950822f8e8d",
     "1663522789b5ad5eb9",
+    "fc279420-6917-4e36-98d9-38cd634c5c4e",
+    "3703ce24-76fd-47d9-b792-9dca838894dd",
     "a3503ade-5199-4af7-8e6c-83c78d6cd632",
     "0b5f70a1-2251-43f0-9e09-2a8ee7f0bec1",
     "1663506424cab30ed5",
-    "1663506616dd70f119",
-    "fc279420-6917-4e36-98d9-38cd634c5c4e",
-    "3703ce24-76fd-47d9-b792-9dca838894dd"
+    "1663506616dd70f119"
   ]
 }
