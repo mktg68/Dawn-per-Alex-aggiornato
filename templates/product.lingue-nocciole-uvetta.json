@@ -277,7 +277,6 @@
     },
     "16557461536bd74b28": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "68a720d4-ce73-4570-b4c8-2028c3fa4355": {
           "type": "image",
@@ -289,7 +288,7 @@
         "79ca00cb-378e-47ba-baa9-cab22882337d": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1.jpg",
+            "image": "shopify:\/\/shop_images\/LINGUE_SEGALE_NOCCIOLA_PAN_1.jpg",
             "image_padding": true
           }
         },
