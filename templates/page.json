@@ -156,8 +156,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DEE373F5-A248-4E5B-A957-7C146EBFEB7E.jpg",
             "heading": "L'AZIENDA AGRICOLA",
-            "heading_size": "h1",
-            "subheading": "",
+            "heading_size": "h2",
+            "subheading": "fioritura degli albicocchi 2021",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -233,8 +233,8 @@
         "e77ceabe-5a02-47b2-9f14-21ae44777e0f"
       ],
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
+        "heading": "Alchimie di natura ai piedi del Monte Circeo",
+        "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
         "color_scheme": "inverse",
