@@ -613,7 +613,7 @@
         "166350661670c23cdd-2"
       ],
       "settings": {
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -635,6 +635,7 @@
         "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/BBE188BA-CDD6-4662-B81F-6C2C8BBE8469.jpg",
             "title": "Mulino FarFarina",
             "text": "",
             "link_label": "",
@@ -646,8 +647,8 @@
           "settings": {
             "title": "Molino Cipolla",
             "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "vai al sito",
+            "link": "https:\/\/www.molinocipolla.it\/index.php"
           }
         }
       },
@@ -660,15 +661,15 @@
         "title": "la nostra rete di aziende, produttori e amici della terra",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "color_scheme": "background-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -713,13 +714,13 @@
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "circle",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 0,
