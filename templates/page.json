@@ -289,14 +289,14 @@
         "16635065659fab88cf-0": {
           "type": "heading",
           "settings": {
-            "heading": "",
-            "heading_size": "h1"
+            "heading": "Il nostro agrumeto",
+            "heading_size": "h2"
           }
         },
         "16635065659fab88cf-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Dagli anni '60 curiamo in famiglia questi piccoli grandi alberi di agrumi, mandarini, aranci, limoni, mandaranci e kumquat.. Il microclima del Circeo, sempre mite e ventilato con esta<\/p>",
             "text_style": "body"
           }
         },
@@ -315,13 +315,14 @@
         "02feec65-f49a-463c-9424-cbe002182338"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/33386A43-CEFC-40AC-A433-2AE0BB805238.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "content_layout": "overlap",
+        "color_scheme": "inverse",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
