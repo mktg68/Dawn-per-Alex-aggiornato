@@ -152,6 +152,7 @@
     },
     "165528594679f57dfa": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "6d074eb3-b7bf-4006-93f9-b94bfd5c5f4e": {
           "type": "shopify:\/\/apps\/ux-bundle\/blocks\/customer-reviews\/db56920d-adc9-4d8c-9ea5-72e338782247",
@@ -168,6 +169,7 @@
     },
     "image-with-text": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "image-with-text-0": {
           "type": "heading",
@@ -248,6 +250,7 @@
     },
     "16557461536bd74b28": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "68a720d4-ce73-4570-b4c8-2028c3fa4355": {
           "type": "image",
@@ -287,6 +290,7 @@
     },
     "1655743488338a647d": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1655743488b6ff413b-0": {
           "type": "heading",
@@ -331,7 +335,7 @@
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "heading": "Ti potrebbe piacere",
+        "heading": "Ti potrebbe piacere anche..",
         "heading_size": "h2",
         "products_to_show": 4,
         "columns_desktop": 4,
@@ -340,7 +344,7 @@
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": true,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 28
       }
