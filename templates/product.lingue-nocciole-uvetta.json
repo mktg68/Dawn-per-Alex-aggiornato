@@ -154,6 +154,57 @@
         "padding_bottom": 12
       }
     },
+    "165528594679f57dfa": {
+      "type": "apps",
+      "disabled": true,
+      "blocks": {
+        "6d074eb3-b7bf-4006-93f9-b94bfd5c5f4e": {
+          "type": "shopify:\/\/apps\/ux-bundle\/blocks\/customer-reviews\/db56920d-adc9-4d8c-9ea5-72e338782247",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "6d074eb3-b7bf-4006-93f9-b94bfd5c5f4e"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "title": "SPEDIZIONE GRATUITA CON SOLI 39€ DI SPESA - CONSEGNA RAPIDA IN 24H",
+            "text": "<p>personalizzata al massimo con <\/p><p><a href=\"https:\/\/gls-group.com\/IT\/it\/spedire-ricevere\/servizio-per-te\/servizi-accessori\/flexdeliveryservice\" target=\"_blank\" title=\"https:\/\/gls-group.com\/IT\/it\/spedire-ricevere\/servizio-per-te\/servizi-accessori\/flexdeliveryservice\"><strong>GLS Flex Delivery Service<\/strong><\/a><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-0"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "9359c219-b108-48a1-9b0a-9a7099748975": {
       "type": "newsletter",
       "blocks": {
@@ -186,57 +237,6 @@
         "full_width": false,
         "padding_top": 24,
         "padding_bottom": 28
-      }
-    },
-    "165528594679f57dfa": {
-      "type": "apps",
-      "disabled": true,
-      "blocks": {
-        "6d074eb3-b7bf-4006-93f9-b94bfd5c5f4e": {
-          "type": "shopify:\/\/apps\/ux-bundle\/blocks\/customer-reviews\/db56920d-adc9-4d8c-9ea5-72e338782247",
-          "disabled": true,
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "6d074eb3-b7bf-4006-93f9-b94bfd5c5f4e"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column-0": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p><strong>SPEDIZIONE RAPIDA<\/strong> E <strong>PERSONALIZZATA<\/strong> IN 24H CON <strong>GLS FLEX<\/strong> <strong>DELIVERY<\/strong><\/p><p><strong>GRATUITA<\/strong> OLTRE I <strong>39€<\/strong> DI SPESA<\/p>",
-            "link_label": "più info",
-            "link": "https:\/\/gls-group.com\/IT\/it\/spedire-ricevere\/servizio-per-te\/servizi-accessori\/flexdeliveryservice"
-          }
-        }
-      },
-      "block_order": [
-        "column-0"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 20,
-        "padding_bottom": 20
       }
     },
     "image-with-text": {
@@ -397,9 +397,9 @@
   },
   "order": [
     "main",
-    "9359c219-b108-48a1-9b0a-9a7099748975",
     "165528594679f57dfa",
     "multicolumn",
+    "9359c219-b108-48a1-9b0a-9a7099748975",
     "image-with-text",
     "16557461536bd74b28",
     "1655743488338a647d",
