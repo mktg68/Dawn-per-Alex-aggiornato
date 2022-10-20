@@ -145,7 +145,6 @@
     },
     "0b5f70a1-2251-43f0-9e09-2a8ee7f0bec1": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--16081813176548__0b5f70a1-2251-43f0-9e09-2a8ee7f0bec1-166625983856334d84-0": {
           "type": "heading",
@@ -169,7 +168,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/CE345EA8-732D-48A8-AA9A-8A440EC72B74.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "top-center",
         "show_text_box": true,
