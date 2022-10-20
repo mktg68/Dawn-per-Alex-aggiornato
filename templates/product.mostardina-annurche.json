@@ -292,6 +292,7 @@
         "5b821454-fe1b-4ae6-9729-883c88ab88f9": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/MOSTARDINA_PAR_HOME.jpg",
             "image_padding": false
           }
         }
