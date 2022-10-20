@@ -148,6 +148,86 @@
         "padding_bottom": 36
       }
     },
+    "16635204158163d768": {
+      "type": "collage",
+      "blocks": {
+        "2132be6c-0097-40d4-9812-446bc948d5cc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4390_2.jpg",
+            "image_padding": true
+          }
+        },
+        "f31a5a23-e282-4d57-aebb-bf4eb0f72717": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2377.jpg",
+            "image_padding": false
+          }
+        },
+        "dbe178d8-66f4-46f5-ba6c-fb7b40e58e6d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SEMINA_ZAFF_2.jpg",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "2132be6c-0097-40d4-9812-446bc948d5cc",
+        "f31a5a23-e282-4d57-aebb-bf4eb0f72717",
+        "dbe178d8-66f4-46f5-ba6c-fb7b40e58e6d"
+      ],
+      "settings": {
+        "heading": "Zafferano del Circeo - fioritura 2021",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "inverse",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1664115950822f8e8d": {
+      "type": "collage",
+      "blocks": {
+        "c00a2731-830c-40ab-a252-8dccfe5a79d4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5CCCFD25-4B29-4D82-BFB8-321B6941056A.jpg",
+            "image_padding": false
+          }
+        },
+        "e77ceabe-5a02-47b2-9f14-21ae44777e0f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/925578E9-C58F-4D71-B4B4-3E08AB58D26D.jpg",
+            "image_padding": false
+          }
+        },
+        "6e1d6dfc-b8d8-4b51-aaa2-4a4f9dd2fbd5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/D8B99AED-602F-4D58-985D-CA783DF78CD3.jpg",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "c00a2731-830c-40ab-a252-8dccfe5a79d4",
+        "e77ceabe-5a02-47b2-9f14-21ae44777e0f",
+        "6e1d6dfc-b8d8-4b51-aaa2-4a4f9dd2fbd5"
+      ],
+      "settings": {
+        "heading": "Alchimie di natura ai piedi del Monte Circeo",
+        "heading_size": "h2",
+        "desktop_layout": "right",
+        "mobile_layout": "collage",
+        "color_scheme": "inverse",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1663522789b5ad5eb9": {
       "type": "slideshow",
       "blocks": {
@@ -193,53 +273,13 @@
         "1663522788467f9811-1"
       ],
       "settings": {
-        "layout": "full_bleed",
-        "slide_height": "large",
+        "layout": "grid",
+        "slide_height": "medium",
         "slider_visual": "dots",
-        "auto_rotate": true,
+        "auto_rotate": false,
         "change_slides_speed": 7,
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
-      }
-    },
-    "1664115950822f8e8d": {
-      "type": "collage",
-      "blocks": {
-        "6e1d6dfc-b8d8-4b51-aaa2-4a4f9dd2fbd5": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/D8B99AED-602F-4D58-985D-CA783DF78CD3.jpg",
-            "image_padding": false
-          }
-        },
-        "c00a2731-830c-40ab-a252-8dccfe5a79d4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/5CCCFD25-4B29-4D82-BFB8-321B6941056A.jpg",
-            "image_padding": false
-          }
-        },
-        "e77ceabe-5a02-47b2-9f14-21ae44777e0f": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/925578E9-C58F-4D71-B4B4-3E08AB58D26D.jpg",
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "6e1d6dfc-b8d8-4b51-aaa2-4a4f9dd2fbd5",
-        "c00a2731-830c-40ab-a252-8dccfe5a79d4",
-        "e77ceabe-5a02-47b2-9f14-21ae44777e0f"
-      ],
-      "settings": {
-        "heading": "Alchimie di natura ai piedi del Monte Circeo",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "inverse",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "1663506565ba8d2ede": {
@@ -319,46 +359,6 @@
         "padding_bottom": 52
       }
     },
-    "16635204158163d768": {
-      "type": "collage",
-      "blocks": {
-        "2132be6c-0097-40d4-9812-446bc948d5cc": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_4390_2.jpg",
-            "image_padding": true
-          }
-        },
-        "f31a5a23-e282-4d57-aebb-bf4eb0f72717": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_2377.jpg",
-            "image_padding": false
-          }
-        },
-        "dbe178d8-66f4-46f5-ba6c-fb7b40e58e6d": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/SEMINA_ZAFF_2.jpg",
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "2132be6c-0097-40d4-9812-446bc948d5cc",
-        "f31a5a23-e282-4d57-aebb-bf4eb0f72717",
-        "dbe178d8-66f4-46f5-ba6c-fb7b40e58e6d"
-      ],
-      "settings": {
-        "heading": "Zafferano del Circeo - fioritura 2021",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "inverse",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1663506616dd70f119": {
       "type": "newsletter",
       "blocks": {
@@ -399,11 +399,11 @@
     "16639327183254e252",
     "16635226674e4994d7",
     "16635064588f9cd162",
-    "1663522789b5ad5eb9",
+    "16635204158163d768",
     "1664115950822f8e8d",
+    "1663522789b5ad5eb9",
     "1663506565ba8d2ede",
     "1663506424cab30ed5",
-    "16635204158163d768",
     "1663506616dd70f119"
   ]
 }
