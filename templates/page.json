@@ -143,6 +143,43 @@
         "padding_bottom": 36
       }
     },
+    "0b5f70a1-2251-43f0-9e09-2a8ee7f0bec1": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--16081813176548__0b5f70a1-2251-43f0-9e09-2a8ee7f0bec1-166625983856334d84-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "il nostro packaging minimale ed ecologico",
+            "heading_size": "h1"
+          }
+        },
+        "template--16081813176548__0b5f70a1-2251-43f0-9e09-2a8ee7f0bec1-166625983856334d84-1": {
+          "type": "text",
+          "settings": {
+            "text": "dalle nostre buste per biscotti e snack in PLA (finta plastica prodotta da amido di mais e proteine dei legumi) passando dalla carta riciclata 100% per scatole e volantini, fino alla nostra partnership con GLS, che utilizza per le spedizioni solo materiale riciclato al 100% a impatto zero",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16081813176548__0b5f70a1-2251-43f0-9e09-2a8ee7f0bec1-166625983856334d84-0",
+        "template--16081813176548__0b5f70a1-2251-43f0-9e09-2a8ee7f0bec1-166625983856334d84-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CE345EA8-732D-48A8-AA9A-8A440EC72B74.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "top-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "718179cc-d249-4fd0-bd7c-58a764dc4dc3": {
       "type": "slideshow",
       "blocks": {
@@ -161,6 +198,24 @@
             "text_alignment": "left",
             "image_overlay_opacity": 0,
             "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "7bf3bfbb-88f2-4530-a96d-48d2da850097": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
         },
@@ -185,6 +240,7 @@
       },
       "block_order": [
         "template--16081813176548__718179cc-d249-4fd0-bd7c-58a764dc4dc3-1666253695148d4cd9-0",
+        "7bf3bfbb-88f2-4530-a96d-48d2da850097",
         "template--16081813176548__718179cc-d249-4fd0-bd7c-58a764dc4dc3-1666253695148d4cd9-1"
       ],
       "settings": {
@@ -494,6 +550,7 @@
     "16639327183254e252",
     "16635226674e4994d7",
     "16635204158163d768",
+    "0b5f70a1-2251-43f0-9e09-2a8ee7f0bec1",
     "718179cc-d249-4fd0-bd7c-58a764dc4dc3",
     "1663506565ba8d2ede",
     "a7e44e15-1b9f-4402-8ed4-4efd4be71ecb",
