@@ -203,6 +203,40 @@
         "padding_bottom": 36
       }
     },
+    "5a24bfdc-5cee-4aa1-b87b-0c1390102d5a": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16546404827364__5a24bfdc-5cee-4aa1-b87b-0c1390102d5a-16666085807ce23d47-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "OTTIENI SUBITO IL 15% DI SOCNTO SUL TUO PRIMO ACQUISTO",
+            "heading_size": "h2"
+          }
+        },
+        "template--16546404827364__5a24bfdc-5cee-4aa1-b87b-0c1390102d5a-16666085807ce23d47-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Iscriviti alla nostra newsletter per ricevere news, approfondimenti, nuovi prodotti in uscita, offerte e sconti<\/p>"
+          }
+        },
+        "template--16546404827364__5a24bfdc-5cee-4aa1-b87b-0c1390102d5a-16666085807ce23d47-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16546404827364__5a24bfdc-5cee-4aa1-b87b-0c1390102d5a-16666085807ce23d47-0",
+        "template--16546404827364__5a24bfdc-5cee-4aa1-b87b-0c1390102d5a-16666085807ce23d47-1",
+        "template--16546404827364__5a24bfdc-5cee-4aa1-b87b-0c1390102d5a-16666085807ce23d47-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -363,6 +397,7 @@
     "main",
     "165528594679f57dfa",
     "multicolumn",
+    "5a24bfdc-5cee-4aa1-b87b-0c1390102d5a",
     "image-with-text",
     "16557461536bd74b28",
     "1655743488338a647d",
