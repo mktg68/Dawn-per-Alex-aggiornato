@@ -286,19 +286,20 @@
         "1655743488b6ff413b-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "solo olio EVO Flaminio",
             "heading_size": "h1"
           }
         },
         "1655743488b6ff413b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Abbiamo scelto <a href=\"https:\/\/www.olioflaminio.it\/\"><span style=\"text-decoration:underline\"><strong>Olio Flaminio<\/strong><\/span><\/a> come fornitore ufficiale di <strong>olio EVO<\/strong> per i nostri <strong>snack integrali<\/strong> (come anche per le nostre <strong>conserve<\/strong>). Con una <strong>lista di ingredienti cortissima<\/strong>, di cui Olio Flaminio è l'<strong>unico grasso<\/strong> presente, le lingue sono una carica di energia e sali minerali, <strong>facile da digerire<\/strong> e non appesantiscono.<\/p><p>Un olio che nasce da <strong>anni di esperienza<\/strong> e amore per l'ulivo e i suoi frutti. L'azienda sottopone il proprio prodotto oltre che alle classiche (ma rigide) procedure di controllo <strong>certificate ISO<\/strong>, a delle <strong>ulteriori analisi speciali<\/strong>, più approfondite, in cui vengono valutati <strong>parametri gustativi più restrittivi<\/strong> di quelli richiesti dalla legge, documentati da un regolamento interno.<\/p><p>Questo olio, fruttato e delicato allo stesso tempo, è la base perfetta per le nostre lavorazioni. E soprattutto abbiamo trovato nei produttori affinità di valori.. passione per il lavoro di creazione dell'artigiano e rispetto per la natura<\/p>",
             "text_style": "body"
           }
         },
         "1655743488b6ff413b-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
