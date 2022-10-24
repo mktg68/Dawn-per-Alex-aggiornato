@@ -258,7 +258,7 @@
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Facciamo parte del circuito <a href=\"https:\/\/www.slowfood.it\" target=\"_blank\" title=\"https:\/\/www.slowfood.it\"><strong>Slow Food Roma<\/strong><\/a>, dove abbiamo trovato altri produttori che come noi coltivano e lavorano con<strong> metodi sostenibili <\/strong>per l'ambiente, quindi per l'uomo, senza l'utilizzo di diserbanti e sostanze chimiche, e senza processi di raffinazione industriale che deteriorano le proprietà degli ingredienti. Come i mulini da cui ci riforniamo <a href=\"https:\/\/www.farfarina.it\" target=\"_blank\" title=\"https:\/\/www.farfarina.it\"><strong>Mulino FarFarina<\/strong><\/a> e <a href=\"https:\/\/www.molinocipolla.it\/index.php\" target=\"_blank\" title=\"https:\/\/www.molinocipolla.it\/index.php\"><strong>Molino Cipolla<\/strong><\/a> (il mulino storico di Terracina dove già il nonno andava a fine anni '40)<\/p>",
             "text_style": "body"
           }
         }
