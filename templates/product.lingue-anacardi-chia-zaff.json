@@ -264,14 +264,8 @@
         "68a720d4-ce73-4570-b4c8-2028c3fa4355": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/HOME_2.jpg",
             "image_padding": false
-          }
-        },
-        "165574615363fd6adc-1": {
-          "type": "product",
-          "settings": {
-            "product": "sortilegi-dell-maga-mandarino-e-mandorla-box-da-5",
-            "second_image": false
           }
         },
         "79ca00cb-378e-47ba-baa9-cab22882337d": {
@@ -284,7 +278,6 @@
       },
       "block_order": [
         "68a720d4-ce73-4570-b4c8-2028c3fa4355",
-        "165574615363fd6adc-1",
         "79ca00cb-378e-47ba-baa9-cab22882337d"
       ],
       "settings": {
