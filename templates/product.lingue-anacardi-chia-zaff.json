@@ -155,7 +155,6 @@
     },
     "image-with-text": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "image-with-text-0": {
           "type": "heading",
@@ -167,7 +166,7 @@
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Abbinamento delicato ed energetico, lo zafferano lega alla perfezione con il confortevole sapore degli anacardi tostati dalle note burrose.<\/p><p>Un portento di fragranza per riscoprire il sapore del grano antico nostrano, varietà Originario o Rieti, del Mulino FarFarina, della comunità SlowFood Roma, coltivato con metodi sostenibili e non raffinato, quindi con germe di grano, la parte piu' ricca di nutrienti e proteine di questo fantastico cereale dal sapore complesso e <\/p>",
+            "text": "<p>Abbinamento delicato ed energetico, lo zafferano lega alla perfezione con il confortevole sapore degli anacardi tostati dalle note burrose.<\/p><p>Un portento di fragranza per riscoprire il sapore del grano antico nostrano, varietà Originario o Rieti, del Mulino FarFarina, della comunità SlowFood Roma, coltivato con metodi sostenibili e non raffinato, quindi con germe di grano, la parte piu' ricca di nutrienti e proteine di questo fantastico cereale dal gusto pieno, complesso e rustico<\/p>",
             "text_style": "body"
           }
         }
