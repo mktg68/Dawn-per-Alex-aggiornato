@@ -260,30 +260,38 @@
     "16557461536bd74b28": {
       "type": "collage",
       "blocks": {
-        "68a720d4-ce73-4570-b4c8-2028c3fa4355": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/HOME_2.jpg",
-            "image_padding": false
-          }
-        },
         "79ca00cb-378e-47ba-baa9-cab22882337d": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/LINGUE_CHIA_ZAFF_PAN_2.jpg",
             "image_padding": false
           }
+        },
+        "fcc7df29-a758-490c-a2c6-8e4005af74f6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HOME_11_baaf0082-0721-4bb5-a261-559c57756843.jpg",
+            "image_padding": false
+          }
+        },
+        "68a720d4-ce73-4570-b4c8-2028c3fa4355": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HOME_8_a22d805c-d58e-47b9-9097-37885144e362.jpg",
+            "image_padding": false
+          }
         }
       },
       "block_order": [
-        "68a720d4-ce73-4570-b4c8-2028c3fa4355",
-        "79ca00cb-378e-47ba-baa9-cab22882337d"
+        "79ca00cb-378e-47ba-baa9-cab22882337d",
+        "fcc7df29-a758-490c-a2c6-8e4005af74f6",
+        "68a720d4-ce73-4570-b4c8-2028c3fa4355"
       ],
       "settings": {
         "heading": "",
         "heading_size": "h1",
         "desktop_layout": "left",
-        "mobile_layout": "collage",
+        "mobile_layout": "column",
         "color_scheme": "inverse",
         "padding_top": 36,
         "padding_bottom": 36
