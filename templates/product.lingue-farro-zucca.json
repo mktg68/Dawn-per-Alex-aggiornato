@@ -248,28 +248,29 @@
         "68a720d4-ce73-4570-b4c8-2028c3fa4355": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/LINGUE_FARROZUCCA_PART_BELLA_1.jpg",
             "image_padding": false
-          }
-        },
-        "165574615363fd6adc-1": {
-          "type": "product",
-          "settings": {
-            "product": "sortilegi-dell-maga-mandarino-e-mandorla-box-da-5",
-            "second_image": false
           }
         },
         "79ca00cb-378e-47ba-baa9-cab22882337d": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1.jpg",
-            "image_padding": true
+            "image": "shopify:\/\/shop_images\/LINGUE_FARRO_ZUCCA_PART_BELLA_3_9996683e-e603-4bec-949f-17d3b853cf95.jpg",
+            "image_padding": false
+          }
+        },
+        "85ca5198-4818-4d09-bcaa-d74915ee9efe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LINGUE_FARRO_ZUCCA_PAN_1_a264fd76-2d30-4f29-9441-8c50931f2e44.jpg",
+            "image_padding": false
           }
         }
       },
       "block_order": [
         "68a720d4-ce73-4570-b4c8-2028c3fa4355",
-        "165574615363fd6adc-1",
-        "79ca00cb-378e-47ba-baa9-cab22882337d"
+        "79ca00cb-378e-47ba-baa9-cab22882337d",
+        "85ca5198-4818-4d09-bcaa-d74915ee9efe"
       ],
       "settings": {
         "heading": "",
