@@ -82,6 +82,7 @@
         },
         "02d1e0a0-b2c8-4502-895e-eba24daa7c8f": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Abbinamenti",
             "icon": "eye",
@@ -116,6 +117,7 @@
         },
         "2bd5c237-93ef-4abe-897e-2e30d90eb574": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<style>#shopify-section-announcement-bar { display: none; } <\/style>"
           }
@@ -153,6 +155,7 @@
     },
     "image-with-text": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "image-with-text-0": {
           "type": "heading",
@@ -233,6 +236,7 @@
     },
     "16557461536bd74b28": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "68a720d4-ce73-4570-b4c8-2028c3fa4355": {
           "type": "image",
@@ -272,6 +276,7 @@
     },
     "1655743488338a647d": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1655743488b6ff413b-0": {
           "type": "heading",
@@ -350,6 +355,7 @@
     },
     "165528594679f57dfa": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "6d074eb3-b7bf-4006-93f9-b94bfd5c5f4e": {
           "type": "shopify:\/\/apps\/ux-bundle\/blocks\/customer-reviews\/db56920d-adc9-4d8c-9ea5-72e338782247",
