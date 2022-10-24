@@ -339,14 +339,14 @@
         "template--16480839991524__766e90a6-1e2d-45bc-93d1-4ef14bf26c76-1666627985897416c6-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "solo farine naturali selezionate non raffinate",
+            "heading_size": "h2"
           }
         },
         "template--16480839991524__766e90a6-1e2d-45bc-93d1-4ef14bf26c76-1666627985897416c6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Facciamo parte del circuito <a href=\"https:\/\/www.slowfood.it\/\"><span style=\"text-decoration:underline\"><strong>Slow Food Roma<\/strong><\/span><\/a>, dove abbiamo trovato altri produttori che come noi coltivano e lavorano con<strong> metodi sostenibili <\/strong>per l'ambiente, quindi per l'uomo, senza l'utilizzo di diserbanti e sostanze chimiche, e senza processi di raffinazione industriale che deteriorano le proprietà degli ingredienti. Come i mulini da cui ci riforniamo <a href=\"https:\/\/www.farfarina.it\/\"><span style=\"text-decoration:underline\"><strong>Mulino FarFarina<\/strong><\/span><\/a> e <a href=\"https:\/\/www.molinocipolla.it\/index.php\"><span style=\"text-decoration:underline\"><strong>Molino Cipolla<\/strong><\/span><\/a> (il mulino storico di Terracina dove già il nonno andava a fine anni '40)<\/p>",
             "text_style": "body"
           }
         },
