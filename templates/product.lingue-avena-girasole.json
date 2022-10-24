@@ -275,7 +275,6 @@
     },
     "16557461536bd74b28": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "68a720d4-ce73-4570-b4c8-2028c3fa4355": {
           "type": "image",
@@ -321,14 +320,14 @@
         "1655743488b6ff413b-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "SOLO OLIO EVO FLAMINIO",
+            "heading_size": "h2"
           }
         },
         "1655743488b6ff413b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Abbiamo scelto <a href=\"https:\/\/www.olioflaminio.it\/\" target=\"_blank\" title=\"https:\/\/www.olioflaminio.it\/\"><strong>Olio Flaminio<\/strong><\/a> come nostro fornitore ufficiale di olio EVO per i nostri snack integrali (come anche per le nostre conserve). Con una lista di ingredienti cortissima, di cui Olio Flaminio è l'unico grasso presente, le lingue sono una carica di energia e sali minerali, facile da digerire e non appesantisce.<\/p><p>Un olio che nasce da anni di esperienza e amore per l'ulivo e i suoi frutti. L'azienda sottopone il proprio olio oltre che alle classiche (ma rigide) procedure di controllo certificate ISO, a dell ulteriori analisi speciali, più approfondite, in cui vengono valutati parametri gustativi più restrittivi di quelli richiesti dalla legge, documentati da un regolamento interno.<\/p><p>Questo olio, fruttato e delicato allo stesso tempo, è la base perfetta per le nostre lavorazioni, anche e soprattutto perché abbiamo trovato nei produttori affinità di valori.. passione per il lavoro di creazione dell'artigiano e rispetto per la natura<\/p>",
             "text_style": "body"
           }
         },
@@ -346,13 +345,14 @@
         "1655743488b6ff413b-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/4CE313C1-6961-4AC6-B212-3864ED782F8F.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "content_layout": "overlap",
+        "color_scheme": "inverse",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
