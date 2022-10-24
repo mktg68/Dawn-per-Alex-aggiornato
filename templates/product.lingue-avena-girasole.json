@@ -315,7 +315,6 @@
     },
     "1655743488338a647d": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1655743488b6ff413b-0": {
           "type": "heading",
@@ -392,6 +391,50 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "975d4f7e-903c-41fb-a263-71c0f9f39adf": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16546404827364__975d4f7e-903c-41fb-a263-71c0f9f39adf-166660858018f29e02-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "solo farine naturali non raffinate",
+            "heading_size": "h1"
+          }
+        },
+        "template--16546404827364__975d4f7e-903c-41fb-a263-71c0f9f39adf-166660858018f29e02-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Facciamo parte del circuito Slow Food Roma, dove abbiamo trovato altri produttori che come noi coltivano e lavorano con<strong> metodi sostenibili <\/strong>per l'ambiente, quindi per l'uomo, senza l'utilizzo di diserbanti e sostanze chimiche, e senza processi di raffinazione industriale che deteriorano le proprietà degli ingredienti. Come i mulini da cui ci riforniamo <a href=\"https:\/\/www.farfarina.it\" target=\"_blank\" title=\"https:\/\/www.farfarina.it\"><strong>Mulino FarFarina<\/strong><\/a> e <a href=\"https:\/\/www.molinocipolla.it\/index.php\" target=\"_blank\" title=\"https:\/\/www.molinocipolla.it\/index.php\"><strong>Molino<\/strong> <strong>Cipolla<\/strong><\/a> (il mulino storico di Terracina dove già il nonno andava a fine anni '40)<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16546404827364__975d4f7e-903c-41fb-a263-71c0f9f39adf-166660858018f29e02-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16546404827364__975d4f7e-903c-41fb-a263-71c0f9f39adf-166660858018f29e02-0",
+        "template--16546404827364__975d4f7e-903c-41fb-a263-71c0f9f39adf-166660858018f29e02-1",
+        "template--16546404827364__975d4f7e-903c-41fb-a263-71c0f9f39adf-166660858018f29e02-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BBE188BA-CDD6-4662-B81F-6C2C8BBE8469.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -403,6 +446,7 @@
     "16557461536bd74b28",
     "1655743488338a647d",
     "product-recommendations",
-    "1654766361fc2d668b"
+    "1654766361fc2d668b",
+    "975d4f7e-903c-41fb-a263-71c0f9f39adf"
   ]
 }
