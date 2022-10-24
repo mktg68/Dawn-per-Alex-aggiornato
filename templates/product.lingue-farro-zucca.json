@@ -282,7 +282,6 @@
     },
     "1655743488338a647d": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1655743488b6ff413b-0": {
           "type": "heading",
@@ -312,13 +311,14 @@
         "1655743488b6ff413b-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/4CE313C1-6961-4AC6-B212-3864ED782F8F.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
