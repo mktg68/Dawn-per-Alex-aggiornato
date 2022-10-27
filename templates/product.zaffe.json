@@ -177,7 +177,7 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "title": "SPEDIZIONE GRATIS CON SOLI 39€ DI SPESA",
+            "title": "SPEDIZIONE GRATIS CON SOLI 39€ DI SPESA - CONSEGNA RAPIDA IN 24H",
             "text": "<p>personalizzata al massimo con <a href=\"https:\/\/gls-group.com\/IT\/it\/spedire-ricevere\/servizio-per-te\/servizi-accessori\/flexdeliveryservice\" target=\"_blank\" title=\"https:\/\/gls-group.com\/IT\/it\/spedire-ricevere\/servizio-per-te\/servizi-accessori\/flexdeliveryservice\"><strong>GLS Flex Delivery Service<\/strong><\/a> <\/p>",
             "link_label": "",
             "link": ""
@@ -305,7 +305,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/BB12CF34-CC52-4167-802A-EADF41A62C76.jpg",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
@@ -319,7 +319,6 @@
     },
     "1655743488338a647d": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1655743488b6ff413b-0": {
           "type": "heading",
@@ -337,6 +336,7 @@
         },
         "1655743488b6ff413b-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
@@ -351,11 +351,11 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/93D6B33B-F9DE-402B-9FFE-1B4E9B399896.jpg",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "large",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "color_scheme": "background-2",
         "mobile_content_alignment": "left",
         "padding_top": 36,
