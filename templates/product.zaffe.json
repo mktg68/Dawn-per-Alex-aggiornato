@@ -472,6 +472,52 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "b07aa536-e0f8-451a-aecb-ca78de04944e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16157914792164__b07aa536-e0f8-451a-aecb-ca78de04944e-166686607669287b29-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--16157914792164__b07aa536-e0f8-451a-aecb-ca78de04944e-166686607669287b29-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>zafferano ai piedi del Monte Circeo<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16157914792164__b07aa536-e0f8-451a-aecb-ca78de04944e-166686607669287b29-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16157914792164__b07aa536-e0f8-451a-aecb-ca78de04944e-166686607669287b29-0",
+        "template--16157914792164__b07aa536-e0f8-451a-aecb-ca78de04944e-166686607669287b29-1",
+        "template--16157914792164__b07aa536-e0f8-451a-aecb-ca78de04944e-166686607669287b29-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/67088622-5C44-4636-8CD6-FDE5D96077AB.jpg",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "6982a3fd-cc1d-476b-9ee7-9f2a1d697366": {
       "type": "slideshow",
       "blocks": {
@@ -538,6 +584,7 @@
     "product-recommendations",
     "1654766361fc2d668b",
     "f0cd616a-440d-4d45-b8c7-122ce7121be4",
+    "b07aa536-e0f8-451a-aecb-ca78de04944e",
     "6982a3fd-cc1d-476b-9ee7-9f2a1d697366"
   ]
 }
