@@ -283,6 +283,7 @@
     },
     "image-with-text": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "image-with-text-0": {
           "type": "heading",
@@ -319,6 +320,7 @@
     },
     "1655743488338a647d": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1655743488b6ff413b-0": {
           "type": "heading",
@@ -364,6 +366,7 @@
     },
     "6982a3fd-cc1d-476b-9ee7-9f2a1d697366": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--16157914792164__6982a3fd-cc1d-476b-9ee7-9f2a1d697366-166686607738547175-0": {
           "type": "slide",
@@ -437,6 +440,7 @@
     },
     "16557461536bd74b28": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "68a720d4-ce73-4570-b4c8-2028c3fa4355": {
           "type": "image",
@@ -495,6 +499,7 @@
     },
     "f0cd616a-440d-4d45-b8c7-122ce7121be4": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--16157914792164__f0cd616a-440d-4d45-b8c7-122ce7121be4-166686607738547175-0": {
           "type": "slide",
@@ -549,6 +554,7 @@
     },
     "b07aa536-e0f8-451a-aecb-ca78de04944e": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--16157914792164__b07aa536-e0f8-451a-aecb-ca78de04944e-166686607669287b29-0": {
           "type": "heading",
