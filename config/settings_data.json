@@ -115,7 +115,7 @@
             "type": "announcement",
             "settings": {
               "text": "SPEDIZIONE GRATIS OLTRE I 39€ DI SPESA",
-              "color_scheme": "background-2",
+              "color_scheme": "background-1",
               "link": "shopify:\/\/policies\/shipping-policy"
             }
           }
