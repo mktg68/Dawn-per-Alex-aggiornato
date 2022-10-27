@@ -294,7 +294,7 @@
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Bellissima esperienza è svegliarsi la mattina con il campo pieno di fiori che si schiudono, colpi di viola qua e la e sempre più fitti si alternano al verde delle foglie e al colore della nostra terra..è una gioia per lo sguardo..<br\/>Tutte le fasi del lavoro vengono eseguite manualmente durante l’anno (dalla preparazione del terreno, la concimazione naturale con letame e pollina, la pacciamatura, il diserbo manuale ecc.)<\/p>",
+            "text": "<p>Bellissima esperienza è svegliarsi la mattina con il campo pieno di fiori che si schiudono, colpi di viola qua e la e sempre più fitti si alternano al verde delle foglie e al colore della nostra terra..è una gioia per lo sguardo..<\/p>",
             "text_style": "body"
           }
         }
@@ -306,11 +306,11 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/BB12CF34-CC52-4167-802A-EADF41A62C76.jpg",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "large",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "color_scheme": "background-2",
         "mobile_content_alignment": "left",
         "padding_top": 36,
