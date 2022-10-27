@@ -457,31 +457,13 @@
             "color_scheme": "inverse",
             "text_alignment_mobile": "center"
           }
-        },
-        "template--16157914792164__f0cd616a-440d-4d45-b8c7-122ce7121be4-166686607738547175-1": {
-          "type": "slide",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
-        "template--16157914792164__f0cd616a-440d-4d45-b8c7-122ce7121be4-166686607738547175-0",
-        "template--16157914792164__f0cd616a-440d-4d45-b8c7-122ce7121be4-166686607738547175-1"
+        "template--16157914792164__f0cd616a-440d-4d45-b8c7-122ce7121be4-166686607738547175-0"
       ],
       "settings": {
-        "layout": "full_bleed",
+        "layout": "grid",
         "slide_height": "adapt_image",
         "slider_visual": "dots",
         "auto_rotate": false,
