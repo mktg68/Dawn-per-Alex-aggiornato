@@ -178,7 +178,7 @@
           "type": "column",
           "settings": {
             "title": "SPEDIZIONE GRATIS CON SOLI 39€ DI SPESA",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>personalizzata al massimo con <a href=\"https:\/\/gls-group.com\/IT\/it\/spedire-ricevere\/servizio-per-te\/servizi-accessori\/flexdeliveryservice\" target=\"_blank\" title=\"https:\/\/gls-group.com\/IT\/it\/spedire-ricevere\/servizio-per-te\/servizi-accessori\/flexdeliveryservice\"><strong>GLS Flex Delivery Service<\/strong><\/a> <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -202,6 +202,40 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "7b1b8ad8-2d64-4a87-8619-4d150716b23e": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16157914792164__7b1b8ad8-2d64-4a87-8619-4d150716b23e-166686607771ae6590-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "OTTIENI SUBITO UNO SCONTO DEL 15% SUL TUO PRIMO ORDINE",
+            "heading_size": "h2"
+          }
+        },
+        "template--16157914792164__7b1b8ad8-2d64-4a87-8619-4d150716b23e-166686607771ae6590-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "template--16157914792164__7b1b8ad8-2d64-4a87-8619-4d150716b23e-166686607771ae6590-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16157914792164__7b1b8ad8-2d64-4a87-8619-4d150716b23e-166686607771ae6590-0",
+        "template--16157914792164__7b1b8ad8-2d64-4a87-8619-4d150716b23e-166686607771ae6590-1",
+        "template--16157914792164__7b1b8ad8-2d64-4a87-8619-4d150716b23e-166686607771ae6590-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1f941d93-17fc-4d46-92e4-58c39cdffd4c": {
@@ -402,52 +436,18 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "ba5973cb-c7e6-43db-8f54-4c43f78ca304": {
-      "type": "newsletter",
-      "blocks": {
-        "template--16157914792164__ba5973cb-c7e6-43db-8f54-4c43f78ca304-1666863514e386d92f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Subscribe to our emails",
-            "heading_size": "h1"
-          }
-        },
-        "template--16157914792164__ba5973cb-c7e6-43db-8f54-4c43f78ca304-1666863514e386d92f-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
-          }
-        },
-        "template--16157914792164__ba5973cb-c7e6-43db-8f54-4c43f78ca304-1666863514e386d92f-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--16157914792164__ba5973cb-c7e6-43db-8f54-4c43f78ca304-1666863514e386d92f-0",
-        "template--16157914792164__ba5973cb-c7e6-43db-8f54-4c43f78ca304-1666863514e386d92f-1",
-        "template--16157914792164__ba5973cb-c7e6-43db-8f54-4c43f78ca304-1666863514e386d92f-2"
-      ],
-      "settings": {
-        "color_scheme": "inverse",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "main",
     "165528594679f57dfa",
     "multicolumn",
+    "7b1b8ad8-2d64-4a87-8619-4d150716b23e",
     "1f941d93-17fc-4d46-92e4-58c39cdffd4c",
     "image-with-text",
     "16557461536bd74b28",
     "1655743488338a647d",
     "product-recommendations",
-    "1654766361fc2d668b",
-    "ba5973cb-c7e6-43db-8f54-4c43f78ca304"
+    "1654766361fc2d668b"
   ]
 }
