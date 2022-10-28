@@ -17,7 +17,7 @@
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "enable_quick_add": true,
         "enable_filtering": true,
         "filter_type": "horizontal",
         "enable_sorting": true,
@@ -81,7 +81,6 @@
     },
     "1655217002c3d2f23b": {
       "type": "custom-liquid",
-      "disabled": true,
       "settings": {
         "custom_liquid": "<style>#shopify-section-announcement-bar { display: none; } <\/style>",
         "color_scheme": "background-1",
