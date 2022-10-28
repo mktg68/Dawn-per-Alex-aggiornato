@@ -38,6 +38,7 @@
     },
     "16641214670782f926": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1664121467f5afeea0-1": {
           "type": "text",
@@ -66,6 +67,7 @@
     },
     "1664121769144bf9b6": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16641217693894efed-1": {
           "type": "text",
@@ -94,6 +96,7 @@
     },
     "1664122483255df260": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "166412248292e5ed30-1": {
           "type": "slide",
@@ -129,6 +132,7 @@
     },
     "166412314902f62293": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1664123149ae43e864-0": {
           "type": "heading",
@@ -249,25 +253,15 @@
         "1664788088cf00df53-0": {
           "type": "column",
           "settings": {
-            "title": "SPEDIZIONE RAPIDA IN 24\/48h",
-            "text": "<p>in Italia ed Europa spediamo in 24\/4h grazie ai migliori corrieri. Il tuo ordine viene elaborato subito dopo l’acquisto. <strong>Entro 2h riceverai il<\/strong> <strong>codice di tracking <\/strong>per seguire il pacco in ogni momento<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1664788088cf00df53-1": {
-          "type": "column",
-          "settings": {
-            "title": "SCEGLI IL TUO METODO DI PAGAMENTO",
-            "text": "<p>Tutti i tipi di pagamento sono supportati (<strong>PayPal<\/strong>, <strong>ApplePay<\/strong>, <strong>GooglePay<\/strong> ecc.) e rilevati automaticamente dal nostro sito, paga in tutta sicurezza con gli standard Shopify <\/p>",
+            "title": "SPEDIZIONE GRATUITA CON SOLI 39€ DI SPESA - CONSEGNA RAPIDA  IN 24H",
+            "text": "<p>in Italia spediamo in 24H grazie all'affidabilità <strong>GLS<\/strong>. Il tuo ordine viene elaborato subito dopo l’acquisto. <strong>Entro 2h riceverai una mail con<\/strong> <strong>codice di tracking e link a <\/strong><a href=\"https:\/\/gls-group.com\/IT\/en\/send-receive\/choose-right-service\/value-added-services\/flexdeliveryservice\" target=\"_blank\" title=\"servizi GLS\"><strong>GLS Flex Delivery Service<\/strong><\/a><strong> <\/strong>per seguire il pacco e personalizzare la consegna in tempo reale senza ulteriori costi<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "1664788088cf00df53-0",
-        "1664788088cf00df53-1"
+        "1664788088cf00df53-0"
       ],
       "settings": {
         "title": "",
@@ -279,7 +273,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -315,7 +309,7 @@
       ],
       "settings": {
         "color_scheme": "background-2",
-        "full_width": false,
+        "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
       }
