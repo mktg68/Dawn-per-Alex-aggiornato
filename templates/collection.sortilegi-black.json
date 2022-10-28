@@ -81,6 +81,7 @@
     },
     "1655217002c3d2f23b": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<style>#shopify-section-announcement-bar { display: none; } <\/style>",
         "color_scheme": "background-1",
