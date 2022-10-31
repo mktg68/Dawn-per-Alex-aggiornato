@@ -189,6 +189,12 @@
     "1654697334b3514743": {
       "type": "collection-list",
       "blocks": {
+        "94d26472-6eca-4a1f-bb6f-600e81aff262": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "blackbox-aperitivo"
+          }
+        },
         "165469733402a550c6-2": {
           "type": "featured_collection",
           "settings": {
@@ -218,21 +224,15 @@
           "settings": {
             "collection": "zafferano-del-circeo"
           }
-        },
-        "94d26472-6eca-4a1f-bb6f-600e81aff262": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "blackbox-aperitivo"
-          }
         }
       },
       "block_order": [
+        "94d26472-6eca-4a1f-bb6f-600e81aff262",
         "165469733402a550c6-2",
         "165469733402a550c6-1",
         "d97483a2-fd72-45e9-8985-d800af919a0e",
         "165469733402a550c6-0",
-        "3d0a40d6-06a5-4774-915c-547f32a07dd7",
-        "94d26472-6eca-4a1f-bb6f-600e81aff262"
+        "3d0a40d6-06a5-4774-915c-547f32a07dd7"
       ],
       "settings": {
         "title": "LE NOSTRE LINEE",
@@ -242,7 +242,7 @@
         "color_scheme": "inverse",
         "show_view_all": true,
         "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "padding_top": 20,
         "padding_bottom": 24
       }
@@ -296,7 +296,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_8177.jpg",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 50,
         "image_height": "small",
         "adapt_height_first_image": true,
         "desktop_content_position": "top-right",
@@ -502,7 +502,7 @@
           "type": "text",
           "settings": {
             "text": "<p>il nostro Zafferano del Circeo in un' altra combinazione da non perdere..il gusto delle buone uova naturali si fonde con quello del crocus sativus..una mayo a lunga conservazione con poco aceto di mele bio e limoni naturali di nostra produzione <\/p>",
-            "text_style": "subtitle"
+            "text_style": "body"
           }
         },
         "1663089416eb9e6c6b-2": {
