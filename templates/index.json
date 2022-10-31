@@ -787,7 +787,6 @@
     },
     "165458823624187e23": {
       "type": "newsletter",
-      "disabled": true,
       "blocks": {
         "16545882361fd74d66-0": {
           "type": "heading",
@@ -799,7 +798,7 @@
         "16545882361fd74d66-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>vuoi sapere quele sarà il nostro nuovo prodotto in pre-order? o vuoi qualche ricetta coi nostri ingredienti dal blog? o magari venirci a trovare al prossimo evento in azienda..<\/p>"
+            "text": "<p>vuoi sapere quele sarà il nostro nuovo prodotto in uscita? l'ultima ricetta coi nostri ingredienti? o magari venirci a trovare al prossimo evento in azienda..<\/p>"
           }
         },
         "16545882361fd74d66-2": {
