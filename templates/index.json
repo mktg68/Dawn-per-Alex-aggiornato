@@ -111,6 +111,81 @@
         "accessibility_info": "Alchimie di Circe laboratorio artigianale di trasformazione e azienda agricola Zafferano del Circeo nello stesso luogo, il territorio del Parco Nazionale del Circeo"
       }
     },
+    "8b91db55-e16f-40f3-a216-1ec924a57584": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--16081813438692__8b91db55-e16f-40f3-a216-1ec924a57584-1667223990e2e5cc31-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--16081813438692__8b91db55-e16f-40f3-a216-1ec924a57584-1667223990e2e5cc31-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--16081813438692__8b91db55-e16f-40f3-a216-1ec924a57584-1667223990e2e5cc31-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16081813438692__8b91db55-e16f-40f3-a216-1ec924a57584-1667223990e2e5cc31-0",
+        "template--16081813438692__8b91db55-e16f-40f3-a216-1ec924a57584-1667223990e2e5cc31-1",
+        "template--16081813438692__8b91db55-e16f-40f3-a216-1ec924a57584-1667223990e2e5cc31-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "01b470cb-3fcb-4606-be39-6d99682f829d": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Box  Alchimie di Circe",
+        "heading_size": "h1",
+        "description": "<p>Box Aperitivo, Box Zafferano ,Box degustazione, Cooking Box.. Vegan, Vegetariane o per tutti i gusti<\/p><p>Perfette come <strong>idea regalo<\/strong> in ogni situazione.. o per un <strong>aperitivo speciale<\/strong> in poco tempo<\/p><p>Per portare a casa la <strong>magia del nostro territorio<\/strong>.. <\/p><p>Libera la fantasia in cucina o lasciati ispirare..in ogni box una o più <strong>ricette alchemiche <\/strong><\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "blackbox-aperitivo",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1654697334b3514743": {
       "type": "collection-list",
       "blocks": {
@@ -143,6 +218,12 @@
           "settings": {
             "collection": "zafferano-del-circeo"
           }
+        },
+        "94d26472-6eca-4a1f-bb6f-600e81aff262": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "blackbox-aperitivo"
+          }
         }
       },
       "block_order": [
@@ -150,46 +231,20 @@
         "165469733402a550c6-1",
         "d97483a2-fd72-45e9-8985-d800af919a0e",
         "165469733402a550c6-0",
-        "3d0a40d6-06a5-4774-915c-547f32a07dd7"
+        "3d0a40d6-06a5-4774-915c-547f32a07dd7",
+        "94d26472-6eca-4a1f-bb6f-600e81aff262"
       ],
       "settings": {
         "title": "LE NOSTRE LINEE",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 3,
         "color_scheme": "inverse",
         "show_view_all": true,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 20,
         "padding_bottom": 24
-      }
-    },
-    "01b470cb-3fcb-4606-be39-6d99682f829d": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Box  Alchimie di Circe",
-        "heading_size": "h1",
-        "description": "<p>Box Aperitivo, Box Zafferano ,Box degustazione, Cooking Box.. Vegan, Vegetariane o per tutti i gusti<\/p><p>Perfette come <strong>idea regalo<\/strong> in ogni situazione.. o per un <strong>aperitivo speciale<\/strong> in poco tempo<\/p><p>Per portare a casa la <strong>magia del nostro territorio<\/strong>.. <\/p><p>Libera la fantasia in cucina o lasciati ispirare..in ogni box una o più <strong>ricette alchemiche <\/strong><\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "blackbox-aperitivo",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "166309304430b2921b": {
@@ -1024,8 +1079,9 @@
   },
   "order": [
     "1654588232c80d0d73",
-    "1654697334b3514743",
+    "8b91db55-e16f-40f3-a216-1ec924a57584",
     "01b470cb-3fcb-4606-be39-6d99682f829d",
+    "1654697334b3514743",
     "166309304430b2921b",
     "image_banner",
     "16636110137def76e7",
