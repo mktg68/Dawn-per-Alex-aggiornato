@@ -162,9 +162,9 @@
     "01b470cb-3fcb-4606-be39-6d99682f829d": {
       "type": "featured-collection",
       "settings": {
-        "title": "Box  Alchimie di Circe",
-        "heading_size": "h1",
-        "description": "<p>Box Aperitivo, Box Zafferano ,Box degustazione, Cooking Box.. Vegan, Vegetariane o per tutti i gusti<\/p><p>Perfette come <strong>idea regalo<\/strong> in ogni situazione.. o per un <strong>aperitivo speciale<\/strong> in poco tempo<\/p><p>Per portare a casa la <strong>magia del nostro territorio<\/strong>.. <\/p><p>Libera la fantasia in cucina o lasciati ispirare..in ogni box una o più <strong>ricette alchemiche <\/strong><\/p>",
+        "title": "Le nuove Box Alchimie di Circe",
+        "heading_size": "h0",
+        "description": "<p>Box Aperitivo, Box Zafferano ,Box      degustazione, Cooking Box.. <\/p><p>Vegan, Vegetariane o per tutti i gusti<\/p><p>Perfette come <strong>idea regalo<\/strong> in ogni situazione.. o per un <strong>aperitivo veloce ma speciale..<\/strong><\/p><p>Per portare a casa la <strong>magia del nostro territorio<\/strong>.. <\/p><p>Libera la fantasia in cucina o lasciati ispirare..in ogni box una o più <strong>ricette alchemiche finger food.. <\/strong><\/p><p>assaggiale tutte..<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "blackbox-aperitivo",
@@ -426,9 +426,9 @@
         "show_description": true,
         "description_style": "body",
         "collection": "conserve-speciali-natural-ingredients",
-        "products_to_show": 4,
+        "products_to_show": 12,
         "columns_desktop": 4,
-        "full_width": false,
+        "full_width": true,
         "show_view_all": true,
         "view_all_style": "outline",
         "enable_desktop_slider": true,
@@ -439,7 +439,7 @@
         "show_rating": false,
         "enable_quick_add": true,
         "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "padding_top": 32,
         "padding_bottom": 12
       }
