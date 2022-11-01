@@ -1004,7 +1004,7 @@
         "image_height": "small",
         "adapt_height_first_image": true,
         "desktop_content_position": "bottom-left",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "inverse",
         "mobile_content_alignment": "center",
