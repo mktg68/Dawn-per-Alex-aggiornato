@@ -5,6 +5,7 @@
       "blocks": {
         "ffd9dddc-2a5f-4d8b-8e63-85610e0f8510": {
           "type": "shopify:\/\/apps\/ux-bundle\/blocks\/product-rating\/db56920d-adc9-4d8c-9ea5-72e338782247",
+          "disabled": true,
           "settings": {
           }
         },
@@ -154,8 +155,78 @@
         "padding_bottom": 12
       }
     },
+    "multicolumn": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Hassle-Free Exchanges",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1dbedff3-7d9a-4595-8150-aac12f28dad6": {
+      "type": "newsletter",
+      "disabled": true,
+      "blocks": {
+        "template--16157817929956__1dbedff3-7d9a-4595-8150-aac12f28dad6-166730693226e1a039-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "template--16157817929956__1dbedff3-7d9a-4595-8150-aac12f28dad6-166730693226e1a039-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "template--16157817929956__1dbedff3-7d9a-4595-8150-aac12f28dad6-166730693226e1a039-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16157817929956__1dbedff3-7d9a-4595-8150-aac12f28dad6-166730693226e1a039-0",
+        "template--16157817929956__1dbedff3-7d9a-4595-8150-aac12f28dad6-166730693226e1a039-1",
+        "template--16157817929956__1dbedff3-7d9a-4595-8150-aac12f28dad6-166730693226e1a039-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "165528590134aa8511": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "6fb14159-088a-4fc0-a5df-bb01c57b00d6": {
           "type": "shopify:\/\/apps\/ux-bundle\/blocks\/customer-reviews\/db56920d-adc9-4d8c-9ea5-72e338782247",
@@ -172,6 +243,7 @@
     },
     "image-with-text": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "image-with-text-0": {
           "type": "heading",
@@ -206,50 +278,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "column-0": {
-          "type": "column",
-          "settings": {
-            "title": "Free Shipping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Hassle-Free Exchanges",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column-0",
-        "column-1"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -270,9 +298,10 @@
   },
   "order": [
     "main",
+    "multicolumn",
+    "1dbedff3-7d9a-4595-8150-aac12f28dad6",
     "165528590134aa8511",
     "image-with-text",
-    "multicolumn",
     "product-recommendations"
   ]
 }
