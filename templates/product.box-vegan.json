@@ -197,7 +197,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "inverse",
+        "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -232,7 +232,7 @@
         "template--16157914792164__7b1b8ad8-2d64-4a87-8619-4d150716b23e-166686607771ae6590-2"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
