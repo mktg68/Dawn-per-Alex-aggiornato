@@ -798,7 +798,7 @@
           "settings": {
             "button_label": "chi siamo",
             "button_link": "shopify:\/\/pages\/chi-siamo",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -813,7 +813,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
-        "color_scheme": "inverse",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
