@@ -57,6 +57,7 @@
         },
         "20992fe6-fb7c-4a73-96b1-818febb6e273": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<style>\n\n.navbar {\n  width: 100%;\n  overflow: auto;\n}\n\n.navbar a {\n  float: left;\n  padding: 10px;\n   width: 33%;\ntext-align: center;\n  display: inline-block;\n  color: black;\n  text-decoration: none;\n  font-size: 16px;\n}\n\n.navbar a:hover {\n  background-color: #FFDB00;\n  color: white;\n}\n\n\n\n\n@media screen and (max-width: 500px) {\n  .navbar a {\n    float: none; width: 100%;\n    text-align: center;\n  }\n}\n<\/style>\n<body>\n<div class=\"navbar\">\n  <a href=\"\/policies\/refund-policy\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0517\/2684\/4076\/files\/warranty_TH.svg?v=1649513912\" target=\"_blank\" style=\"width:30px;height30px alt=\"WARRANTY<\" >{% if request.locale.iso_code == 'fr' %}\n    \/\/ frenchCODe\n RETOURS\n{% elsif request.locale.iso_code == 'en' %}\n   RETURNS\n{% else %}\n   GARANZIA\n{% endif %}<\/a> \n<a href=\"\/pages\/secured-payment\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0517\/2684\/4076\/files\/secure_payment_TH.svg?v=1649513912\" target=\"_blank\" style=\"width:30px;height:30px alt=\"secure payment\">{% if request.locale.iso_code == 'fr' %}PAIEMENTS\n{% elsif request.locale.iso_code == 'en' %}PAYMENTS\n{% else %}PAGAMENTI\n{% endif %}<\/a>\n   <a href=\"\/policies\/shipping-policy\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0517\/2684\/4076\/files\/shipping_TH.svg?v=1649513912\" target=\"_blank\" style=\"width:30px;height:30px alt=\"LIVRAISON\" > {% if request.locale.iso_code == 'fr' %}\nLIVRAISON\n{% elsif request.locale.iso_code == 'en' %}\n   SHIPPING\n{% else %}\n    SPEDIZIONE\n{% endif %}<\/a> \n \n<\/div>"
           }
@@ -64,7 +65,7 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Ingradienti",
+            "heading": "Ingredienti",
             "icon": "dairy",
             "content": "<p>{{ product.metafields.my_fields.ingradienti | metafield_text }}<\/p>",
             "page": ""
@@ -108,6 +109,7 @@
         },
         "0d018bd2-505a-4af0-8890-27ead1a9a8ea": {
           "type": "popup",
+          "disabled": true,
           "settings": {
             "text": "🛡️garanzia",
             "page": "spedizione-e-rimborsi"
@@ -115,6 +117,7 @@
         },
         "48d6a1b2-cecc-4f42-9a04-91ab0acb00f3": {
           "type": "popup",
+          "disabled": true,
           "settings": {
             "text": "💳PAGAMENTI",
             "page": "filosofia"
