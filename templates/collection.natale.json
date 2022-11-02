@@ -1,0 +1,128 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "inverse"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 8,
+        "columns_desktop": 3,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16557448132085f1b3": {
+      "type": "slideshow",
+      "blocks": {
+        "16557448132ee6349a-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4B5D4C3B-4846-43CB-A36A-B4FB2AA8AE20.jpg",
+            "heading": "solo zucchero di canna integrale biologico",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "left"
+          }
+        },
+        "16557448132ee6349a-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16557448132ee6349a-0",
+        "16557448132ee6349a-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "1655217002c3d2f23b": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<style>#shopify-section-announcement-bar { display: none; } <\/style>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "ddbc31e8-e6af-4690-b622-a6c6cd99f96f": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--16502811295972__ddbc31e8-e6af-4690-b622-a6c6cd99f96f-1665177743a6018a52-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "la frutta secca..",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--16502811295972__ddbc31e8-e6af-4690-b622-a6c6cd99f96f-1665177743a6018a52-0"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "16557448132085f1b3",
+    "1655217002c3d2f23b",
+    "ddbc31e8-e6af-4690-b622-a6c6cd99f96f"
+  ]
+}
