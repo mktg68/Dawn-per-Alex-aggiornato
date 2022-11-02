@@ -5,7 +5,7 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "color_scheme": "inverse"
+        "color_scheme": "background-1"
       }
     },
     "product-grid": {
@@ -28,6 +28,7 @@
     },
     "16557448132085f1b3": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "16557448132ee6349a-0": {
           "type": "slide",
