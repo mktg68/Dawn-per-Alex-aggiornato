@@ -82,6 +82,7 @@
         },
         "02d1e0a0-b2c8-4502-895e-eba24daa7c8f": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Abbinamenti",
             "icon": "eye",
@@ -91,6 +92,7 @@
         },
         "collapsible-row-3": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Consigli per la conservazione",
             "icon": "box",
