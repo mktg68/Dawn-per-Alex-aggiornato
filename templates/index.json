@@ -213,6 +213,72 @@
         "padding_bottom": 36
       }
     },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "alchimie fondenti..  Sortilegi della Maga",
+        "heading_size": "h0",
+        "description": "<p><strong>- fondente monorigine 70% fairtrade<\/strong><\/p><p><strong>- frutta naturale del Circeo<\/strong><\/p><p><strong>- frutta secca italiana IGP o DOP<\/strong><\/p><p><strong>- low sugar solo canna integrale bio<\/strong><br\/><strong>- vegan -gluten free<\/strong><\/p><p><strong>- ogni scatola 5 sortilegi<\/strong><\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "frontpage",
+        "products_to_show": 12,
+        "columns_desktop": 5,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 16
+      }
+    },
+    "1663605865761cf546": {
+      "type": "collage",
+      "blocks": {
+        "1663605865a8367454-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "sortilegi-della-maga-white-magic"
+          }
+        },
+        "1663605865a8367454-1": {
+          "type": "product",
+          "settings": {
+            "product": "white-magic",
+            "second_image": true
+          }
+        },
+        "0a7d7ce0-19d5-4324-bddf-553790026937": {
+          "type": "product",
+          "settings": {
+            "product": "sortilegi-white-chocolate-magic-limone-e-pistacchio",
+            "second_image": false
+          }
+        }
+      },
+      "block_order": [
+        "1663605865a8367454-2",
+        "1663605865a8367454-1",
+        "0a7d7ce0-19d5-4324-bddf-553790026937"
+      ],
+      "settings": {
+        "heading": "..e poi White Magic.. Cioccolato Bianco allo Zafferano del Circeo",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1654697334b3514743": {
       "type": "collection-list",
       "blocks": {
@@ -647,72 +713,6 @@
         "padding_bottom": 48
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "alchimie fondenti..  Sortilegi della Maga",
-        "heading_size": "h0",
-        "description": "<p><strong>- fondente monorigine 70% fairtrade<\/strong><\/p><p><strong>- frutta naturale del Circeo<\/strong><\/p><p><strong>- frutta secca italiana IGP o DOP<\/strong><\/p><p><strong>- low sugar solo canna integrale bio<\/strong><br\/><strong>- vegan -gluten free<\/strong><\/p><p><strong>- ogni scatola 5 sortilegi<\/strong><\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "frontpage",
-        "products_to_show": 12,
-        "columns_desktop": 5,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 16
-      }
-    },
-    "1663605865761cf546": {
-      "type": "collage",
-      "blocks": {
-        "1663605865a8367454-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "sortilegi-della-maga-white-magic"
-          }
-        },
-        "1663605865a8367454-1": {
-          "type": "product",
-          "settings": {
-            "product": "white-magic",
-            "second_image": true
-          }
-        },
-        "0a7d7ce0-19d5-4324-bddf-553790026937": {
-          "type": "product",
-          "settings": {
-            "product": "sortilegi-white-chocolate-magic-limone-e-pistacchio",
-            "second_image": false
-          }
-        }
-      },
-      "block_order": [
-        "1663605865a8367454-2",
-        "1663605865a8367454-1",
-        "0a7d7ce0-19d5-4324-bddf-553790026937"
-      ],
-      "settings": {
-        "heading": "..e poi White Magic.. Cioccolato Bianco allo Zafferano del Circeo",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1664132951774f448a": {
       "type": "image-banner",
       "blocks": {
@@ -1079,6 +1079,8 @@
     "6a0ece8f-47b9-49f9-87a0-d9381ac58f4a",
     "8b91db55-e16f-40f3-a216-1ec924a57584",
     "01b470cb-3fcb-4606-be39-6d99682f829d",
+    "featured_collection",
+    "1663605865761cf546",
     "1654697334b3514743",
     "ecbd3109-f525-40cb-ae37-4005e0a678a0",
     "166309304430b2921b",
@@ -1089,8 +1091,6 @@
     "83c25334-a747-41bd-9357-6a11b6eeb650",
     "166308941626df14d9",
     "1664293030aab31b32",
-    "featured_collection",
-    "1663605865761cf546",
     "1664132951774f448a",
     "1664874543d31c2cc5",
     "16547072421a698d53",
