@@ -270,7 +270,7 @@
         "0a7d7ce0-19d5-4324-bddf-553790026937"
       ],
       "settings": {
-        "heading": "..e poi White Magic.. Cioccolato Bianco allo Zafferano del Circeo",
+        "heading": "White Magic.. Cioccolato Bianco allo Zafferano del Circeo",
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "collage",
@@ -282,6 +282,12 @@
     "1654697334b3514743": {
       "type": "collection-list",
       "blocks": {
+        "63946fcb-a738-4f26-b458-eab5daf3c676": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "natale-2022"
+          }
+        },
         "94d26472-6eca-4a1f-bb6f-600e81aff262": {
           "type": "featured_collection",
           "settings": {
@@ -294,16 +300,22 @@
             "collection": "frontpage"
           }
         },
-        "165469733402a550c6-1": {
+        "5e6f0c5b-63fa-4601-91a4-8a8cce430396": {
           "type": "featured_collection",
           "settings": {
-            "collection": "prodotti-da-forno"
+            "collection": "cioccolato-in-barrette-natural-chocolate"
           }
         },
         "d97483a2-fd72-45e9-8985-d800af919a0e": {
           "type": "featured_collection",
           "settings": {
             "collection": "ciambelle-e-frollini"
+          }
+        },
+        "165469733402a550c6-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "prodotti-da-forno"
           }
         },
         "165469733402a550c6-0": {
@@ -320,10 +332,12 @@
         }
       },
       "block_order": [
+        "63946fcb-a738-4f26-b458-eab5daf3c676",
         "94d26472-6eca-4a1f-bb6f-600e81aff262",
         "165469733402a550c6-2",
-        "165469733402a550c6-1",
+        "5e6f0c5b-63fa-4601-91a4-8a8cce430396",
         "d97483a2-fd72-45e9-8985-d800af919a0e",
+        "165469733402a550c6-1",
         "165469733402a550c6-0",
         "3d0a40d6-06a5-4774-915c-547f32a07dd7"
       ],
@@ -331,7 +345,7 @@
         "title": "LE NOSTRE LINEE",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "color_scheme": "inverse",
         "show_view_all": true,
         "columns_mobile": "2",
