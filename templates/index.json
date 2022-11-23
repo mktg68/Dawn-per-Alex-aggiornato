@@ -116,7 +116,7 @@
       "settings": {
         "title": "NATALE 2022",
         "heading_size": "h0",
-        "description": "<p><\/p><p>Black Box Alchimie? <\/p><p>- Scopri o fai scoprire a chi vuoi tu i nostri Sortilegi della Maga, cioccolatini fondenti vegan & glutee free con l'83% di cacao e il minimo indispensabile di zucchero integrale..attimi di dolcezza in libertà<\/p><p>- O le nostre tavolette fruttate di cioccolato fondente monorigine 70% ricoperte di frutta secca..<\/p><p>- Il cioccolato WHITE MAGIC, bianco al latte belga affinato col nostro Zafferano del Circeo<\/p><p>- le nostre Box Circeo Gin & Cioccolato..per chiudere il cenone alla grande..<\/p>",
+        "description": "<p><\/p><p><strong>Black Box Alchimie? <\/strong><\/p><p>- Scopri o fai scoprire a chi vuoi tu i nostri <strong>Sortilegi della Maga<\/strong>, cioccolatini fondenti <strong>vegan & gluten free<\/strong> con l'<strong>83% di cacao<\/strong> e il minimo indispensabile di <strong>zucchero integrale bio<\/strong>..attimi di dolcezza in libertà<\/p><p>- O le nostre tavolette fruttate di <strong>cioccolato fondente monorigine 70%<\/strong> ricoperte di frutta secca..<\/p><p>- Il cioccolato <strong>WHITE MAGIC<\/strong>, bianco al latte belga affinato col nostro <strong>Zafferano del Circeo<\/strong><\/p><p>- le nostre <strong>Box Circeo Gin & Cioccolato<\/strong>..per chiudere il cenone alla grande..<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "natale-2022",
@@ -126,7 +126,7 @@
         "show_view_all": true,
         "view_all_style": "outline",
         "enable_desktop_slider": false,
-        "color_scheme": "inverse",
+        "color_scheme": "background-2",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": false,
