@@ -111,6 +111,33 @@
         "accessibility_info": "Alchimie di Circe laboratorio artigianale di trasformazione e azienda agricola Zafferano del Circeo nello stesso luogo, il territorio del Parco Nazionale del Circeo"
       }
     },
+    "6a0ece8f-47b9-49f9-87a0-d9381ac58f4a": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "NATALE 2022",
+        "heading_size": "h0",
+        "description": "<p>non il solito cesto regalo..<\/p><p>Black Box Alchimie? Scopri o fai scoprire a chi vuoi tu i nostri Sortilegi della Maga, cioccolatini fondenti vegan con l'83% di cacao minimo<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "natale-2022",
+        "products_to_show": 9,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "inverse",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "8b91db55-e16f-40f3-a216-1ec924a57584": {
       "type": "image-banner",
       "disabled": true,
@@ -1049,6 +1076,7 @@
   },
   "order": [
     "1654588232c80d0d73",
+    "6a0ece8f-47b9-49f9-87a0-d9381ac58f4a",
     "8b91db55-e16f-40f3-a216-1ec924a57584",
     "01b470cb-3fcb-4606-be39-6d99682f829d",
     "1654697334b3514743",
