@@ -114,7 +114,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "SPEDIZIONE GRATIS OLTRE I 39€ DI SPESA",
+              "text": "FREE SHIPPING OVER €39 SHIPPING",
               "color_scheme": "background-1",
               "link": "shopify:\/\/policies\/shipping-policy"
             }
@@ -156,14 +156,14 @@
           "footer-2": {
             "type": "text",
             "settings": {
-              "heading": "ALCHIMIE DI CIRCE",
-              "subtext": "<p><em>di Alexander Tombolillo<\/em><\/p><p><em>in via Ungaretti 81 San Felice Circeo<\/em><\/p><p><em>P.Iva 12313300019<\/em><\/p><p><em><strong>Laboratorio Artigianale e Azienda Agricola<\/strong><\/em><em> <\/em><\/p>"
+              "heading": "CIRCE'S ALCHEMY",
+              "subtext": "<p><em>at Alexander Kunciillo<\/em><\/p><p><em>in via Ungaretti 81 San Felice Circeo<\/em><\/p><p><em>VAT number 12313300019<\/em><\/p><p><em><strong>Craft laboratory and farm<\/strong><\/em><em> <\/em><\/p>"
             }
           },
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "MAPPA SITO",
+              "heading": "SITE MAP",
               "menu": "main-menu"
             }
           },
@@ -184,7 +184,7 @@
         "settings": {
           "color_scheme": "inverse",
           "newsletter_enable": true,
-          "newsletter_heading": "Iscriviti alla nostra newsletter e ottieni subito il 15% di sconto sul tuo primo acquisto!",
+          "newsletter_heading": "Subscribe to our newsletter and immediately get 15% off your first purchase!",
           "show_social": true,
           "enable_country_selector": false,
           "enable_language_selector": true,
@@ -440,6 +440,43 @@
     "blocks": {
       "12793297677437526120": {
         "type": "shopify:\/\/apps\/content-translation\/blocks\/custom_translations\/b5b83690-efd4-434d-8c6a-a5cef4019faf",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "8765772171712610185": {
+        "type": "shopify:\/\/apps\/t-lab-ai-language-translate\/blocks\/language_switcher\/b5b83690-efd4-434d-8c6a-a5cef4019faf",
+        "disabled": false,
+        "settings": {
+          "enable_language_switcher": true,
+          "enable_country_region_switcher": true,
+          "use_modal_dialog": true,
+          "use_currency_for_region": false,
+          "switcher_position": "custom",
+          "show_flags": false,
+          "language_label": "language-name",
+          "language_country_mapping": "",
+          "countries_filter": "",
+          "custom_css": "",
+          "header_switcher_reference_element": "",
+          "header_switcher_relative_position": "before",
+          "mobile_menu_switcher_reference_element": "",
+          "mobile_switcher_relative_position": "before",
+          "header_switcher_border_width": 0,
+          "switcher_viewport_position": "bottom-left",
+          "custom_position_spacing_top": "55",
+          "custom_position_spacing_right": "20",
+          "custom_position_spacing_bottom": "20",
+          "custom_position_spacing_left": "20",
+          "custom_switcher_font_size": "14px",
+          "custom_switcher_border_width": 1,
+          "custom_switcher_text_color": "#f5c709",
+          "custom_switcher_background_color": "#050000",
+          "custom_switcher_border_color": "#000000"
+        }
+      },
+      "2140405073069974119": {
+        "type": "shopify:\/\/apps\/t-lab-ai-language-translate\/blocks\/language_detection\/b5b83690-efd4-434d-8c6a-a5cef4019faf",
         "disabled": false,
         "settings": {
         }
