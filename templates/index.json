@@ -955,8 +955,8 @@
           "type": "faq",
           "settings": {
             "checkbox_expanded": false,
-            "title": "In quanto tempo spedite in Italia",
-            "content": "<p>Spediamo in tutta Italia in 24h con <strong>GLS<\/strong>, nostro partner ufficiale.<\/p><p>L'ordine viene elaborato immediatamente, dal lunedì al venerdì se ordini entro le 20:00, altrimenti il giorno segurente<\/p><p>In ogni momento è possibile rintracciare grazie al codice di tracking che riceverai via mail da GLS dopo l'acquisto<\/p><p>Nella mail troverai il link a GLS Flex Delivery service, che ti permette di personalizzare al max la tua consegna senza costi aggiuntivi (consegna ad un vicino o ad un abr di fiducia, spostamento del giorno o del luogo ecc)<\/p>"
+            "title": "In quanto tempo spedite in Italia?",
+            "content": "<p>Spediamo in tutta Italia in <strong>24h<\/strong> con <strong>GLS<\/strong>, nostro partner ufficiale.<\/p><p>L'ordine viene elaborato immediatamente, dal lunedì al venerdì se ordini entro le 20:00, altrimenti il giorno segurente<\/p><p>In ogni momento è possibile rintracciare grazie al codice di tracking che riceverai via mail da GLS dopo l'acquisto<\/p><p>Nella mail troverai il link a <strong>GLS Flex Delivery<\/strong>, che ti permette di personalizzare al max la tua consegna senza costi aggiuntivi (consegna ad un vicino o ad un abr di fiducia, spostamento del giorno o del luogo ecc)<\/p>"
           }
         },
         "7f529f6f-4fd5-4f47-9f07-495ff89dc31f": {
