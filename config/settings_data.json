@@ -256,7 +256,7 @@
             "settings": {
               "title": "Geolocation",
               "url": "geolocation-recommendations.shopifyapps.com\/selectors\/script.js",
-              "block_index": true,
+              "block_index": false,
               "block_product": false,
               "block_collection": false,
               "block_page": false,
