@@ -430,5 +430,36 @@
       "copy_code_success": "Le code a bien été copié",
       "print_gift_card": "Imprimer"
     }
+  },
+  "action": {
+    "search": "À proximité",
+    "cart": "Chariot",
+    "account": "Comptes",
+    "view_more": "Voir plus",
+    "to_search": "Chercher",
+    "checkout": "Vérifier",
+    "remove": "retirer",
+    "log_in": "Se connecter",
+    "sign_in": "S'identifier",
+    "create_account": "Créer des comptes",
+    "restore": "Restaurer",
+    "send": "envoyer",
+    "reset_password": "Réinitialisation du mot de passe",
+    "activate": "Activer",
+    "cancel": "Annuler",
+    "close": "proche",
+    "return_to_account_overview": "Retour à l'aperçu du compte",
+    "forgot_your_password": "Mot de passe oublié?",
+    "log_out": "Se déconnecter",
+    "edit_addresses": "Modifier les adresses",
+    "add_new_address": "Ajouter une nouvelle adresse",
+    "update_address": "Mettre à jour l'adresse",
+    "edit": "Éditer",
+    "delete": "Effacer",
+    "add_to_cart": "Ajouter au panier",
+    "continue_shopping": "Continuer vos achats",
+    "track_shipment": "Suivre les envois",
+    "subscribe": "S'abonner",
+    "read_more": "Lire la suite"
   }
 }
