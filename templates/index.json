@@ -980,8 +980,8 @@
           "type": "faq",
           "settings": {
             "checkbox_expanded": false,
-            "title": "What is AgroEcology?",
-            "content": "<p> <a href=\"https:\/\/www.agroecology-europe.org\" target=\"_blank\" title=\"AgroEcology in Europe website\"><strong>AgroEcology<\/strong><\/a> is a set of practices and methods, of agricultural production but also of consumption, sustainable for the ecosystem (soil, aquifers, pollinating insects, etc.) for the protection of the environment and the nutritional quality of the products<\/p>"
+            "title": "Cos' è l'AgroEcologia?",
+            "content": "<p> <a href=\"https:\/\/www.agroecology-europe.org\" target=\"_blank\" title=\"AgroEcology in Europe website\"><strong>AgroEcologia  <\/strong><\/a>è un insieme di <strong>pratiche e metodi<\/strong>, di produzione agricola <strong>ma anche di consumo<\/strong>, <strong>sostenibili<\/strong> per l'ecosistema (suolo, falde acquifere, insetti impollinatori, ecc.) per la tutela dell'ambiente e della qualità nutrizionale dei prodotti<\/p>"
           }
         }
       },
