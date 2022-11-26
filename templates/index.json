@@ -1025,7 +1025,7 @@
         "9b1ada10-083c-4f56-9192-a20f4d9062e8": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "more info",
+            "button_label_1": "INFO",
             "button_link_1": "shopify:\/\/pages\/contact",
             "button_style_secondary_1": true,
             "button_label_2": "",
