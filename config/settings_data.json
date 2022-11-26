@@ -114,7 +114,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "SPEDIZIONE GRATUITA OLTRE I 39€ DI SPESA",
+              "text": "FREE SHIPPING OVER 200 USD",
               "color_scheme": "background-1",
               "link": "shopify:\/\/policies\/shipping-policy"
             }
@@ -444,9 +444,15 @@
         "settings": {
         }
       },
+      "2140405073069974119": {
+        "type": "shopify:\/\/apps\/t-lab-ai-language-translate\/blocks\/language_detection\/b5b83690-efd4-434d-8c6a-a5cef4019faf",
+        "disabled": false,
+        "settings": {
+        }
+      },
       "8765772171712610185": {
         "type": "shopify:\/\/apps\/t-lab-ai-language-translate\/blocks\/language_switcher\/b5b83690-efd4-434d-8c6a-a5cef4019faf",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "enable_language_switcher": true,
           "enable_country_region_switcher": true,
@@ -473,12 +479,6 @@
           "custom_switcher_text_color": "#f5c709",
           "custom_switcher_background_color": "#050000",
           "custom_switcher_border_color": "#000000"
-        }
-      },
-      "2140405073069974119": {
-        "type": "shopify:\/\/apps\/t-lab-ai-language-translate\/blocks\/language_detection\/b5b83690-efd4-434d-8c6a-a5cef4019faf",
-        "disabled": false,
-        "settings": {
         }
       }
     }
