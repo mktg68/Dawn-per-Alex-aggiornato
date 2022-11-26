@@ -824,20 +824,20 @@
         "1654707242c8a529c7-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p> BALANCE BETWEEN TASTE AND NUTRITION<\/p>",
+            "heading": "<p>RICERCA DI EQUILIBRIO TRA GUSTO E NUTRIZIONE<\/p>",
             "heading_size": "h2"
           }
         },
         "1654707242c8a529c7-1": {
           "type": "text",
           "settings": {
-            "text": "<p>For every ingredient that our land has to offer, spice, fruit or vegetable, we elaborate an alchemy of taste, sweet or savoury, with saffron or without, the best possible...but also more digestible, in harmony with the right combinations food, and nutritious, thanks to a careful selection and combination of raw materials not deteriorated by industrial processes.<\/p>"
+            "text": "<p><strong>Per ogni ingrediente<\/strong> che la nostra terra ha da offrire, spezia, frutta o verdura, elaboriamo <strong>un'alchimia di gusto<\/strong>, dolce o salato, con o senza zafferano, la più buona possibile..<\/p><p>ma anche più <strong>digeribile<\/strong>, in armonia con le combinazioni alimentari, <\/p><p>e <strong>nutriente<\/strong>, grazie ad un'attenta selezione di materie prime non deteriorate dai processi industriali.<\/p>"
           }
         },
         "1654707242c8a529c7-2": {
           "type": "button",
           "settings": {
-            "button_label": "who we are",
+            "button_label": "chi siamo",
             "button_link": "shopify:\/\/pages\/chi-siamo",
             "button_style_secondary": true,
             "button_label_2": "",
