@@ -18,7 +18,7 @@
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": true,
-        "enable_filtering": true,
+        "enable_filtering": false,
         "filter_type": "horizontal",
         "enable_sorting": false,
         "columns_mobile": "2",
@@ -34,7 +34,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/4B5D4C3B-4846-43CB-A36A-B4FB2AA8AE20.jpg",
-            "heading": "solo zucchero di canna integrale biologico",
+            "heading": "only organic whole cane sugar",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
@@ -51,10 +51,10 @@
         "16557448132ee6349a-1": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "heading": "Image slides",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "button_label": "Button labels",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
@@ -97,7 +97,7 @@
         "template--16502811295972__ddbc31e8-e6af-4690-b622-a6c6cd99f96f-1665177743a6018a52-0": {
           "type": "heading",
           "settings": {
-            "heading": "la frutta secca..",
+            "heading": "dried fruit..",
             "heading_size": "h1"
           }
         }
