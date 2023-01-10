@@ -118,10 +118,19 @@
               "color_scheme": "background-1",
               "link": "shopify:\/\/policies\/shipping-policy"
             }
+          },
+          "c33d7890-90bd-45b8-a401-ca047593e386": {
+            "type": "announcement",
+            "settings": {
+              "text": "100% cultivated and trasformed in Italy",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
           }
         },
         "block_order": [
-          "announcement-bar-0"
+          "announcement-bar-0",
+          "c33d7890-90bd-45b8-a401-ca047593e386"
         ],
         "settings": {
         }
