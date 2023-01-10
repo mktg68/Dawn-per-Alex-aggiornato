@@ -5,6 +5,7 @@
       "blocks": {
         "ffd9dddc-2a5f-4d8b-8e63-85610e0f8510": {
           "type": "shopify:\/\/apps\/ux-bundle\/blocks\/product-rating\/db56920d-adc9-4d8c-9ea5-72e338782247",
+          "disabled": true,
           "settings": {
           }
         },
@@ -82,6 +83,7 @@
         },
         "02d1e0a0-b2c8-4502-895e-eba24daa7c8f": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Abbinamenti",
             "icon": "eye",
@@ -91,6 +93,7 @@
         },
         "collapsible-row-3": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Consigli per la conservazione",
             "icon": "box",
@@ -115,6 +118,7 @@
         },
         "2bd5c237-93ef-4abe-897e-2e30d90eb574": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<style>#shopify-section-announcement-bar { display: none; } <\/style>"
           }
