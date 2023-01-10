@@ -162,10 +162,16 @@
           "type": "shopify:\/\/apps\/ux-bundle\/blocks\/customer-reviews\/db56920d-adc9-4d8c-9ea5-72e338782247",
           "settings": {
           }
+        },
+        "58388815-a21f-4f59-94be-ad13b455d281": {
+          "type": "shopify:\/\/apps\/ux-bundle\/blocks\/product-rating\/db56920d-adc9-4d8c-9ea5-72e338782247",
+          "settings": {
+          }
         }
       },
       "block_order": [
-        "6d074eb3-b7bf-4006-93f9-b94bfd5c5f4e"
+        "6d074eb3-b7bf-4006-93f9-b94bfd5c5f4e",
+        "58388815-a21f-4f59-94be-ad13b455d281"
       ],
       "settings": {
         "include_margins": true
