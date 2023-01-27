@@ -436,10 +436,10 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/D906459B-6736-486C-81B7-24060FB55D3F.jpg",
-            "heading": "Image slide",
+            "heading": "",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "subheading": "LA COTTURA..",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
