@@ -138,54 +138,6 @@
         "padding_bottom": 36
       }
     },
-    "8b91db55-e16f-40f3-a216-1ec924a57584": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "template--16081813438692__8b91db55-e16f-40f3-a216-1ec924a57584-1667223990e2e5cc31-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banners",
-            "heading_size": "h1"
-          }
-        },
-        "template--16081813438692__8b91db55-e16f-40f3-a216-1ec924a57584-1667223990e2e5cc31-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "template--16081813438692__8b91db55-e16f-40f3-a216-1ec924a57584-1667223990e2e5cc31-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button labels",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button labels",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16081813438692__8b91db55-e16f-40f3-a216-1ec924a57584-1667223990e2e5cc31-0",
-        "template--16081813438692__8b91db55-e16f-40f3-a216-1ec924a57584-1667223990e2e5cc31-1",
-        "template--16081813438692__8b91db55-e16f-40f3-a216-1ec924a57584-1667223990e2e5cc31-2"
-      ],
-      "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "01b470cb-3fcb-4606-be39-6d99682f829d": {
       "type": "featured-collection",
       "settings": {
@@ -860,60 +812,6 @@
         "padding_bottom": 52
       }
     },
-    "multicolumn": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "title": "SUSTAINABILITY",
-            "text": "<p> Our products respect the environment because most of the products are grown directly by us<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "title": "TASTE",
-            "text": "<p> Each product is safe and our laboratory complies with all health and hygiene standards and some of our products have certifications<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "title": "HEALTH",
-            "text": "<p> Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "inverse",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 24,
-        "padding_bottom": 24
-      }
-    },
     "165458823624187e23": {
       "type": "newsletter",
       "blocks": {
@@ -1052,103 +950,11 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
-    },
-    "16630929739aa6857c": {
-      "type": "tooltips",
-      "disabled": true,
-      "blocks": {
-        "166309297314f73f42-0": {
-          "type": "Tooltip",
-          "settings": {
-            "title": "OUR BOXES",
-            "content": "",
-            "top": 76,
-            "left": 88
-          }
-        },
-        "7d2865b1-bb65-46ca-8bbb-a06fa3109c6f": {
-          "type": "Tooltip",
-          "settings": {
-            "title": "Tooltip title",
-            "content": "I am a tooltip, I provide additional explanatory content and showcase product features.",
-            "top": 50,
-            "left": 50
-          }
-        }
-      },
-      "block_order": [
-        "166309297314f73f42-0",
-        "7d2865b1-bb65-46ca-8bbb-a06fa3109c6f"
-      ],
-      "settings": {
-        "tooltip_color": "#ffffff",
-        "tooltip_background_color": "#64cbdf",
-        "tooltip_focus_color": "#ff0000",
-        "breakpoint": "768"
-      }
-    },
-    "71104039-e49b-40f4-81bc-7d38e2cb6446": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "template--16081813438692__71104039-e49b-40f4-81bc-7d38e2cb6446-1674842800c2a1012f-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/qk57UAhzMYU_--NRliWxqBPdcGm6Ge--bQn1O7GUD6WYG-wvo9PD2Q.png",
-            "title": "ACCEDI ALLA NOSTRA PAGINA SU FAIRE.COM , PER TE SUBITO SPEDIZIONE GRATUITA E 100€ DI CREDITO OMAGGIO PER IL TUO PRIMO ORDINE !!!",
-            "text": "<p>Non sai cos'è <a href=\"https:\/\/alchimiedicirce.faire.com\" target=\"_blank\" title=\"https:\/\/alchimiedicirce.faire.com\"><strong>Faire.com<\/strong><\/a><strong> <\/strong>? niente paura! Iscriviti in 2 minuti (<strong>solo titolari partita IVA<\/strong>) per poter acquistare forniture da Alchimie di Circe e tanti altri brand..con esclusivi vantaggi (<strong>SPEDIZIONE GRATUITA PER 1 ANNO, INVIO GRATUITO DI ASSAGGI, 100€ DI CREDITO SUL TUO PRIMO ORDINE)<\/strong><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16081813438692__71104039-e49b-40f4-81bc-7d38e2cb6446-1674842800c2a1012f-1": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16081813438692__71104039-e49b-40f4-81bc-7d38e2cb6446-1674842800c2a1012f-2": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16081813438692__71104039-e49b-40f4-81bc-7d38e2cb6446-1674842800c2a1012f-0",
-        "template--16081813438692__71104039-e49b-40f4-81bc-7d38e2cb6446-1674842800c2a1012f-1",
-        "template--16081813438692__71104039-e49b-40f4-81bc-7d38e2cb6446-1674842800c2a1012f-2"
-      ],
-      "settings": {
-        "title": "HAI UNA PARTITA IVA? SEI UN RISTORATORE O UN NEGOZIANTE? FORNITURE ALCHEMICHE..",
-        "heading_size": "h2",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "clicca qui",
-        "button_link": "https:\/\/alchimiedicirce.faire.com",
-        "color_scheme": "background-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "1654588232c80d0d73",
     "6a0ece8f-47b9-49f9-87a0-d9381ac58f4a",
-    "8b91db55-e16f-40f3-a216-1ec924a57584",
     "01b470cb-3fcb-4606-be39-6d99682f829d",
     "featured_collection",
     "1663605865761cf546",
@@ -1165,11 +971,8 @@
     "1664132951774f448a",
     "1664874543d31c2cc5",
     "16547072421a698d53",
-    "multicolumn",
     "165458823624187e23",
     "16545883497f8cf782",
-    "166342159261e50f8c",
-    "16630929739aa6857c",
-    "71104039-e49b-40f4-81bc-7d38e2cb6446"
+    "166342159261e50f8c"
   ]
 }
