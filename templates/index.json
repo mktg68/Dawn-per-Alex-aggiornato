@@ -526,7 +526,7 @@
         "title": "Le nostre Conserve, con zafferano e non solo..",
         "heading_size": "h1",
         "description": "<p>erbe selvatiche sott'olio, mostarde di frutta antica, ricette innovative per ingredienti naturali<\/p>",
-        "show_description": true,
+        "show_description": false,
         "description_style": "body",
         "collection": "conserve-speciali-natural-ingredients",
         "products_to_show": 12,
