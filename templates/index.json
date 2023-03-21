@@ -111,31 +111,31 @@
         "accessibility_info": "Alchimie di Circe transformation workshop and Zafferano del Circeo farm in the same place, the territory of the Circeo National Park"
       }
     },
-    "6a0ece8f-47b9-49f9-87a0-d9381ac58f4a": {
+    "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "BLACK BOX ALCHIMIE DI CIRCE",
+        "title": "Alchimie di cioccolato.. Sortilegi della Maga",
         "heading_size": "h0",
-        "description": "<p>una degustazione del nostro cioccolato artigianale con frutta naturale del Circeo, frutta secca selezionata e Zafferano del Circeo - fondente monorigine 83% vegan e gluten free<\/p>",
+        "description": "<p> - cioccolato monorigine Ecuador fondente 83% fairtrade <\/p><p>- frutta del Circeo, naturale, non trattata, direttamente dai nostri campi <\/p><p>- frutta secca italiana IGP, DOP o da circuito SlowFood <\/p><p>- praline low sugar: solo il minimo zucchero integrale di canna biologico <\/p><p>- vegan & gluten free <\/p><p>- 4 Sortilegi in ogni scatola <\/p><p>- 5 abbinamenti da scoprire<\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "natale-2022",
-        "products_to_show": 9,
-        "columns_desktop": 3,
+        "collection": "frontpage",
+        "products_to_show": 12,
+        "columns_desktop": 5,
         "full_width": true,
         "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-2",
-        "image_ratio": "adapt",
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "inverse",
+        "image_ratio": "square",
         "show_secondary_image": true,
         "show_vendor": false,
-        "show_rating": true,
+        "show_rating": false,
         "enable_quick_add": true,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 28,
+        "padding_bottom": 16
       }
     },
     "01b470cb-3fcb-4606-be39-6d99682f829d": {
@@ -165,35 +165,36 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection": {
+    "6a0ece8f-47b9-49f9-87a0-d9381ac58f4a": {
       "type": "featured-collection",
       "settings": {
-        "title": "Alchimie di cioccolato.. Sortilegi della Maga",
+        "title": "BLACK BOX ALCHIMIE DI CIRCE",
         "heading_size": "h0",
-        "description": "<p> - cioccolato monorigine Ecuador fondente 83% fairtrade <\/p><p>- frutta del Circeo, naturale, non trattata, direttamente dai nostri campi <\/p><p>- frutta secca italiana IGP, DOP o da circuito SlowFood <\/p><p>- praline low sugar: solo il minimo zucchero integrale di canna biologico <\/p><p>- vegan & gluten free <\/p><p>- 4 Sortilegi in ogni scatola <\/p><p>- 5 abbinamenti da scoprire<\/p>",
+        "description": "<p>una degustazione del nostro cioccolato artigianale con frutta naturale del Circeo, frutta secca selezionata e Zafferano del Circeo - fondente monorigine 83% vegan e gluten free<\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "frontpage",
-        "products_to_show": 12,
-        "columns_desktop": 5,
+        "collection": "natale-2022",
+        "products_to_show": 9,
+        "columns_desktop": 3,
         "full_width": true,
         "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "inverse",
-        "image_ratio": "square",
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-2",
+        "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": false,
-        "show_rating": false,
+        "show_rating": true,
         "enable_quick_add": true,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 16
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1663605865761cf546": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "1663605865a8367454-2": {
           "type": "collection",
@@ -954,9 +955,9 @@
   },
   "order": [
     "1654588232c80d0d73",
-    "6a0ece8f-47b9-49f9-87a0-d9381ac58f4a",
-    "01b470cb-3fcb-4606-be39-6d99682f829d",
     "featured_collection",
+    "01b470cb-3fcb-4606-be39-6d99682f829d",
+    "6a0ece8f-47b9-49f9-87a0-d9381ac58f4a",
     "1663605865761cf546",
     "1654697334b3514743",
     "ecbd3109-f525-40cb-ae37-4005e0a678a0",
