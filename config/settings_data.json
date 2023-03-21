@@ -114,7 +114,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "FREE SHIPPING OVER 200 USD",
+              "text": "SPEDIZIONE GRATUITA OLTRE I 39€ DI SPESA",
               "color_scheme": "background-1",
               "link": "shopify:\/\/policies\/shipping-policy"
             }
@@ -166,7 +166,7 @@
             "type": "text",
             "settings": {
               "heading": "ALCHIMIE DI CIRCE",
-              "subtext": "<p><em>at Alexander Tombolillo<\/em><\/p><p><em>in via Ungaretti 81 San Felice Circeo<\/em><\/p><p><em>VAT number 12313300019<\/em><\/p><p><em><strong>Craft laboratory and farm<\/strong><\/em><em> <\/em><\/p>"
+              "subtext": "<p><em>di Alexander Tombolillo<\/em><\/p><p><em>in via Ungaretti 81 ----San Felice Circeo --- 04017 (LT) Italy<\/em><\/p><p><em>P.Iva  IT12313300019<\/em><\/p><p><em>info@alchimiedicirce.it<\/em><\/p><p><em>0039 320 6570633<\/em><\/p><p><em><strong>Craft laboratory and farm<\/strong><\/em><em> <\/em><\/p>"
             }
           },
           "footer-0": {
