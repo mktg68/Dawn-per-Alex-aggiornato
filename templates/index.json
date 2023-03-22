@@ -3,6 +3,24 @@
     "1654588232c80d0d73": {
       "type": "slideshow",
       "blocks": {
+        "47aa4dd5-6544-471d-92c7-f7b42ec676eb": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5F48877A-2813-4438-AD59-145CB39E13FC_2.jpg",
+            "heading": "ATTENTA SELEZIONE DI OGNI INGREDIENTE",
+            "heading_size": "h2",
+            "subheading": "per tutti gli ingredienti che non produciamo facciamo un attentissima selezione, abbiamo creato una rete di produttori e aziende amiche che condividono con noi i principi di sostenibilità e AgroEcologia",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "bottom-right",
+            "show_text_box": true,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        },
         "07ca6b65-ba7c-478f-9352-98406d90527b": {
           "type": "slide",
           "settings": {
@@ -37,24 +55,6 @@
             "image_overlay_opacity": 0,
             "color_scheme": "inverse",
             "text_alignment_mobile": "left"
-          }
-        },
-        "47aa4dd5-6544-471d-92c7-f7b42ec676eb": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/5F48877A-2813-4438-AD59-145CB39E13FC_2.jpg",
-            "heading": "ATTENTA SELEZIONE DI OGNI INGREDIENTE",
-            "heading_size": "h2",
-            "subheading": "per tutti gli ingredienti che non produciamo facciamo un attentissima selezione, abbiamo creato una rete di produttori e aziende amiche che condividono con noi i principi di sostenibilità e AgroEcologia",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": true,
-            "box_align": "bottom-right",
-            "show_text_box": true,
-            "text_alignment": "right",
-            "image_overlay_opacity": 0,
-            "color_scheme": "inverse",
-            "text_alignment_mobile": "center"
           }
         },
         "fa569ecf-3006-41a5-92a7-a05cd395165d": {
@@ -95,9 +95,9 @@
         }
       },
       "block_order": [
+        "47aa4dd5-6544-471d-92c7-f7b42ec676eb",
         "07ca6b65-ba7c-478f-9352-98406d90527b",
         "16545882313a19e2a2-0",
-        "47aa4dd5-6544-471d-92c7-f7b42ec676eb",
         "fa569ecf-3006-41a5-92a7-a05cd395165d",
         "16545882313a19e2a2-1"
       ],
@@ -193,14 +193,14 @@
           "type": "heading",
           "settings": {
             "heading": "Benvenuti in laboratorio",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "fb8f88a2-9ebc-4c9f-8f9d-96521c752109": {
           "type": "text",
           "settings": {
             "text": "ogni giorno nuove preparazioni e nuove idee, con gli ingredienti che la nostra terra ci offre secondo stagione, preservando la biodiversità anche in cucina",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         },
         "16641329515adf3baf-2": {
@@ -228,9 +228,9 @@
         "desktop_content_position": "bottom-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
-        "color_scheme": "inverse",
+        "color_scheme": "background-2",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
+        "stack_images_on_mobile": false,
         "show_text_below": true
       }
     },
@@ -249,7 +249,7 @@
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": true,
-        "color_scheme": "inverse",
+        "color_scheme": "accent-1",
         "image_ratio": "square",
         "show_secondary_image": true,
         "show_vendor": false,
@@ -302,16 +302,16 @@
         "columns_desktop": 4,
         "full_width": true,
         "show_view_all": true,
-        "view_all_style": "outline",
+        "view_all_style": "solid",
         "enable_desktop_slider": false,
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": true,
         "enable_quick_add": true,
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -420,7 +420,7 @@
       ],
       "settings": {
         "product": "frollini-zafferano-e-mandorle",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "secondary_background": false,
         "hide_variants": false,
         "enable_video_looping": true,
