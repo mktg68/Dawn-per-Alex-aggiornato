@@ -742,7 +742,7 @@
           "type": "heading",
           "settings": {
             "heading": "OTTIENI SUBITO UNO SCONTO DEL 15% SUL TUO PRIMO ACQUISTO",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "166350661670c23cdd-1": {
@@ -763,9 +763,9 @@
         "166350661670c23cdd-2"
       ],
       "settings": {
-        "color_scheme": "inverse",
+        "color_scheme": "background-2",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 64,
         "padding_bottom": 52
       }
     }
