@@ -110,7 +110,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_4390_2.jpg",
-            "image_padding": true
+            "image_padding": false
           }
         },
         "f31a5a23-e282-4d57-aebb-bf4eb0f72717": {
