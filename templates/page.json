@@ -212,24 +212,6 @@
     "718179cc-d249-4fd0-bd7c-58a764dc4dc3": {
       "type": "slideshow",
       "blocks": {
-        "template--16081813176548__718179cc-d249-4fd0-bd7c-58a764dc4dc3-1666253695148d4cd9-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0637_2.jpg",
-            "heading": "per ogni mese un raccolto, per ogni raccolto un alchimia",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "bottom-left",
-            "show_text_box": true,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "inverse",
-            "text_alignment_mobile": "center"
-          }
-        },
         "7bf3bfbb-88f2-4530-a96d-48d2da850097": {
           "type": "slide",
           "disabled": true,
@@ -268,7 +250,6 @@
         }
       },
       "block_order": [
-        "template--16081813176548__718179cc-d249-4fd0-bd7c-58a764dc4dc3-1666253695148d4cd9-0",
         "7bf3bfbb-88f2-4530-a96d-48d2da850097",
         "template--16081813176548__718179cc-d249-4fd0-bd7c-58a764dc4dc3-1666253695148d4cd9-1"
       ],
