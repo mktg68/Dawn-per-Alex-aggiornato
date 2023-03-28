@@ -490,6 +490,7 @@
     },
     "fc279420-6917-4e36-98d9-38cd634c5c4e": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-0": {
           "type": "column",
@@ -545,6 +546,7 @@
     },
     "3703ce24-76fd-47d9-b792-9dca838894dd": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-0": {
           "type": "column",
@@ -621,6 +623,48 @@
         "section_title": "--------------------------------------------------",
         "section_info": "",
         "enable_overlay": true
+      }
+    },
+    "a0b9464d-96a6-4d22-9512-cf6ea4df0051": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16081813176548__a0b9464d-96a6-4d22-9512-cf6ea4df0051-168002156203b9e97a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--16081813176548__a0b9464d-96a6-4d22-9512-cf6ea4df0051-168002156203b9e97a-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "template--16081813176548__a0b9464d-96a6-4d22-9512-cf6ea4df0051-168002156203b9e97a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16081813176548__a0b9464d-96a6-4d22-9512-cf6ea4df0051-168002156203b9e97a-0",
+        "template--16081813176548__a0b9464d-96a6-4d22-9512-cf6ea4df0051-168002156203b9e97a-1",
+        "template--16081813176548__a0b9464d-96a6-4d22-9512-cf6ea4df0051-168002156203b9e97a-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "0b5f70a1-2251-43f0-9e09-2a8ee7f0bec1": {
@@ -741,6 +785,7 @@
     "fc279420-6917-4e36-98d9-38cd634c5c4e",
     "3703ce24-76fd-47d9-b792-9dca838894dd",
     "a3503ade-5199-4af7-8e6c-83c78d6cd632",
+    "a0b9464d-96a6-4d22-9512-cf6ea4df0051",
     "0b5f70a1-2251-43f0-9e09-2a8ee7f0bec1",
     "1663506424cab30ed5",
     "1663506616dd70f119"
