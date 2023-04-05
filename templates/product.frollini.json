@@ -3,11 +3,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "ffd9dddc-2a5f-4d8b-8e63-85610e0f8510": {
-          "type": "shopify:\/\/apps\/ux-bundle\/blocks\/product-rating\/db56920d-adc9-4d8c-9ea5-72e338782247",
-          "settings": {
-          }
-        },
         "vendor": {
           "type": "text",
           "settings": {
@@ -121,7 +116,6 @@
         }
       },
       "block_order": [
-        "ffd9dddc-2a5f-4d8b-8e63-85610e0f8510",
         "vendor",
         "title",
         "caption",
@@ -150,18 +144,45 @@
         "padding_bottom": 12
       }
     },
-    "165528594679f57dfa": {
+    "1680688542daa8f401": {
       "type": "apps",
       "blocks": {
-        "6d074eb3-b7bf-4006-93f9-b94bfd5c5f4e": {
-          "type": "shopify:\/\/apps\/ux-bundle\/blocks\/customer-reviews\/db56920d-adc9-4d8c-9ea5-72e338782247",
+        "cf39df1c-95b0-4b3b-bc2a-87aabb8830a4": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
           "settings": {
           }
         }
       },
       "block_order": [
-        "6d074eb3-b7bf-4006-93f9-b94bfd5c5f4e"
+        "cf39df1c-95b0-4b3b-bc2a-87aabb8830a4"
       ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1680688552ceabcfe3": {
+      "type": "apps",
+      "blocks": {
+        "ce7d8679-987b-444d-a07c-ce0f295aa2ee": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {
+            "stars_fill_color": "#000000",
+            "star_size": 24,
+            "text_align": "center",
+            "product": "{{product}}",
+            "stars_text_empty": "SCRIVI  LA  PRIMA  RECENSIONE"
+          }
+        }
+      },
+      "block_order": [
+        "ce7d8679-987b-444d-a07c-ce0f295aa2ee"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "165528594679f57dfa": {
+      "type": "apps",
       "settings": {
         "include_margins": true
       }
@@ -369,6 +390,8 @@
   },
   "order": [
     "main",
+    "1680688542daa8f401",
+    "1680688552ceabcfe3",
     "165528594679f57dfa",
     "image-with-text",
     "multicolumn",
