@@ -36,7 +36,7 @@
             "text_alignment": "right",
             "image_overlay_opacity": 0,
             "color_scheme": "inverse",
-            "text_alignment_mobile": "center"
+            "text_alignment_mobile": "right"
           }
         },
         "fa569ecf-3006-41a5-92a7-a05cd395165d": {
@@ -54,16 +54,16 @@
             "text_alignment": "left",
             "image_overlay_opacity": 0,
             "color_scheme": "inverse",
-            "text_alignment_mobile": "center"
+            "text_alignment_mobile": "left"
           }
         },
         "47aa4dd5-6544-471d-92c7-f7b42ec676eb": {
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/5F48877A-2813-4438-AD59-145CB39E13FC_2.jpg",
-            "heading": "ATTENTA SELEZIONE DI OGNI INGREDIENTE",
+            "heading": "UNA RETE DI PICCOLI PRODUTTORI SOSTENIBILI",
             "heading_size": "h2",
-            "subheading": "per tutti gli ingredienti che non produciamo facciamo un attentissima selezione, abbiamo creato una rete di produttori e aziende amiche che condividono con noi i principi di sostenibilità e AgroEcologia",
+            "subheading": "per tutti gli ingredienti che non produciamo direttamente facciamo un attentissima selezione, abbiamo creato una rete di produttori e aziende amiche che condividono con noi i principi di sostenibilità e AgroEcologia",
             "button_label": "",
             "link": "",
             "button_style_secondary": true,
@@ -79,7 +79,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/SUSINE_GOCCIA_D_ORO_2.jpg",
-            "heading": "CUOCHI MA ANCHE CONTADINI",
+            "heading": "CONTADINI MA ANCHE CUOCHI",
             "heading_size": "h2",
             "subheading": "crediamo che nessuno possa conoscere meglio un ingrediente di chi lo coltiva.. seguiamo i nostri raccolti in ogni fase, dal campo al lab",
             "button_label": "",
