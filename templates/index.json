@@ -106,7 +106,7 @@
         "slide_height": "medium",
         "slider_visual": "dots",
         "auto_rotate": false,
-        "change_slides_speed": 7,
+        "change_slides_speed": 5,
         "show_text_below": true,
         "accessibility_info": "Alchimie di Circe transformation workshop and Zafferano del Circeo farm in the same place, the territory of the Circeo National Park"
       }
