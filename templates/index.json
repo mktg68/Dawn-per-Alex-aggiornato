@@ -3,22 +3,22 @@
     "1654588232c80d0d73": {
       "type": "slideshow",
       "blocks": {
-        "47aa4dd5-6544-471d-92c7-f7b42ec676eb": {
+        "16545882313a19e2a2-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5F48877A-2813-4438-AD59-145CB39E13FC_2.jpg",
-            "heading": "ATTENTA SELEZIONE DI OGNI INGREDIENTE",
+            "image": "shopify:\/\/shop_images\/6D7E3DB4-E2AB-44A0-A1CD-8A66A9EA140D.jpg",
+            "heading": "DAL CAMPO ALLA CUCINA",
             "heading_size": "h2",
-            "subheading": "per tutti gli ingredienti che non produciamo facciamo un attentissima selezione, abbiamo creato una rete di produttori e aziende amiche che condividono con noi i principi di sostenibilità e AgroEcologia",
+            "subheading": "laboratorio artigianale e azienda agricola nello stesso luogo, coltiviamo i nostri ingredienti in modo naturale.. primo fra tutti lo zafferano del Circeo",
             "button_label": "",
             "link": "",
-            "button_style_secondary": true,
-            "box_align": "bottom-right",
-            "show_text_box": true,
-            "text_alignment": "right",
-            "image_overlay_opacity": 0,
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 50,
             "color_scheme": "inverse",
-            "text_alignment_mobile": "center"
+            "text_alignment_mobile": "left"
           }
         },
         "07ca6b65-ba7c-478f-9352-98406d90527b": {
@@ -39,24 +39,6 @@
             "text_alignment_mobile": "center"
           }
         },
-        "16545882313a19e2a2-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/6D7E3DB4-E2AB-44A0-A1CD-8A66A9EA140D.jpg",
-            "heading": "DAL CAMPO ALLA CUCINA",
-            "heading_size": "h2",
-            "subheading": "laboratorio artigianale e azienda agricola nello stesso luogo, coltiviamo i nostri ingredienti in modo naturale.. primo fra tutti lo zafferano del Circeo",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-left",
-            "show_text_box": true,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "inverse",
-            "text_alignment_mobile": "left"
-          }
-        },
         "fa569ecf-3006-41a5-92a7-a05cd395165d": {
           "type": "slide",
           "settings": {
@@ -70,6 +52,24 @@
             "box_align": "top-left",
             "show_text_box": true,
             "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "47aa4dd5-6544-471d-92c7-f7b42ec676eb": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5F48877A-2813-4438-AD59-145CB39E13FC_2.jpg",
+            "heading": "ATTENTA SELEZIONE DI OGNI INGREDIENTE",
+            "heading_size": "h2",
+            "subheading": "per tutti gli ingredienti che non produciamo facciamo un attentissima selezione, abbiamo creato una rete di produttori e aziende amiche che condividono con noi i principi di sostenibilità e AgroEcologia",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "bottom-right",
+            "show_text_box": true,
+            "text_alignment": "right",
             "image_overlay_opacity": 0,
             "color_scheme": "inverse",
             "text_alignment_mobile": "center"
@@ -95,10 +95,10 @@
         }
       },
       "block_order": [
-        "47aa4dd5-6544-471d-92c7-f7b42ec676eb",
-        "07ca6b65-ba7c-478f-9352-98406d90527b",
         "16545882313a19e2a2-0",
+        "07ca6b65-ba7c-478f-9352-98406d90527b",
         "fa569ecf-3006-41a5-92a7-a05cd395165d",
+        "47aa4dd5-6544-471d-92c7-f7b42ec676eb",
         "16545882313a19e2a2-1"
       ],
       "settings": {
