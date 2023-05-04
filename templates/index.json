@@ -234,128 +234,6 @@
         "show_text_below": true
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Alchimie di cioccolato.. Sortilegi della Maga",
-        "heading_size": "h0",
-        "description": "<p> - cioccolato monorigine Ecuador fondente 83% fairtrade <\/p><p>- frutta del Circeo, naturale, non trattata, direttamente dai nostri campi <\/p><p>- frutta secca italiana IGP, DOP o da circuito SlowFood <\/p><p>- praline low sugar: solo il minimo zucchero integrale di canna biologico <\/p><p>- vegan & gluten free <\/p><p>- 4 Sortilegi in ogni scatola <\/p><p>- 5 abbinamenti da scoprire<\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "frontpage",
-        "products_to_show": 12,
-        "columns_desktop": 5,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "accent-1",
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 16
-      }
-    },
-    "6a0ece8f-47b9-49f9-87a0-d9381ac58f4a": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "BLACK BOX ALCHIMIE DI CIRCE",
-        "heading_size": "h0",
-        "description": "<p>una degustazione del nostro cioccolato artigianale con frutta naturale del Circeo, frutta secca selezionata e Zafferano del Circeo - fondente monorigine 83% vegan e gluten free<\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "natale-2022",
-        "products_to_show": 9,
-        "columns_desktop": 3,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-2",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "01b470cb-3fcb-4606-be39-6d99682f829d": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "le nostre Box Aperitivo",
-        "heading_size": "h1",
-        "description": "<p> <strong>- Box Aperitivo, Box Zafferano del Circeo, Box Degustazione..<\/strong><\/p><p><strong>- Vegan, Vegetariane o per tutti i gusti <\/strong><\/p><p><strong>- per un aperitivo veloce ma speciale, da abbinare al tuo vino preferito<\/strong><\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "blackbox-aperitivo",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "inverse",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1663605865761cf546": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "1663605865a8367454-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "sortilegi-della-maga-white-magic"
-          }
-        },
-        "1663605865a8367454-1": {
-          "type": "product",
-          "settings": {
-            "product": "white-magic",
-            "second_image": true
-          }
-        },
-        "0a7d7ce0-19d5-4324-bddf-553790026937": {
-          "type": "product",
-          "settings": {
-            "product": "sortilegi-white-chocolate-magic-limone-e-pistacchio",
-            "second_image": false
-          }
-        }
-      },
-      "block_order": [
-        "1663605865a8367454-2",
-        "1663605865a8367454-1",
-        "0a7d7ce0-19d5-4324-bddf-553790026937"
-      ],
-      "settings": {
-        "heading": "White Magic.. cioccolato bianco allo Zafferano del Circeo",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "ecbd3109-f525-40cb-ae37-4005e0a678a0": {
       "type": "featured-product",
       "blocks": {
@@ -426,19 +304,6 @@
         "enable_video_looping": true,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "166309304430b2921b": {
-      "type": "text-with-background",
-      "disabled": true,
-      "settings": {
-        "bg_color": "#ffc200",
-        "title": "“..around her nereids and nymphs who didn't spin by moving their fingers they didn't draw threads but herbs and flowers scattered in bulk stems of various colors they selected she knew the function of each leaf she carefully examined the dosages...\"",
-        "info": "<p> OVID - THE METAMORPHOSIS<\/p>",
-        "btn_url": "",
-        "btn_label": "",
-        "padding_top": 8,
-        "padding_bottom": 4
       }
     },
     "image_banner": {
@@ -543,6 +408,33 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "01b470cb-3fcb-4606-be39-6d99682f829d": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "le nostre Box Aperitivo",
+        "heading_size": "h1",
+        "description": "<p> <strong>- Box Aperitivo, Box Zafferano del Circeo, Box Degustazione..<\/strong><\/p><p><strong>- Vegan, Vegetariane o per tutti i gusti <\/strong><\/p><p><strong>- per un aperitivo veloce ma speciale, da abbinare al tuo vino preferito<\/strong><\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "blackbox-aperitivo",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "inverse",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1663757696bfe0682b": {
       "type": "featured-collection",
       "settings": {
@@ -614,51 +506,6 @@
         "padding_bottom": 36
       }
     },
-    "166308941626df14d9": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1663089416eb9e6c6b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "MAYONNAISE ALLO ZAFFERANO",
-            "heading_size": "h1"
-          }
-        },
-        "1663089416eb9e6c6b-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>il nostro zafferano del Circeo in un altro abbinamento da non perdere.. il gusto delle buone uova naturali (Az Agr. Galline Felici - SlowFood Roma) si fonde con quello del crocus sativus.. una maionese a lunga conservazione a base di limoni naturali di nostra produzione<\/p>",
-            "text_style": "body"
-          }
-        },
-        "1663089416eb9e6c6b-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "shop",
-            "button_link": "shopify:\/\/products\/mayonnaise-allo-zafferano-del-circeo"
-          }
-        }
-      },
-      "block_order": [
-        "1663089416eb9e6c6b-0",
-        "1663089416eb9e6c6b-1",
-        "1663089416eb9e6c6b-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/14F635F8-4E1F-4B14-B7EF-10B66636D103.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "right",
-        "content_layout": "no-overlap",
-        "color_scheme": "inverse",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1664293030aab31b32": {
       "type": "image-with-text",
       "blocks": {
@@ -679,7 +526,7 @@
         "1664293030cc572794-2": {
           "type": "button",
           "settings": {
-            "button_label": "taste",
+            "button_label": "vai",
             "button_link": "shopify:\/\/products\/mostardina-di-annurche"
           }
         }
@@ -728,6 +575,159 @@
         "swipe_on_mobile": false,
         "padding_top": 32,
         "padding_bottom": 12
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Alchimie di cioccolato.. Sortilegi della Maga",
+        "heading_size": "h0",
+        "description": "<p> - cioccolato monorigine Ecuador fondente 83% fairtrade <\/p><p>- frutta del Circeo, naturale, non trattata, direttamente dai nostri campi <\/p><p>- frutta secca italiana IGP, DOP o da circuito SlowFood <\/p><p>- praline low sugar: solo il minimo zucchero integrale di canna biologico <\/p><p>- vegan & gluten free <\/p><p>- 4 Sortilegi in ogni scatola <\/p><p>- 5 abbinamenti da scoprire<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "frontpage",
+        "products_to_show": 12,
+        "columns_desktop": 5,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "accent-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 16
+      }
+    },
+    "6a0ece8f-47b9-49f9-87a0-d9381ac58f4a": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "BLACK BOX ALCHIMIE DI CIRCE",
+        "heading_size": "h0",
+        "description": "<p>una degustazione del nostro cioccolato artigianale con frutta naturale del Circeo, frutta secca selezionata e Zafferano del Circeo - fondente monorigine 83% vegan e gluten free<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "natale-2022",
+        "products_to_show": 9,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-2",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1663605865761cf546": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "1663605865a8367454-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "sortilegi-della-maga-white-magic"
+          }
+        },
+        "1663605865a8367454-1": {
+          "type": "product",
+          "settings": {
+            "product": "white-magic",
+            "second_image": true
+          }
+        },
+        "0a7d7ce0-19d5-4324-bddf-553790026937": {
+          "type": "product",
+          "settings": {
+            "product": "sortilegi-white-chocolate-magic-limone-e-pistacchio",
+            "second_image": false
+          }
+        }
+      },
+      "block_order": [
+        "1663605865a8367454-2",
+        "1663605865a8367454-1",
+        "0a7d7ce0-19d5-4324-bddf-553790026937"
+      ],
+      "settings": {
+        "heading": "White Magic.. cioccolato bianco allo Zafferano del Circeo",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "166309304430b2921b": {
+      "type": "text-with-background",
+      "disabled": true,
+      "settings": {
+        "bg_color": "#ffc200",
+        "title": "“..around her nereids and nymphs who didn't spin by moving their fingers they didn't draw threads but herbs and flowers scattered in bulk stems of various colors they selected she knew the function of each leaf she carefully examined the dosages...\"",
+        "info": "<p> OVID - THE METAMORPHOSIS<\/p>",
+        "btn_url": "",
+        "btn_label": "",
+        "padding_top": 8,
+        "padding_bottom": 4
+      }
+    },
+    "166308941626df14d9": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "1663089416eb9e6c6b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "MAYONNAISE ALLO ZAFFERANO",
+            "heading_size": "h1"
+          }
+        },
+        "1663089416eb9e6c6b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>il nostro zafferano del Circeo in un altro abbinamento da non perdere.. il gusto delle buone uova naturali (Az Agr. Galline Felici - SlowFood Roma) si fonde con quello del crocus sativus.. una maionese a lunga conservazione a base di limoni naturali di nostra produzione<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1663089416eb9e6c6b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "shop",
+            "button_link": "shopify:\/\/products\/mayonnaise-allo-zafferano-del-circeo"
+          }
+        }
+      },
+      "block_order": [
+        "1663089416eb9e6c6b-0",
+        "1663089416eb9e6c6b-1",
+        "1663089416eb9e6c6b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/14F635F8-4E1F-4B14-B7EF-10B66636D103.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "right",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1664874543d31c2cc5": {
@@ -959,19 +959,19 @@
     "1654588232c80d0d73",
     "1654697334b3514743",
     "1664132951774f448a",
-    "featured_collection",
-    "6a0ece8f-47b9-49f9-87a0-d9381ac58f4a",
-    "01b470cb-3fcb-4606-be39-6d99682f829d",
-    "1663605865761cf546",
     "ecbd3109-f525-40cb-ae37-4005e0a678a0",
-    "166309304430b2921b",
     "image_banner",
     "16636110137def76e7",
+    "01b470cb-3fcb-4606-be39-6d99682f829d",
     "1663757696bfe0682b",
     "83c25334-a747-41bd-9357-6a11b6eeb650",
-    "166308941626df14d9",
     "1664293030aab31b32",
     "16636064328a5ef542",
+    "featured_collection",
+    "6a0ece8f-47b9-49f9-87a0-d9381ac58f4a",
+    "1663605865761cf546",
+    "166309304430b2921b",
+    "166308941626df14d9",
     "1664874543d31c2cc5",
     "16547072421a698d53",
     "165458823624187e23",
