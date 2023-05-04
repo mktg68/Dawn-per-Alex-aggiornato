@@ -1,5 +1,53 @@
 {
   "sections": {
+    "1664132951774f448a": {
+      "type": "image-banner",
+      "blocks": {
+        "f1fc6932-1a01-4596-a9c1-62a14b3c0d34": {
+          "type": "heading",
+          "settings": {
+            "heading": "Benvenuti in laboratorio",
+            "heading_size": "h1"
+          }
+        },
+        "fb8f88a2-9ebc-4c9f-8f9d-96521c752109": {
+          "type": "text",
+          "settings": {
+            "text": "una gamma di prodotti speciali, naturali e introvabili.. nuove idee incontrano ingredienti antichi, che raccontano un territorio, il Parco Nazionale del Circeo..con le specialità che la nostra terra ci offre secondo stagione, preservando la biodiversità anche in cucina",
+            "text_style": "subtitle"
+          }
+        },
+        "16641329515adf3baf-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "IL LAB",
+            "button_link_1": "shopify:\/\/pages\/contact",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "f1fc6932-1a01-4596-a9c1-62a14b3c0d34",
+        "fb8f88a2-9ebc-4c9f-8f9d-96521c752109",
+        "16641329515adf3baf-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/08C35F7B-275C-4845-8540-41EB3B065F0B.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "bottom-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
     "1654588232c80d0d73": {
       "type": "slideshow",
       "blocks": {
@@ -186,29 +234,28 @@
         "padding_bottom": 24
       }
     },
-    "1664132951774f448a": {
-      "type": "image-banner",
+    "16547072421a698d53": {
+      "type": "rich-text",
       "blocks": {
-        "f1fc6932-1a01-4596-a9c1-62a14b3c0d34": {
+        "1654707242c8a529c7-0": {
           "type": "heading",
           "settings": {
-            "heading": "Benvenuti in laboratorio",
-            "heading_size": "h1"
+            "heading": "<p>RICERCA DI EQUILIBRIO TRA GUSTO E NUTRIZIONE<\/p>",
+            "heading_size": "h2"
           }
         },
-        "fb8f88a2-9ebc-4c9f-8f9d-96521c752109": {
+        "1654707242c8a529c7-1": {
           "type": "text",
           "settings": {
-            "text": "una gamma di prodotti speciali, naturali e introvabili.. nuove idee incontrano ingredienti antichi, che raccontano un territorio, il Prco Nazionale del Circeo..con le specialità che la nostra terra ci offre secondo stagione, preservando la biodiversità anche in cucina",
-            "text_style": "subtitle"
+            "text": "<p><strong>Per ogni ingrediente<\/strong> che la nostra terra ha da offrire, spezia, frutta o verdura, elaboriamo <strong>un'alchimia di gusto<\/strong>, dolce o salato, con o senza zafferano, la più buona possibile..<\/p><p>ma anche più <strong>digeribile<\/strong>, in armonia con le combinazioni alimentari, <\/p><p>e <strong>nutriente<\/strong>, grazie ad un'attenta selezione di materie prime non deteriorate dai processi industriali.<\/p>"
           }
         },
-        "16641329515adf3baf-2": {
-          "type": "buttons",
+        "1654707242c8a529c7-2": {
+          "type": "button",
           "settings": {
-            "button_label_1": "IL LAB",
-            "button_link_1": "shopify:\/\/pages\/contact",
-            "button_style_secondary_1": true,
+            "button_label": "chi siamo",
+            "button_link": "shopify:\/\/pages\/chi-siamo",
+            "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -216,22 +263,17 @@
         }
       },
       "block_order": [
-        "f1fc6932-1a01-4596-a9c1-62a14b3c0d34",
-        "fb8f88a2-9ebc-4c9f-8f9d-96521c752109",
-        "16641329515adf3baf-2"
+        "1654707242c8a529c7-0",
+        "1654707242c8a529c7-1",
+        "1654707242c8a529c7-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/08C35F7B-275C-4845-8540-41EB3B065F0B.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "bottom-left",
-        "show_text_box": true,
-        "desktop_content_alignment": "left",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": true
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "ecbd3109-f525-40cb-ae37-4005e0a678a0": {
@@ -773,48 +815,6 @@
         "padding_bottom": 36
       }
     },
-    "16547072421a698d53": {
-      "type": "rich-text",
-      "blocks": {
-        "1654707242c8a529c7-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>RICERCA DI EQUILIBRIO TRA GUSTO E NUTRIZIONE<\/p>",
-            "heading_size": "h2"
-          }
-        },
-        "1654707242c8a529c7-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Per ogni ingrediente<\/strong> che la nostra terra ha da offrire, spezia, frutta o verdura, elaboriamo <strong>un'alchimia di gusto<\/strong>, dolce o salato, con o senza zafferano, la più buona possibile..<\/p><p>ma anche più <strong>digeribile<\/strong>, in armonia con le combinazioni alimentari, <\/p><p>e <strong>nutriente<\/strong>, grazie ad un'attenta selezione di materie prime non deteriorate dai processi industriali.<\/p>"
-          }
-        },
-        "1654707242c8a529c7-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "chi siamo",
-            "button_link": "shopify:\/\/pages\/chi-siamo",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1654707242c8a529c7-0",
-        "1654707242c8a529c7-1",
-        "1654707242c8a529c7-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "165458823624187e23": {
       "type": "newsletter",
       "blocks": {
@@ -956,9 +956,10 @@
     }
   },
   "order": [
+    "1664132951774f448a",
     "1654588232c80d0d73",
     "1654697334b3514743",
-    "1664132951774f448a",
+    "16547072421a698d53",
     "ecbd3109-f525-40cb-ae37-4005e0a678a0",
     "image_banner",
     "16636110137def76e7",
@@ -973,7 +974,6 @@
     "166309304430b2921b",
     "166308941626df14d9",
     "1664874543d31c2cc5",
-    "16547072421a698d53",
     "165458823624187e23",
     "16545883497f8cf782",
     "166342159261e50f8c"
