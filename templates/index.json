@@ -54,7 +54,7 @@
         "63946fcb-a738-4f26-b458-eab5daf3c676": {
           "type": "featured_collection",
           "settings": {
-            "collection": "natale-2022"
+            "collection": "bakery"
           }
         },
         "94d26472-6eca-4a1f-bb6f-600e81aff262": {
@@ -66,31 +66,31 @@
         "165469733402a550c6-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "frontpage"
+            "collection": "cioccolato"
           }
         },
         "5e6f0c5b-63fa-4601-91a4-8a8cce430396": {
           "type": "featured_collection",
           "settings": {
-            "collection": "cioccolato-in-barrette-natural-chocolate"
+            "collection": "conserve-speciali-natural-ingredients"
           }
         },
         "d97483a2-fd72-45e9-8985-d800af919a0e": {
           "type": "featured_collection",
           "settings": {
-            "collection": "ciambelle-e-frollini"
+            "collection": "gluten-free"
           }
         },
         "165469733402a550c6-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "prodotti-da-forno"
+            "collection": "vegan"
           }
         },
         "165469733402a550c6-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "conserve-speciali-natural-ingredients"
+            "collection": "aperitivo"
           }
         },
         "3d0a40d6-06a5-4774-915c-547f32a07dd7": {
