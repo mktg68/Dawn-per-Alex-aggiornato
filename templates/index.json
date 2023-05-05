@@ -48,6 +48,81 @@
         "show_text_below": true
       }
     },
+    "1654697334b3514743": {
+      "type": "collection-list",
+      "blocks": {
+        "63946fcb-a738-4f26-b458-eab5daf3c676": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "natale-2022"
+          }
+        },
+        "94d26472-6eca-4a1f-bb6f-600e81aff262": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "blackbox-aperitivo"
+          }
+        },
+        "165469733402a550c6-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "frontpage"
+          }
+        },
+        "5e6f0c5b-63fa-4601-91a4-8a8cce430396": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cioccolato-in-barrette-natural-chocolate"
+          }
+        },
+        "d97483a2-fd72-45e9-8985-d800af919a0e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ciambelle-e-frollini"
+          }
+        },
+        "165469733402a550c6-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "prodotti-da-forno"
+          }
+        },
+        "165469733402a550c6-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "conserve-speciali-natural-ingredients"
+          }
+        },
+        "3d0a40d6-06a5-4774-915c-547f32a07dd7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "zafferano-del-circeo"
+          }
+        }
+      },
+      "block_order": [
+        "63946fcb-a738-4f26-b458-eab5daf3c676",
+        "94d26472-6eca-4a1f-bb6f-600e81aff262",
+        "165469733402a550c6-2",
+        "5e6f0c5b-63fa-4601-91a4-8a8cce430396",
+        "d97483a2-fd72-45e9-8985-d800af919a0e",
+        "165469733402a550c6-1",
+        "165469733402a550c6-0",
+        "3d0a40d6-06a5-4774-915c-547f32a07dd7"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "accent-1",
+        "show_view_all": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 24
+      }
+    },
     "1654588232c80d0d73": {
       "type": "slideshow",
       "blocks": {
@@ -157,81 +232,6 @@
         "change_slides_speed": 5,
         "show_text_below": true,
         "accessibility_info": "Alchimie di Circe transformation workshop and Zafferano del Circeo farm in the same place, the territory of the Circeo National Park"
-      }
-    },
-    "1654697334b3514743": {
-      "type": "collection-list",
-      "blocks": {
-        "63946fcb-a738-4f26-b458-eab5daf3c676": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "natale-2022"
-          }
-        },
-        "94d26472-6eca-4a1f-bb6f-600e81aff262": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "blackbox-aperitivo"
-          }
-        },
-        "165469733402a550c6-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "frontpage"
-          }
-        },
-        "5e6f0c5b-63fa-4601-91a4-8a8cce430396": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cioccolato-in-barrette-natural-chocolate"
-          }
-        },
-        "d97483a2-fd72-45e9-8985-d800af919a0e": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "ciambelle-e-frollini"
-          }
-        },
-        "165469733402a550c6-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "prodotti-da-forno"
-          }
-        },
-        "165469733402a550c6-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "conserve-speciali-natural-ingredients"
-          }
-        },
-        "3d0a40d6-06a5-4774-915c-547f32a07dd7": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "zafferano-del-circeo"
-          }
-        }
-      },
-      "block_order": [
-        "63946fcb-a738-4f26-b458-eab5daf3c676",
-        "94d26472-6eca-4a1f-bb6f-600e81aff262",
-        "165469733402a550c6-2",
-        "5e6f0c5b-63fa-4601-91a4-8a8cce430396",
-        "d97483a2-fd72-45e9-8985-d800af919a0e",
-        "165469733402a550c6-1",
-        "165469733402a550c6-0",
-        "3d0a40d6-06a5-4774-915c-547f32a07dd7"
-      ],
-      "settings": {
-        "title": "Le nostre linee",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 4,
-        "color_scheme": "inverse",
-        "show_view_all": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 20,
-        "padding_bottom": 24
       }
     },
     "16547072421a698d53": {
@@ -958,8 +958,8 @@
   },
   "order": [
     "1664132951774f448a",
-    "1654588232c80d0d73",
     "1654697334b3514743",
+    "1654588232c80d0d73",
     "16547072421a698d53",
     "ecbd3109-f525-40cb-ae37-4005e0a678a0",
     "image_banner",
