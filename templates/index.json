@@ -480,9 +480,9 @@
     "01b470cb-3fcb-4606-be39-6d99682f829d": {
       "type": "featured-collection",
       "settings": {
-        "title": "le nostre Box Aperitivo",
+        "title": "le nostre Black Box",
         "heading_size": "h1",
-        "description": "<p> <strong>- Box Aperitivo, Box Zafferano del Circeo, Box Degustazione..<\/strong><\/p><p><strong>- Vegan, Vegetariane o per tutti i gusti <\/strong><\/p><p><strong>- per un aperitivo veloce ma speciale, da abbinare al tuo vino preferito<\/strong><\/p>",
+        "description": "<p><strong>Una box per ogni occasione..<\/strong><\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "blackbox-aperitivo",
@@ -607,7 +607,7 @@
         "show_view_all": true,
         "view_all_style": "outline",
         "enable_desktop_slider": false,
-        "color_scheme": "accent-1",
+        "color_scheme": "inverse",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": false,
@@ -623,7 +623,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Alchimie di cioccolato.. Sortilegi della Maga",
-        "heading_size": "h1",
+        "heading_size": "h0",
         "description": "<p> - cioccolato monorigine Ecuador fondente 83% fairtrade <\/p><p>- frutta del Circeo, naturale, non trattata, direttamente dai nostri campi <\/p><p>- frutta secca italiana IGP, DOP o da circuito SlowFood <\/p><p>- praline low sugar: solo il minimo zucchero integrale di canna biologico <\/p><p>- vegan & gluten free <\/p><p>- 4 Sortilegi in ogni scatola <\/p><p>- 5 abbinamenti da scoprire<\/p>",
         "show_description": false,
         "description_style": "body",
