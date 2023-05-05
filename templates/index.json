@@ -450,6 +450,33 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "1663757696bfe0682b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "bakery",
+        "products_to_show": 12,
+        "columns_desktop": 5,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "01b470cb-3fcb-4606-be39-6d99682f829d": {
       "type": "featured-collection",
       "settings": {
@@ -473,33 +500,6 @@
         "enable_quick_add": true,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1663757696bfe0682b": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "prodotti-da-forno",
-        "products_to_show": 12,
-        "columns_desktop": 5,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -627,7 +627,7 @@
         "description": "<p> - cioccolato monorigine Ecuador fondente 83% fairtrade <\/p><p>- frutta del Circeo, naturale, non trattata, direttamente dai nostri campi <\/p><p>- frutta secca italiana IGP, DOP o da circuito SlowFood <\/p><p>- praline low sugar: solo il minimo zucchero integrale di canna biologico <\/p><p>- vegan & gluten free <\/p><p>- 4 Sortilegi in ogni scatola <\/p><p>- 5 abbinamenti da scoprire<\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "frontpage",
+        "collection": "cioccolato",
         "products_to_show": 12,
         "columns_desktop": 5,
         "full_width": true,
@@ -843,7 +843,7 @@
         "16545882361fd74d66-2"
       ],
       "settings": {
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -964,8 +964,8 @@
     "ecbd3109-f525-40cb-ae37-4005e0a678a0",
     "image_banner",
     "16636110137def76e7",
-    "01b470cb-3fcb-4606-be39-6d99682f829d",
     "1663757696bfe0682b",
+    "01b470cb-3fcb-4606-be39-6d99682f829d",
     "83c25334-a747-41bd-9357-6a11b6eeb650",
     "1664293030aab31b32",
     "16636064328a5ef542",
