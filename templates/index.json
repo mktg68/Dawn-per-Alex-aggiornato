@@ -48,79 +48,154 @@
         "show_text_below": true
       }
     },
-    "1654697334b3514743": {
-      "type": "collection-list",
+    "1663757696bfe0682b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "NATURAL BAKERY",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "bakery",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "01b470cb-3fcb-4606-be39-6d99682f829d": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "le nostre Black Box",
+        "heading_size": "h1",
+        "description": "<p><strong>Una box per ogni occasione..<\/strong><\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "blackbox-aperitivo",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "inverse",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16636064328a5ef542": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Le nostre Conserve, con zafferano e non solo..",
+        "heading_size": "h1",
+        "description": "<p>erbe selvatiche sott'olio, mostarde di frutta antica, ricette innovative per ingredienti naturali<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "conserve-speciali-natural-ingredients",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "accent-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
+        "padding_bottom": 12
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Alchimie di cioccolato.. Sortilegi della Maga",
+        "heading_size": "h1",
+        "description": "<p> - cioccolato monorigine Ecuador fondente 83% fairtrade <\/p><p>- frutta del Circeo, naturale, non trattata, direttamente dai nostri campi <\/p><p>- frutta secca italiana IGP, DOP o da circuito SlowFood <\/p><p>- praline low sugar: solo il minimo zucchero integrale di canna biologico <\/p><p>- vegan & gluten free <\/p><p>- 4 Sortilegi in ogni scatola <\/p><p>- 5 abbinamenti da scoprire<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "cioccolato",
+        "products_to_show": 12,
+        "columns_desktop": 5,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "inverse",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 16
+      }
+    },
+    "16547072421a698d53": {
+      "type": "rich-text",
       "blocks": {
-        "63946fcb-a738-4f26-b458-eab5daf3c676": {
-          "type": "featured_collection",
+        "1654707242c8a529c7-0": {
+          "type": "heading",
           "settings": {
-            "collection": "bakery"
+            "heading": "<p>RICERCA DI EQUILIBRIO TRA GUSTO E NUTRIZIONE<\/p>",
+            "heading_size": "h2"
           }
         },
-        "94d26472-6eca-4a1f-bb6f-600e81aff262": {
-          "type": "featured_collection",
+        "1654707242c8a529c7-1": {
+          "type": "text",
           "settings": {
-            "collection": "blackbox-aperitivo"
+            "text": "<p><strong>Per ogni ingrediente<\/strong> che la nostra terra ha da offrire, spezia, frutta o verdura, elaboriamo <strong>un'alchimia di gusto<\/strong>, dolce o salato, con o senza zafferano, la più buona possibile..<\/p><p>ma anche più <strong>digeribile<\/strong>, in armonia con le combinazioni alimentari, <\/p><p>e <strong>nutriente<\/strong>, grazie ad un'attenta selezione di materie prime non deteriorate dai processi industriali.<\/p>"
           }
         },
-        "165469733402a550c6-2": {
-          "type": "featured_collection",
+        "1654707242c8a529c7-2": {
+          "type": "button",
           "settings": {
-            "collection": "cioccolato"
-          }
-        },
-        "5e6f0c5b-63fa-4601-91a4-8a8cce430396": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "conserve-speciali-natural-ingredients"
-          }
-        },
-        "d97483a2-fd72-45e9-8985-d800af919a0e": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "gluten-free"
-          }
-        },
-        "165469733402a550c6-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "vegan"
-          }
-        },
-        "165469733402a550c6-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "aperitivo"
-          }
-        },
-        "3d0a40d6-06a5-4774-915c-547f32a07dd7": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "zafferano-del-circeo"
+            "button_label": "chi siamo",
+            "button_link": "shopify:\/\/pages\/chi-siamo",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "63946fcb-a738-4f26-b458-eab5daf3c676",
-        "94d26472-6eca-4a1f-bb6f-600e81aff262",
-        "165469733402a550c6-2",
-        "5e6f0c5b-63fa-4601-91a4-8a8cce430396",
-        "d97483a2-fd72-45e9-8985-d800af919a0e",
-        "165469733402a550c6-1",
-        "165469733402a550c6-0",
-        "3d0a40d6-06a5-4774-915c-547f32a07dd7"
+        "1654707242c8a529c7-0",
+        "1654707242c8a529c7-1",
+        "1654707242c8a529c7-2"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 4,
-        "color_scheme": "accent-1",
-        "show_view_all": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 20,
-        "padding_bottom": 24
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1654588232c80d0d73": {
@@ -234,120 +309,6 @@
         "accessibility_info": "Alchimie di Circe transformation workshop and Zafferano del Circeo farm in the same place, the territory of the Circeo National Park"
       }
     },
-    "16547072421a698d53": {
-      "type": "rich-text",
-      "blocks": {
-        "1654707242c8a529c7-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>RICERCA DI EQUILIBRIO TRA GUSTO E NUTRIZIONE<\/p>",
-            "heading_size": "h2"
-          }
-        },
-        "1654707242c8a529c7-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Per ogni ingrediente<\/strong> che la nostra terra ha da offrire, spezia, frutta o verdura, elaboriamo <strong>un'alchimia di gusto<\/strong>, dolce o salato, con o senza zafferano, la più buona possibile..<\/p><p>ma anche più <strong>digeribile<\/strong>, in armonia con le combinazioni alimentari, <\/p><p>e <strong>nutriente<\/strong>, grazie ad un'attenta selezione di materie prime non deteriorate dai processi industriali.<\/p>"
-          }
-        },
-        "1654707242c8a529c7-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "chi siamo",
-            "button_link": "shopify:\/\/pages\/chi-siamo",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1654707242c8a529c7-0",
-        "1654707242c8a529c7-1",
-        "1654707242c8a529c7-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-2",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "ecbd3109-f525-40cb-ae37-4005e0a678a0": {
-      "type": "featured-product",
-      "blocks": {
-        "template--16081813438692__ecbd3109-f525-40cb-ae37-4005e0a678a0-1667240803b5aa2385-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "template--16081813438692__ecbd3109-f525-40cb-ae37-4005e0a678a0-1667240803b5aa2385-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "template--16081813438692__ecbd3109-f525-40cb-ae37-4005e0a678a0-1667240803b5aa2385-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "template--16081813438692__ecbd3109-f525-40cb-ae37-4005e0a678a0-1667240803b5aa2385-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "template--16081813438692__ecbd3109-f525-40cb-ae37-4005e0a678a0-1667240803b5aa2385-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "template--16081813438692__ecbd3109-f525-40cb-ae37-4005e0a678a0-1667240803b5aa2385-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "template--16081813438692__ecbd3109-f525-40cb-ae37-4005e0a678a0-1667240803b5aa2385-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "template--16081813438692__ecbd3109-f525-40cb-ae37-4005e0a678a0-1667240803b5aa2385-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "template--16081813438692__ecbd3109-f525-40cb-ae37-4005e0a678a0-1667240803b5aa2385-0",
-        "template--16081813438692__ecbd3109-f525-40cb-ae37-4005e0a678a0-1667240803b5aa2385-1",
-        "template--16081813438692__ecbd3109-f525-40cb-ae37-4005e0a678a0-1667240803b5aa2385-2",
-        "template--16081813438692__ecbd3109-f525-40cb-ae37-4005e0a678a0-1667240803b5aa2385-3",
-        "template--16081813438692__ecbd3109-f525-40cb-ae37-4005e0a678a0-1667240803b5aa2385-4",
-        "template--16081813438692__ecbd3109-f525-40cb-ae37-4005e0a678a0-1667240803b5aa2385-5",
-        "template--16081813438692__ecbd3109-f525-40cb-ae37-4005e0a678a0-1667240803b5aa2385-6",
-        "template--16081813438692__ecbd3109-f525-40cb-ae37-4005e0a678a0-1667240803b5aa2385-7"
-      ],
-      "settings": {
-        "product": "frollini-zafferano-e-mandorle",
-        "color_scheme": "accent-1",
-        "secondary_background": false,
-        "hide_variants": false,
-        "enable_video_looping": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -450,60 +411,6 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "1663757696bfe0682b": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "bakery",
-        "products_to_show": 12,
-        "columns_desktop": 5,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": true,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "01b470cb-3fcb-4606-be39-6d99682f829d": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "le nostre Black Box",
-        "heading_size": "h1",
-        "description": "<p><strong>Una box per ogni occasione..<\/strong><\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "blackbox-aperitivo",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "inverse",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "83c25334-a747-41bd-9357-6a11b6eeb650": {
       "type": "image-with-text",
       "blocks": {
@@ -590,60 +497,6 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 48
-      }
-    },
-    "16636064328a5ef542": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Le nostre Conserve, con zafferano e non solo..",
-        "heading_size": "h1",
-        "description": "<p>erbe selvatiche sott'olio, mostarde di frutta antica, ricette innovative per ingredienti naturali<\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "conserve-speciali-natural-ingredients",
-        "products_to_show": 12,
-        "columns_desktop": 3,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
-        "color_scheme": "accent-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 32,
-        "padding_bottom": 12
-      }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Alchimie di cioccolato.. Sortilegi della Maga",
-        "heading_size": "h1",
-        "description": "<p> - cioccolato monorigine Ecuador fondente 83% fairtrade <\/p><p>- frutta del Circeo, naturale, non trattata, direttamente dai nostri campi <\/p><p>- frutta secca italiana IGP, DOP o da circuito SlowFood <\/p><p>- praline low sugar: solo il minimo zucchero integrale di canna biologico <\/p><p>- vegan & gluten free <\/p><p>- 4 Sortilegi in ogni scatola <\/p><p>- 5 abbinamenti da scoprire<\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "cioccolato",
-        "products_to_show": 12,
-        "columns_desktop": 5,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "inverse",
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 16
       }
     },
     "6a0ece8f-47b9-49f9-87a0-d9381ac58f4a": {
@@ -958,18 +811,16 @@
   },
   "order": [
     "1664132951774f448a",
-    "1654697334b3514743",
-    "1654588232c80d0d73",
-    "16547072421a698d53",
-    "ecbd3109-f525-40cb-ae37-4005e0a678a0",
-    "image_banner",
-    "16636110137def76e7",
     "1663757696bfe0682b",
     "01b470cb-3fcb-4606-be39-6d99682f829d",
-    "83c25334-a747-41bd-9357-6a11b6eeb650",
-    "1664293030aab31b32",
     "16636064328a5ef542",
     "featured_collection",
+    "16547072421a698d53",
+    "1654588232c80d0d73",
+    "image_banner",
+    "16636110137def76e7",
+    "83c25334-a747-41bd-9357-6a11b6eeb650",
+    "1664293030aab31b32",
     "6a0ece8f-47b9-49f9-87a0-d9381ac58f4a",
     "1663605865761cf546",
     "166309304430b2921b",
