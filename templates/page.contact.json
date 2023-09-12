@@ -16,10 +16,53 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "736d9d33-380d-4e96-b809-fcad16095f72": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16081813078244__736d9d33-380d-4e96-b809-fcad16095f72-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--16081813078244__736d9d33-380d-4e96-b809-fcad16095f72-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Per rimanere sempre aggiornato su promozioni e attività in location, scoprire i segreti delle nostre ricette e accompagnarci nel nostro lavoro quotidiano dal campo alla tavola, seguici anche su Instagram e Facebook.<\/em><\/p>"
+          }
+        },
+        "template--16081813078244__736d9d33-380d-4e96-b809-fcad16095f72-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16081813078244__736d9d33-380d-4e96-b809-fcad16095f72-heading-1",
+        "template--16081813078244__736d9d33-380d-4e96-b809-fcad16095f72-text-1",
+        "template--16081813078244__736d9d33-380d-4e96-b809-fcad16095f72-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "form"
+    "form",
+    "736d9d33-380d-4e96-b809-fcad16095f72"
   ]
 }
