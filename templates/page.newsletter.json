@@ -4,8 +4,59 @@
       "type": "main-page",
       "disabled": true,
       "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "5e7faece-1a96-4150-b34f-4fbe1e2b2689": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19923714310492__5e7faece-1a96-4150-b34f-4fbe1e2b2689-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--19923714310492__5e7faece-1a96-4150-b34f-4fbe1e2b2689-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--19923714310492__5e7faece-1a96-4150-b34f-4fbe1e2b2689-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19923714310492__5e7faece-1a96-4150-b34f-4fbe1e2b2689-heading-1",
+        "template--19923714310492__5e7faece-1a96-4150-b34f-4fbe1e2b2689-text-1",
+        "template--19923714310492__5e7faece-1a96-4150-b34f-4fbe1e2b2689-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Schermata_2023-09-06_alle_14.57.28.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "16639327183254e252": {
@@ -779,6 +830,7 @@
   },
   "order": [
     "main",
+    "5e7faece-1a96-4150-b34f-4fbe1e2b2689",
     "16639327183254e252",
     "16635226674e4994d7",
     "16635204158163d768",
