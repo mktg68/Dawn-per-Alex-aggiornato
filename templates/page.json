@@ -9,7 +9,6 @@
     },
     "16639327183254e252": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "1663932718da9f3516-0": {
           "type": "heading",
@@ -41,6 +40,7 @@
         "1663932718da9f3516-1",
         "1663932718da9f3516-2"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
@@ -52,7 +52,6 @@
     },
     "16635226674e4994d7": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "166352266759a1c30a-0": {
           "type": "slide",
@@ -93,6 +92,7 @@
         "166352266759a1c30a-0",
         "166352266759a1c30a-1"
       ],
+      "disabled": true,
       "settings": {
         "layout": "full_bleed",
         "slide_height": "adapt_image",
@@ -133,6 +133,7 @@
         "f31a5a23-e282-4d57-aebb-bf4eb0f72717",
         "dbe178d8-66f4-46f5-ba6c-fb7b40e58e6d"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Zafferano del Circeo - fioritura 2021",
         "heading_size": "h2",
@@ -145,7 +146,6 @@
     },
     "64899404-24a8-43e8-b3a8-d364003f018a": {
       "type": "highlight-banner",
-      "disabled": true,
       "blocks": {
         "template--16081813176548__64899404-24a8-43e8-b3a8-d364003f018a-166625983782544a2c-0": {
           "type": "image",
@@ -202,6 +202,7 @@
         "template--16081813176548__64899404-24a8-43e8-b3a8-d364003f018a-166625983782544a2c-2",
         "template--16081813176548__64899404-24a8-43e8-b3a8-d364003f018a-166625983782544a2c-3"
       ],
+      "disabled": true,
       "settings": {
         "padding_height": 40,
         "font_color": "#ffc200",
@@ -294,6 +295,7 @@
         "16635065659fab88cf-1",
         "02feec65-f49a-463c-9424-cbe002182338"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/33386A43-CEFC-40AC-A433-2AE0BB805238.jpg",
         "height": "adapt",
@@ -338,6 +340,7 @@
         "5aaf1ab6-5870-4889-b8c1-fd840cf87730",
         "31a48cc5-4f5b-42d4-bbbc-68816acbd091"
       ],
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -350,7 +353,6 @@
     },
     "16635064588f9cd162": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1663506458ad55dcb2-0": {
           "type": "heading",
@@ -380,6 +382,7 @@
         "1663506458ad55dcb2-1",
         "77d53abb-ed6a-48a0-892c-50ed505f371f"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/CE345EA8-732D-48A8-AA9A-8A440EC72B74.jpg",
         "height": "large",
@@ -424,6 +427,7 @@
         "e77ceabe-5a02-47b2-9f14-21ae44777e0f",
         "6e1d6dfc-b8d8-4b51-aaa2-4a4f9dd2fbd5"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Alchimie di natura ai piedi del Monte Circeo",
         "heading_size": "h2",
@@ -478,6 +482,7 @@
         "1663522788467f9811-0",
         "1663522788467f9811-1"
       ],
+      "disabled": true,
       "settings": {
         "layout": "grid",
         "slide_height": "medium",
@@ -490,7 +495,6 @@
     },
     "fc279420-6917-4e36-98d9-38cd634c5c4e": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-0": {
           "type": "column",
@@ -527,6 +531,7 @@
         "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-1",
         "template--16081813176548__fc279420-6917-4e36-98d9-38cd634c5c4e-1666260276f1c7d600-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "la nostra rete di aziende, produttori e amici della terra",
         "heading_size": "h1",
@@ -546,7 +551,6 @@
     },
     "3703ce24-76fd-47d9-b792-9dca838894dd": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-0": {
           "type": "column",
@@ -581,6 +585,7 @@
         "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-1",
         "template--16081813176548__3703ce24-76fd-47d9-b792-9dca838894dd-1666260276f1c7d600-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -600,7 +605,6 @@
     },
     "a3503ade-5199-4af7-8e6c-83c78d6cd632": {
       "type": "story-look",
-      "disabled": true,
       "blocks": {
         "fb63b69a-e582-42e2-a04e-83bd6f265e72": {
           "type": "storyLook",
@@ -617,6 +621,7 @@
       "block_order": [
         "fb63b69a-e582-42e2-a04e-83bd6f265e72"
       ],
+      "disabled": true,
       "settings": {
         "bg_shape": "",
         "bg_color": "#050000",
@@ -689,6 +694,7 @@
         "template--16081813176548__0b5f70a1-2251-43f0-9e09-2a8ee7f0bec1-166625983856334d84-0",
         "template--16081813176548__0b5f70a1-2251-43f0-9e09-2a8ee7f0bec1-166625983856334d84-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/CE345EA8-732D-48A8-AA9A-8A440EC72B74.jpg",
         "image_overlay_opacity": 0,
@@ -705,7 +711,6 @@
     },
     "1663506424cab30ed5": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "16635064241393d198-0": {
           "type": "heading",
@@ -726,6 +731,7 @@
         "16635064241393d198-0",
         "16635064241393d198-1"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
