@@ -121,7 +121,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "tutti",
+        "collection": "tutti-i-prodotti",
         "products_to_show": 12,
         "columns_desktop": 4,
         "full_width": false,
@@ -142,16 +142,6 @@
     },
     "165469213584581937": {
       "type": "apps",
-      "blocks": {
-        "ef61684d-be1f-4c5f-bf34-e2535dee31e2": {
-          "type": "shopify:\/\/apps\/ux-bundle\/blocks\/loyalty-program\/db56920d-adc9-4d8c-9ea5-72e338782247",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "ef61684d-be1f-4c5f-bf34-e2535dee31e2"
-      ],
       "settings": {
         "include_margins": true
       }
