@@ -110,7 +110,7 @@
         "description": "<p>erbe selvatiche sott'olio, mostarde di frutta antica, ricette innovative per ingredienti naturali<\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "conserve-speciali-natural-ingredients",
+        "collection": "conserve",
         "products_to_show": 12,
         "columns_desktop": 3,
         "full_width": true,
@@ -413,7 +413,6 @@
     },
     "83c25334-a747-41bd-9357-6a11b6eeb650": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--16081813438692__83c25334-a747-41bd-9357-6a11b6eeb650-1667238654270abb1c-0": {
           "type": "heading",
@@ -433,7 +432,7 @@
           "type": "button",
           "settings": {
             "button_label": "vai alle conserve",
-            "button_link": "shopify:\/\/collections\/conserve-speciali-natural-ingredients"
+            "button_link": "shopify:\/\/collections\/conserve"
           }
         }
       },
@@ -442,6 +441,7 @@
         "template--16081813438692__83c25334-a747-41bd-9357-6a11b6eeb650-1667238654270abb1c-1",
         "template--16081813438692__83c25334-a747-41bd-9357-6a11b6eeb650-1667238654270abb1c-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/ingrassaporci_ricetta_1.jpg",
         "height": "adapt",
@@ -458,7 +458,6 @@
     },
     "1664293030aab31b32": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1664293030cc572794-0": {
           "type": "heading",
@@ -487,6 +486,7 @@
         "1664293030cc572794-1",
         "1664293030cc572794-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/MOSTARDINA_PAR_HOME.jpg",
         "height": "adapt",
@@ -531,7 +531,6 @@
     },
     "1663605865761cf546": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "1663605865a8367454-2": {
           "type": "collection",
@@ -559,6 +558,7 @@
         "1663605865a8367454-1",
         "0a7d7ce0-19d5-4324-bddf-553790026937"
       ],
+      "disabled": true,
       "settings": {
         "heading": "White Magic.. cioccolato bianco allo Zafferano del Circeo",
         "heading_size": "h1",
@@ -584,7 +584,6 @@
     },
     "166308941626df14d9": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1663089416eb9e6c6b-0": {
           "type": "heading",
@@ -613,6 +612,7 @@
         "1663089416eb9e6c6b-1",
         "1663089416eb9e6c6b-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/14F635F8-4E1F-4B14-B7EF-10B66636D103.jpg",
         "height": "adapt",
@@ -763,7 +763,6 @@
     },
     "166342159261e50f8c": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "16634215929081cfe9-0": {
           "type": "heading",
@@ -796,6 +795,7 @@
         "16634215929081cfe9-1",
         "9b1ada10-083c-4f56-9192-a20f4d9062e8"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/CIRCEO_Erica.jpg",
         "image_overlay_opacity": 20,
