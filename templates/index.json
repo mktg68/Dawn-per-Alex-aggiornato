@@ -83,7 +83,7 @@
         "description": "<p><strong>Una box per ogni occasione..<\/strong><\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "blackbox-aperitivo",
+        "collection": "black-box-degustazione",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": true,
