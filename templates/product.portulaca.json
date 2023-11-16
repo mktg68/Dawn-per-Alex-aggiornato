@@ -3,11 +3,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "ffd9dddc-2a5f-4d8b-8e63-85610e0f8510": {
-          "type": "shopify:\/\/apps\/ux-bundle\/blocks\/product-rating\/db56920d-adc9-4d8c-9ea5-72e338782247",
-          "settings": {
-          }
-        },
         "vendor": {
           "type": "text",
           "settings": {
@@ -123,7 +118,6 @@
         }
       },
       "block_order": [
-        "ffd9dddc-2a5f-4d8b-8e63-85610e0f8510",
         "vendor",
         "title",
         "caption",
@@ -154,23 +148,12 @@
     },
     "165528594679f57dfa": {
       "type": "apps",
-      "blocks": {
-        "6d074eb3-b7bf-4006-93f9-b94bfd5c5f4e": {
-          "type": "shopify:\/\/apps\/ux-bundle\/blocks\/customer-reviews\/db56920d-adc9-4d8c-9ea5-72e338782247",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "6d074eb3-b7bf-4006-93f9-b94bfd5c5f4e"
-      ],
       "settings": {
         "include_margins": true
       }
     },
     "image-with-text": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "image-with-text-0": {
           "type": "heading",
@@ -191,6 +174,7 @@
         "image-with-text-0",
         "image-with-text-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/PORTULACA_PIANTA_2.jpg",
         "height": "small",
@@ -207,7 +191,6 @@
     },
     "multicolumn": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "column-0": {
           "type": "column",
@@ -232,6 +215,7 @@
         "column-0",
         "column-1"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -251,7 +235,6 @@
     },
     "16557461536bd74b28": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "68a720d4-ce73-4570-b4c8-2028c3fa4355": {
           "type": "image",
@@ -262,7 +245,7 @@
         "165574615363fd6adc-1": {
           "type": "product",
           "settings": {
-            "product": "sortilegi-dell-maga-mandarino-e-mandorla-box-da-5",
+            "product": "sortilegi-dell-maga-mandarino-e-mandorla",
             "second_image": false
           }
         },
@@ -279,6 +262,7 @@
         "165574615363fd6adc-1",
         "79ca00cb-378e-47ba-baa9-cab22882337d"
       ],
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -291,7 +275,6 @@
     },
     "1655743488338a647d": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1655743488b6ff413b-0": {
           "type": "heading",
@@ -320,6 +303,7 @@
         "1655743488b6ff413b-1",
         "1655743488b6ff413b-2"
       ],
+      "disabled": true,
       "settings": {
         "height": "adapt",
         "desktop_image_width": "medium",
