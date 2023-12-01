@@ -28,7 +28,6 @@
     },
     "16552162644ddf3b10": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "1655216264ddc18e6f-0": {
           "type": "column",
@@ -63,6 +62,7 @@
         "1655216264ddc18e6f-1",
         "1655216264ddc18e6f-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "i nostri prodotti",
         "heading_size": "h1",
@@ -82,7 +82,6 @@
     },
     "1655216474dd706bfa": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "51c4e4af-24bf-496a-98f3-83df65318eb5": {
           "type": "image",
@@ -94,7 +93,7 @@
         "16552164745d18be7b-1": {
           "type": "product",
           "settings": {
-            "product": "sortilegi-della-maga-white-magic-mandarino-e-mandorla",
+            "product": "praline-cioccolato-bianco-mandarino-e-mandorla",
             "second_image": true
           }
         },
@@ -110,6 +109,7 @@
         "16552164745d18be7b-1",
         "b6fff0c9-1140-435c-9f74-0114e573c113"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Nuovo prodotto",
         "heading_size": "h1",
