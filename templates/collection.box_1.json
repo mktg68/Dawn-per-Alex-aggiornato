@@ -38,7 +38,6 @@
     },
     "16641214670782f926": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1664121467f5afeea0-1": {
           "type": "text",
@@ -51,6 +50,7 @@
       "block_order": [
         "1664121467f5afeea0-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/MOSTARDINA_PAR_HOME.jpg",
         "height": "adapt",
@@ -67,7 +67,6 @@
     },
     "1664121769144bf9b6": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "16641217693894efed-1": {
           "type": "text",
@@ -80,6 +79,7 @@
       "block_order": [
         "16641217693894efed-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Ambra_panoramica.jpg",
         "height": "adapt",
@@ -96,7 +96,6 @@
     },
     "1664122483255df260": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "166412248292e5ed30-1": {
           "type": "slide",
@@ -120,6 +119,7 @@
       "block_order": [
         "166412248292e5ed30-1"
       ],
+      "disabled": true,
       "settings": {
         "layout": "full_bleed",
         "slide_height": "small",
@@ -132,7 +132,6 @@
     },
     "166412314902f62293": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1664123149ae43e864-0": {
           "type": "heading",
@@ -145,7 +144,7 @@
           "type": "button",
           "settings": {
             "button_label": "MAYONNAISE ALLO ZAFFERANO",
-            "button_link": "shopify:\/\/products\/mayonnaise-allo-zafferano-del-circeo"
+            "button_link": "shopify:\/\/products\/mayonnaise-zafferano-circeo-glutenfree"
           }
         }
       },
@@ -153,6 +152,7 @@
         "1664123149ae43e864-0",
         "1664123149ae43e864-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/20DCD67A-F8C0-4A58-BFF9-14A55E70D28D.jpg",
         "height": "small",

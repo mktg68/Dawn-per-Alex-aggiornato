@@ -477,7 +477,7 @@
           "type": "button",
           "settings": {
             "button_label": "vai",
-            "button_link": "shopify:\/\/products\/mostardina-di-annurche"
+            "button_link": "shopify:\/\/products\/mostarda-mele-annurche"
           }
         }
       },
@@ -548,7 +548,7 @@
         "0a7d7ce0-19d5-4324-bddf-553790026937": {
           "type": "product",
           "settings": {
-            "product": "praline-cioccolato-bianco-limone-e-pistacchio",
+            "product": "praline-cioccolato-bianco-limone-zafferano-pistacchio",
             "second_image": false
           }
         }
@@ -603,7 +603,7 @@
           "type": "button",
           "settings": {
             "button_label": "shop",
-            "button_link": "shopify:\/\/products\/mayonnaise-allo-zafferano-del-circeo"
+            "button_link": "shopify:\/\/products\/mayonnaise-zafferano-circeo-glutenfree"
           }
         }
       },
