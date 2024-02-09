@@ -3,11 +3,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "8504023e-46e8-4bcc-a086-d7efd9007251": {
-          "type": "shopify:\/\/apps\/ux-bundle\/blocks\/product-rating\/db56920d-adc9-4d8c-9ea5-72e338782247",
-          "settings": {
-          }
-        },
         "vendor": {
           "type": "text",
           "disabled": true,
@@ -136,7 +131,6 @@
         }
       },
       "block_order": [
-        "8504023e-46e8-4bcc-a086-d7efd9007251",
         "vendor",
         "title",
         "caption",
@@ -169,16 +163,6 @@
     "1654686536910665d1": {
       "type": "apps",
       "disabled": true,
-      "blocks": {
-        "0e5eae52-45ce-4344-8522-893dd3882e47": {
-          "type": "shopify:\/\/apps\/ux-bundle\/blocks\/customer-reviews\/db56920d-adc9-4d8c-9ea5-72e338782247",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "0e5eae52-45ce-4344-8522-893dd3882e47"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -385,7 +369,7 @@
       "settings": {
         "heading": "Blog posts",
         "heading_size": "h1",
-        "blog": "notizie",
+        "blog": "alimentazione-naturale",
         "post_limit": 3,
         "columns_desktop": 3,
         "color_scheme": "background-1",
@@ -399,7 +383,6 @@
     },
     "6127069b-c328-4bc9-b634-b7732db019cd": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--16082098225380__6127069b-c328-4bc9-b634-b7732db019cd-16650713878d5ba3af-0": {
           "type": "heading",
@@ -428,6 +411,7 @@
         "template--16082098225380__6127069b-c328-4bc9-b634-b7732db019cd-16650713878d5ba3af-1",
         "template--16082098225380__6127069b-c328-4bc9-b634-b7732db019cd-16650713878d5ba3af-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/A8D199FD-5FC0-43A1-A171-9E8B82912E4E.jpg",
         "height": "adapt",

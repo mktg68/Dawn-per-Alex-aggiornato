@@ -3,11 +3,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "ffd9dddc-2a5f-4d8b-8e63-85610e0f8510": {
-          "type": "shopify:\/\/apps\/ux-bundle\/blocks\/product-rating\/db56920d-adc9-4d8c-9ea5-72e338782247",
-          "settings": {
-          }
-        },
         "vendor": {
           "type": "text",
           "settings": {
@@ -123,7 +118,6 @@
         }
       },
       "block_order": [
-        "ffd9dddc-2a5f-4d8b-8e63-85610e0f8510",
         "vendor",
         "title",
         "caption",
@@ -155,16 +149,6 @@
     "165528594679f57dfa": {
       "type": "apps",
       "disabled": true,
-      "blocks": {
-        "6d074eb3-b7bf-4006-93f9-b94bfd5c5f4e": {
-          "type": "shopify:\/\/apps\/ux-bundle\/blocks\/customer-reviews\/db56920d-adc9-4d8c-9ea5-72e338782247",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "6d074eb3-b7bf-4006-93f9-b94bfd5c5f4e"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -208,7 +192,6 @@
     },
     "multicolumn": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "column-0": {
           "type": "column",
@@ -233,6 +216,7 @@
         "column-0",
         "column-1"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -292,7 +276,6 @@
     },
     "1655743488338a647d": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1655743488b6ff413b-0": {
           "type": "heading",
@@ -321,6 +304,7 @@
         "1655743488b6ff413b-1",
         "1655743488b6ff413b-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/DE48C10D-A7EB-4741-8DD6-BA70DB4B2156.jpg",
         "height": "small",
@@ -358,7 +342,7 @@
       "settings": {
         "heading": "Blog posts",
         "heading_size": "h1",
-        "blog": "notizie",
+        "blog": "alimentazione-naturale",
         "post_limit": 3,
         "columns_desktop": 3,
         "color_scheme": "background-1",
