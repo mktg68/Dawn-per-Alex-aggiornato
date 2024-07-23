@@ -119,7 +119,7 @@
         "description": "<p>erbe selvatiche sott'olio, mostarde di frutta antica, ricette innovative per ingredienti naturali<\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "conserve",
+        "collection": "conserve-naturali-barattoli-salse-condimenti",
         "products_to_show": 12,
         "columns_desktop": 3,
         "full_width": true,
@@ -441,7 +441,7 @@
           "type": "button",
           "settings": {
             "button_label": "vai alle conserve",
-            "button_link": "shopify:\/\/collections\/conserve"
+            "button_link": "shopify:\/\/collections\/conserve-naturali-barattoli-salse-condimenti"
           }
         }
       },
