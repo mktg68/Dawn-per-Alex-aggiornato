@@ -286,7 +286,7 @@
               {%- for block in section.blocks -%}
               {%- if block.settings.title contains i -%}
 
-              {%- capture 'answer_input' -%}
+              {%- capture answer_input -%}
               <div class="quiz-answer" {{ block.shopify_attributes }}>
                 {%- assign answer = block.settings.answer -%}
                 {%- assign q_identifier = block.settings.title | handle -%}
@@ -334,9 +334,9 @@
               {%- assign prev_index0 = question_index0 | minus: 1 -%}
               {%- assign next_index = question_index | plus: 1 -%}
               {%- assign prev_index = question_index | minus: 1 -%}
-              {%- capture 'prev' -%}<a class="quiz-control" href="#question-{{ prev_index }}" data-quiz-index="{{ prev_index0 }}">{{ 'prev_html' | t }}</a>{%- endcapture -%}
-              {%- capture 'next' -%}<a class="quiz-control" href="#question-{{ next_index }}" data-quiz-index="{{ next_index0 }}">{{ 'next_html' | t }}</a>{%- endcapture -%}
-              {%- capture 'done' -%}<a class="quiz-control" href="#results" data-quiz-index="{{ question_total }}" data-show-results>{{ 'done_html' | t }}</a>{%- endcapture -%}
+              {%- capture prev -%}<a class="quiz-control" href="#question-{{ prev_index }}" data-quiz-index="{{ prev_index0 }}">{{ 'prev_html' | t }}</a>{%- endcapture -%}
+              {%- capture next -%}<a class="quiz-control" href="#question-{{ next_index }}" data-quiz-index="{{ next_index0 }}">{{ 'next_html' | t }}</a>{%- endcapture -%}
+              {%- capture done -%}<a class="quiz-control" href="#results" data-quiz-index="{{ question_total }}" data-show-results>{{ 'done_html' | t }}</a>{%- endcapture -%}
 
               <div class="text-center">
               {%- if question_index == 1 and question_index != question_total -%}
@@ -675,3 +675,22 @@
   }
 }
 {% endschema %}
+{% comment %}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{%- capture 'answer_input' -%}"
+  to: "{%- capture answer_input -%}"
+  position: 6394..6422
+- from: "{%- capture 'prev' -%}"
+  to: "{%- capture prev -%}"
+  position: 9521..9541
+- from: "{%- capture 'next' -%}"
+  to: "{%- capture next -%}"
+  position: 9693..9713
+- from: "{%- capture 'done' -%}"
+  to: "{%- capture done -%}"
+  position: 9865..9885
+{% endcomment %}

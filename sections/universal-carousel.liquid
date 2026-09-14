@@ -35,7 +35,7 @@ data-counter-type="{{section.settings.counter_type}}">
 {%- for product in section.settings.collection.products limit: section.settings.products_count-%}
 <li class="carouselSlider"
 
-id="slide-{% increment %}">
+id="slide-{% increment renamed_variable_empty %}">
 {% assign product_image = product.selected_or_first_available_variant %}
 <a class="productBox" href="{{ product.url | within: collection }}" style="text-decoration: none;">
 <img class="carouselImage" src="{{ product.featured_image | img_url: 'master'}}"
@@ -49,7 +49,7 @@ alt="{{ product.images.alt | escape }}"/>
 {% endfor %}
 {% when "card" %}
 {% if section.settings.slide_number > 5 %}
-{% assign section.settings.slide_number = 4 %}
+{% assign renamed_variable_section_2e_settings_2e_slide_number = 4 %}
 {% else %}
 {% assign slide_number = section.settings.slide_number %}
 {% endif %}
@@ -62,21 +62,21 @@ alt="{{ product.images.alt | escape }}"/>
 {% when 6 %} four
 {% when 7 %} four
 {% endcase %}"
-id="slide-{% increment %}">
+id="slide-{% increment renamed_variable_empty %}">
 <div class="cardWrapper">
 {% assign img_url = block.settings.card_image %}
 <div class="cardImageWrapper">
 <img class="cardImage"
 src="{{img_url | img_url: master}}"
 srcset="{% case img_url.width %}
-{% when >= 375 %}{{ img_url | img_url: '375x' }}375w,
-{% when >= 750 %}{{ img_url | img_url: '750x' }}750w,
-{% when >= 1100 %}{{ img_url | img_url: '1100x' }}1100w,
-{% when >= 1500 %}{{ img_url | img_url: '1500x' }}1500w,
-{% when >= 1780 %}{{ img_url | img_url: '1780x' }}1780w,
-{% when >= 2000 %}{{ img_url | img_url: '2000x' }}2000w,
-{% when >= 3000 %}{{ img_url | img_url: '3000x' }} 3000w,
-{% when >= 3840 %}{{ img_url | img_url: '3840x' }}3840w,
+{% when nil %}{{ img_url | img_url: '375x' }}375w,
+{% when nil %}{{ img_url | img_url: '750x' }}750w,
+{% when nil %}{{ img_url | img_url: '1100x' }}1100w,
+{% when nil %}{{ img_url | img_url: '1500x' }}1500w,
+{% when nil %}{{ img_url | img_url: '1780x' }}1780w,
+{% when nil %}{{ img_url | img_url: '2000x' }}2000w,
+{% when nil %}{{ img_url | img_url: '3000x' }} 3000w,
+{% when nil %}{{ img_url | img_url: '3840x' }}3840w,
 {% else %} {{ img_url | img_url: 'master' }}w,
 {% endcase %}"
 loading="lazy"
@@ -252,4 +252,43 @@ alt="{{ img_url.alt | escape }}">
 }
 ]
 }
-{% endschema %}
+{% endschema %}{%- comment -%}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{% increment %}"
+  to: "{% increment renamed_variable_empty %}"
+  position: 1408..1446
+- from: "{% assign section.settings.slide_number = 4 %}"
+  to: "{% assign renamed_variable_section_2e_settings_2e_slide_number = 4 %}"
+  position: 1985..2054
+- from: "{% increment %}"
+  to: "{% increment renamed_variable_empty %}"
+  position: 2353..2391
+- from: "{% when >= 375 %}"
+  to: "{% when nil %}"
+  position: 2592..2606
+- from: "{% when >= 750 %}"
+  to: "{% when nil %}"
+  position: 2643..2657
+- from: "{% when >= 1100 %}"
+  to: "{% when nil %}"
+  position: 2694..2708
+- from: "{% when >= 1500 %}"
+  to: "{% when nil %}"
+  position: 2747..2761
+- from: "{% when >= 1780 %}"
+  to: "{% when nil %}"
+  position: 2800..2814
+- from: "{% when >= 2000 %}"
+  to: "{% when nil %}"
+  position: 2853..2867
+- from: "{% when >= 3000 %}"
+  to: "{% when nil %}"
+  position: 2906..2920
+- from: "{% when >= 3840 %}"
+  to: "{% when nil %}"
+  position: 2960..2974
+{%- endcomment -%}
